@@ -4,7 +4,7 @@ layout: post
 created_at: Thu 13 Dec 2012 16:00:00 CET
 author: Mathias Meyer
 twitter: roidrage
-permalink: blog/2012-12-13-an-update-on-infrastructure-changes
+permalink: /2012-12-13-an-update-on-infrastructure-changes
 ---
 We've had our share of issues over the last few months, and it's time we give 
 you an update on what we've been doing about them.

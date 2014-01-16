@@ -2,7 +2,7 @@
 title: Announcing Python and Perl support on Travis CI
 layout: en
 created_at: Mon Feb 27 15:00:00 CET 2012
-permalink: blog/announcing_python_and_perl_support_on_travis_ci
+permalink: /announcing_python_and_perl_support_on_travis_ci
 ---
 
 Just shy of a week ago we announced support for Java, Scala, and Groovy. Well, we thought to ourselves 'we already support 8 languages, why not more?', and MOAR you shall have!

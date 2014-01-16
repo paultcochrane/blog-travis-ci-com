@@ -1,7 +1,7 @@
 ---
 title: Staff Picks (and a little Birthday treat)
 created_at: Wed 10 Jul 2013 16:00:00 CEST
-permalink: blog/2013-07-10-staff-picks
+permalink: /2013-07-10-staff-picks
 author: Mathias Meyer
 twitter: roidrage
 layout: post

@@ -3,7 +3,7 @@ title: An Update on Travis Pro
 author: Mathias Meyer
 twitter: roidrage
 created_at: Thu Mar 18 2013 16:00:00 CET
-permalink: blog/2013-03-18-an-update-on-travis-pro
+permalink: /2013-03-18-an-update-on-travis-pro
 layout: post
 ---
 It's been a while since our last update on Travis CI for private repositories,

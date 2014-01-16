@@ -4,7 +4,7 @@ created_at: Wed May 18 2013 18:00 CEST
 author: Mathias Meyer
 twitter: roidrage
 layout: post
-permalink: blog/2013-05-18-coffee-office-hours
+permalink: /2013-05-18-coffee-office-hours
 ---
 Josh, the long-lost child of Travis, has returned to Berlin and would love to
 meet you all over a coffee next Thursday, May 23.

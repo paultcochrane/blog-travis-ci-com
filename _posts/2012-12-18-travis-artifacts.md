@@ -4,7 +4,7 @@ layout: post
 created_at: Tue 18 Dec 2012 16:00:00 CET
 author: Piotr Sarnacki
 twitter: drogus
-permalink: blog/2012-12-18-travis-artifacts
+permalink: /2012-12-18-travis-artifacts
 ---
 
 TL;DR Travis prepares a solution to easily upload files produced while

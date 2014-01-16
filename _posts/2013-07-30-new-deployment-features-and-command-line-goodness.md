@@ -4,7 +4,7 @@ author: Konstantin Haase
 twitter: konstantinhaase
 created_at: Tue 30 Jul 2013 18:00:00 CEST
 layout: post
-permalink: blog/2013-07-30-new-deployment-features-and-command-line-goodness
+permalink: /2013-07-30-new-deployment-features-and-command-line-goodness
 ---
 
 Travis CI is moving fast, quickly approaching the 70,000 project mark. To make sure you get the best CI experience, we want to keep you up to date with what's going on. So here is a few things that landed recently.

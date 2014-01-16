@@ -2,7 +2,7 @@
 title: Support for C, C++ and Go projects
 layout: post
 created_at: Wed Jul 25 03:00:00 CDT 2012
-permalink: blog/support_for_go_c_and_cpp
+permalink: /support_for_go_c_and_cpp
 author: Michael Klishin
 twitter: michaelklishin
 ---

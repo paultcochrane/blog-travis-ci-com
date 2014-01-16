@@ -2,7 +2,7 @@
 title: Thank you for the AWESOME support
 layout: post
 created_at: Tue May 22 18:30:00 CEST 2012
-permalink: blog/thank-you-for-the-awesome-support
+permalink: /thank-you-for-the-awesome-support
 author: Josh Kalderimis
 twitter: joshkalderimis
 ---

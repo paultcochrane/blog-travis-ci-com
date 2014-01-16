@@ -3,7 +3,7 @@ title: "Speed Up Your Builds: Cache Your Dependencies"
 created_at: Thu 5 Dec 2013 17:00:00 CET
 author: Mathias Meyer
 twitter: roidrage
-permalink: blog/2013-12-05-speed-up-your-builds-cache-your-dependencies
+permalink: /2013-12-05-speed-up-your-builds-cache-your-dependencies
 layout: post
 ---
 A large amount of time of a normal build is spent installing dependencies, be it

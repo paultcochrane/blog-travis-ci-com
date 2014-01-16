@@ -4,7 +4,7 @@ created_at: Thur 10 Oct 2013 17:00:00 CET
 author: Josh Kalderimis
 twitter: j2h
 layout: post
-permalink: blog/2013-10-10-the-travis-ci-family-is-growing
+permalink: /2013-10-10-the-travis-ci-family-is-growing
 ---
 
 We've recently made some exciting additions to the Travis CI family and we thought that called for some introductions. With our new teammates settled in, we're getting pretty excited about the growth of Travis CI and the new things to come! They've got big things planned for Travis CI's future.

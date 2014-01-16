@@ -3,7 +3,7 @@ title: Test Your Java Libraries on Java 8
 created_at: Tue 26 Nov 2013 17:00:00 CET
 author: Mathias Meyer
 twitter: roidrage
-permalink: blog/2013-11-26-test-your-java-libraries-on-java-8
+permalink: /2013-11-26-test-your-java-libraries-on-java-8
 layout: post
 ---
 <figure class="right smaller">

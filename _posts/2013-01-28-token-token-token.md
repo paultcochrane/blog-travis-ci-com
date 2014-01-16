@@ -4,7 +4,7 @@ created_at: Mon Jan 28 17:00:00 CET 2013
 layout: post
 author: Konstantin Haase
 twitter: konstantinhaase
-permalink: blog/2013-01-28-token-token-token
+permalink: /2013-01-28-token-token-token
 ---
 
 At Travis CI, when we say "token", we can mean different things. So I thought I'll just explain real quick what we could refer to and why there's even a difference.

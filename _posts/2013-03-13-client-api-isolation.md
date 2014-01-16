@@ -1,6 +1,6 @@
 ---
 title: Client and API isolation
-permalink: blog/2013-03-13-client-and-api-isolation
+permalink: /2013-03-13-client-and-api-isolation
 created_at: Wed 13 Mar 2013 18:00:00 GMT
 author: Piotr Sarnacki
 twitter: drogus

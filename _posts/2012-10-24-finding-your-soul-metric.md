@@ -1,6 +1,6 @@
 ---
 title: Finding Your Soul Metric
-permalink: blog/2012-10-24-finding-your-soul-metric
+permalink: /2012-10-24-finding-your-soul-metric
 author: Mathias Meyer
 twitter: roidrage
 created_at: Wed Oct 24 2012 17:00:00 CEST

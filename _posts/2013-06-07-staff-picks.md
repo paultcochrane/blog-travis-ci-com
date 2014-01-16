@@ -4,7 +4,7 @@ created_at: Fri 7 Jun 2013 16:00:00 CEST
 author: Mathias Meyer
 twitter: roidrage
 layout: post
-permalink: blog/2013-06-07-staff-picks
+permalink: /2013-06-07-staff-picks
 ---
 Before the weekend starts off (with beautiful weather in Berlin), here are some
 links for you:

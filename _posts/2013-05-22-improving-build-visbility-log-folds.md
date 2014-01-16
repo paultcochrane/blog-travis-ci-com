@@ -4,7 +4,7 @@ author: Mathias Meyer
 twitter: roidrage
 created_at: Web 22 May 2013 16:00 CEST
 layout: post
-permalink: blog/2013-05-22-improving-build-visibility-log-folds
+permalink: /2013-05-22-improving-build-visibility-log-folds
 ---
 The log output is an integral part of a build, and we've done quite a few
 iterations on how to display it in the best possible way.

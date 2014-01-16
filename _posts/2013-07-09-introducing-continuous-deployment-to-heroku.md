@@ -4,7 +4,7 @@ author: Konstantin Haase
 twitter: konstantinhaase
 created_at: Mon 09 Jul 2013 16:25:00 CEST
 layout: post
-permalink: blog/2013-07-09-introducing-continuous-deployment-to-heroku
+permalink: /2013-07-09-introducing-continuous-deployment-to-heroku
 ---
 
 <figure class="small right">

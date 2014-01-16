@@ -3,7 +3,7 @@ title: "Improve Your Code Quality: Tracking Test Coverage with Travis CI and Cod
 created_at: Thu 12 Sep 2013 20:00:00 CEST
 author: Mathias Meyer
 twitter: roidrage
-permalink: blog/2013-09-12-improve-your-codes-quality-tracking-test-coverage-with-travis-ci-and-code-climate
+permalink: /2013-09-12-improve-your-codes-quality-tracking-test-coverage-with-travis-ci-and-code-climate
 layout: post
 ---
 With continuous integration and unit testing, tracking how much of your code is

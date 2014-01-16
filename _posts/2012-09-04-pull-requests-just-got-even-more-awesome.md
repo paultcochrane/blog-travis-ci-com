@@ -2,7 +2,7 @@
 title: Pull Requests Just Got Even More Awesome
 author: Mathias Meyer
 twitter: roidrage
-permalink: blog/2012-09-04-pull-requests-just-got-even-more-awesome
+permalink: /2012-09-04-pull-requests-just-got-even-more-awesome
 layout: post
 created_at: Tue Sep 04 18:00:00 CEST 2012
 ---

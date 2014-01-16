@@ -3,7 +3,7 @@ title: "Continuous Deployment: PyPI, NPM and more"
 created_at: Wed 2 Oct 2013 19:15:00 CET
 author: Aaron Hill
 layout: post
-permalink: blog/2013-10-02-continuous-deployment-pypi-npm-and-more
+permalink: /2013-10-02-continuous-deployment-pypi-npm-and-more
 ---
 
 Recently, we've been adding new providers and other goodies to our continuous deployment.

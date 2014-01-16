@@ -4,7 +4,7 @@ created_at: Sun Dec 30 12:00:00 CET 2012
 layout: post
 author: Sven Fuchs
 twitter: svenfuchs
-permalink: blog/2012-12-30-2012-at-travis-ci-what-a-blast
+permalink: /2012-12-30-2012-at-travis-ci-what-a-blast
 ---
 
 When I started collecting some facts for this year's retrospective, I couldn't

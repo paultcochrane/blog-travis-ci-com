@@ -4,7 +4,7 @@ created_at: Fri 27 Sep 2013 06:00:00
 author: Henrik Hodne
 twitter: henrikhodne
 layout: post
-permalink: blog/2013-09-27-state-of-the-mac-builds
+permalink: /2013-09-27-state-of-the-mac-builds
 ---
 
 Hello everyone! It's been almost half a year since we [shipped Mac, iOS and RubyMotion testing](/blog/introducing-mac-ios-rubymotion-testing/) (time really flies, doesn't it?). Since then we've had almost 30,000 Mac builds on travis-ci.org and nearly 13,000 Mac builds on travis-ci.com.

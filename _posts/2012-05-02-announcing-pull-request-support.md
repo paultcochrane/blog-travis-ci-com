@@ -2,7 +2,7 @@
 title: Announcing Pull Request Support
 layout: post
 created_at: Tue May 02 18:30:00 CEST 2012
-permalink: blog/announcing-pull-request-support
+permalink: /announcing-pull-request-support
 author: Konstantin Haase
 twitter: konstantinhaase
 ---

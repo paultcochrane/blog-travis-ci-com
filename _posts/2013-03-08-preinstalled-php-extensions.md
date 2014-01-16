@@ -1,6 +1,6 @@
 ---
 title: Preinstalled PHP extensions
-permalink: blog/2013-03-08-preinstalled-php-extensions
+permalink: /2013-03-08-preinstalled-php-extensions
 created_at: Wed Mar 06 18:56:00 CET 2013
 author: Loïc Frering
 twitter: loicfrering

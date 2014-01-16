@@ -3,7 +3,7 @@ title: "Post-Mortem: Build Outage and Security Advisory"
 author: Mathias Meyer
 twitter: roidrage
 created_at: Thu Jan 31 2013 13:00:00 CET
-permalink: blog/2013-01-31-post-mortem-build-outage
+permalink: /2013-01-31-post-mortem-build-outage
 layout: post
 ---
 Yesterday a security vulnerability was detected on RubyGems.org, hosting

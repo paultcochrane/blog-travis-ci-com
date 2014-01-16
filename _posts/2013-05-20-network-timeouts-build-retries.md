@@ -4,7 +4,7 @@ author: Mathias Meyer
 twitter: roidrage
 created_at: Mon 20 May 2013 16:00 CEST
 layout: post
-permalink: blog/2013-05-20-network-timeouts-build-retries
+permalink: /2013-05-20-network-timeouts-build-retries
 ---
 Since our move to our new infrastructure setup, we've seen spurious errors come
 up in builds on Travis CI. They mostly made themselves known by way of network

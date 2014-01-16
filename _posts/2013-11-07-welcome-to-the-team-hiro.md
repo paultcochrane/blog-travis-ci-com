@@ -4,7 +4,7 @@ created_at: Thur 7 Nov 2013 17:00:00 CET
 author: Josh Kalderimis
 twitter: j2h
 layout: post
-permalink: blog/2013-11-07-welcome-to-the-team-hiro
+permalink: /2013-11-07-welcome-to-the-team-hiro
 ---
 
 It feels like only yesterday we [welcomed Piotr, Anika and Justine](/blog/2013-10-10-the-travis-ci-family-is-growing/) to the team, well, now it's time to welcome another awesome team member!

@@ -2,7 +2,7 @@
 title: Upcoming CI Environment Updates
 layout: post
 created_at: Sat Aug 25 12:00:00 CDT 2012
-permalink: blog/august-2012-upcoming-ci-environment-updates
+permalink: /august-2012-upcoming-ci-environment-updates
 author: Michael Klishin
 twitter: michaelklishin
 ---

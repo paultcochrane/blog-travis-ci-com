@@ -4,7 +4,7 @@ created_at: Fri 20 Dec 2013 17:18:00 CET
 author: Mathias Meyer
 twitter: roidrage
 layout: post
-permalink: blog/2013-12-20-a-thank-you-to-the-services-that-make-travis-ci-possible
+permalink: /2013-12-20-a-thank-you-to-the-services-that-make-travis-ci-possible
 ---
 Travis CI is a hosted services, but also relies on other hosted services to be
 up and running.

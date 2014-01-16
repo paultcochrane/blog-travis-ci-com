@@ -1,6 +1,6 @@
 ---
 title: Last Minute Coffee Office Hours in San Francisco
-permalink: blog/2013-02-15-last-minute-coffee-office-hours
+permalink: /2013-02-15-last-minute-coffee-office-hours
 created_at: Fri 15 Feb 2013 11:00:00 PST
 author: Josh Kalderimis
 twitter: j2h

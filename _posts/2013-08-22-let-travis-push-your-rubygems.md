@@ -3,7 +3,7 @@ title: "Let Travis Push your RubyGems"
 author: Aaron Hill
 created_at: Thu 22 Aug 2013 19:15 CET
 layout: post
-permalink: blog/2013-08-22-let-travis-push-your-rubygems
+permalink: /2013-08-22-let-travis-push-your-rubygems
 ---
 
 With Travis CI, you are able to automatically deploy your applications to [Heroku](/blog/2013-07-09-introducing-continuous-deployment-to-heroku), [Nodejitsu](/blog/2013-07-22-deploy-your-apps-to-nodejitsu), and [Openshift](/blog/2013-07-25-more-deployment-goodness-announcing-openshift-support).

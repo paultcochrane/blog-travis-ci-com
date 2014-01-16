@@ -4,7 +4,7 @@ created_at: Tue Jan 14 15:25:00 NZDT 2013
 layout: post
 author: Philip Arndt
 twitter: parndt
-permalink: blog/2013-01-14-quality-of-service
+permalink: /2013-01-14-quality-of-service
 ---
 
 <figure class="small right">

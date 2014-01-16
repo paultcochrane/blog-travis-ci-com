@@ -4,7 +4,7 @@ created_at: Mon 16 Dec 2013 17:06:20 CET
 author: Mathias Meyer
 twitter: roidrage
 layout: post
-permalink: blog/2013-12-16-test-php-code-with-the-hiphop-vm
+permalink: /2013-12-16-test-php-code-with-the-hiphop-vm
 ---
 <figure class="small right"> <img
 src="http://images.rapgenius.com/03202371a58f6cef98b49058912e10b4.240x180x10.gif"/>

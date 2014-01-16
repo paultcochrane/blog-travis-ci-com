@@ -4,7 +4,7 @@ author: Anika Lindtner
 twitter: langziehohr
 created_at: Fri 06 Sep 2013 
 layout: post
-permalink: blog/2013-09-05-travis-and-rails-girls-summer-of-code
+permalink: /2013-09-05-travis-and-rails-girls-summer-of-code
 ---
 
 ### Or: How to get from a dream to 19 scholarships in under 3 months.

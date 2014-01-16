@@ -4,7 +4,7 @@ created_at: Mon 28 Oct 2013 20:00:00 CET
 author: Henrik Hodne
 twitter: henrikhodne
 layout: post
-permalink: blog/2013-10-28-state-of-the-mac-builds-part-ii
+permalink: /2013-10-28-state-of-the-mac-builds-part-ii
 ---
 
 Hello again! [A few weeks back](http://about.travis-ci.org/blog/2013-09-27-state-of-the-mac-builds/)

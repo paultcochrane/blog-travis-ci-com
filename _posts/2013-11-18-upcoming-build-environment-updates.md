@@ -4,7 +4,7 @@ author: Josh Kalderimis
 twitter: j2h
 created_at: Mon 18 Nov 2013 12:00:00 CEST
 layout: post
-permalink: blog/2013-11-18-upcoming-build-environment-updates
+permalink: /2013-11-18-upcoming-build-environment-updates
 ---
 We're preparing a rollout of fresh updates and new features for our build
 environment, and wanted to keep you in the loop on what's coming, what's

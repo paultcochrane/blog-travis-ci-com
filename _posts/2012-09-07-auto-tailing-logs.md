@@ -3,7 +3,7 @@ title: Auto-Tailing Logs
 author: Sven Fuchs
 twitter: svenfuchs
 created_at: Thu Sep 07 17:00:00 CEST 2012
-permalink: blog/2012-09-07-auto-tailing-logs
+permalink: /2012-09-07-auto-tailing-logs
 layout: post
 ---
 From the very [beginning](http://svenfuchs.com/2011/2/5/travis-a-distributed-build-server-tool-for-the-ruby-community)

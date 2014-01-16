@@ -1,6 +1,6 @@
 ---
 title: Secure Environment Variables Now Available in Pull Requests
-permalink: blog/2013-06-10-secure-env-in-pull-requests
+permalink: /2013-06-10-secure-env-in-pull-requests
 created_at: Mon 10 Jun 2013 18:00:00 GMT
 author: Piotr Sarnacki
 twitter: drogus

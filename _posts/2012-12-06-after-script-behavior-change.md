@@ -1,7 +1,7 @@
 ---
 title: Changes in after_script behavior
 layout: post
-permalink: blog/after_script_behavior_changes
+permalink: /after_script_behavior_changes
 author: Piotr Sarnacki
 twitter: drogus
 created_at: Fri 6 Dec 2012

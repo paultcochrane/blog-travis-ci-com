@@ -1,6 +1,6 @@
 ---
 title: Last Minute Coffee Office Hours in Melbourne
-permalink: blog/2013-02-15-last-minute-melbourne-coffee-office-hours
+permalink: /2013-02-15-last-minute-melbourne-coffee-office-hours
 created_at: Thu 28 Feb 2013 20:00:00 UTC+10
 author: Josh Kalderimis
 twitter: j2h

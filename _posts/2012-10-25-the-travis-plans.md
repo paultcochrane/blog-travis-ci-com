@@ -1,7 +1,7 @@
 ---
 title: The Travis Plans
 created_at: Thu Oct 25 2012 21:30:00 CEST
-permalink: blog/2012-10-25-the-travis-plans
+permalink: /2012-10-25-the-travis-plans
 author: Mathias Meyer
 twitter: roidrage
 layout: post

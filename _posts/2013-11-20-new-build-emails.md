@@ -4,7 +4,7 @@ author: Mathias Meyer
 twitter: roidrage
 created_at: Wed 20 Nov 2013 18:00:00 CET
 layout: post
-permalink: /blog/2013-11-20-new-build-emails
+permalink: /2013-11-20-new-build-emails
 ---
 Build emails are our most important means of communicating with our users. For
 the longest time, these notifications have been very straight to the point and

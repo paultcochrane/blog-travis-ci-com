@@ -1,7 +1,7 @@
 ---
 title: The New Build System is Live
 created_at: Wed Jan 30 2013 16:00:00 CET
-permalink: blog/2013-01-30-new-build-system-is-live
+permalink: /2013-01-30-new-build-system-is-live
 author: Mathias Meyer
 twitter: roidrage
 layout: post

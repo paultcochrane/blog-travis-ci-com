@@ -3,7 +3,7 @@ title: "Post Mortem: Recent Build Infrastructure Issues"
 created_at: Fri 26 Apr 2013 16:00:00 CEST
 author: Mathias Meyer
 twitter: roidrage
-permalink: blog/2013-04-26-post-mortem-build-infrastructure-issues
+permalink: /2013-04-26-post-mortem-build-infrastructure-issues
 layout: post
 ---
 Last week we've been having quite some trouble with our build infrastructure and with our API and parsing .travis.yml files, causing significant downtime and spurious errors on both platforms for open source and for private projects. We're sorry our users and customers have had to wait for their builds to run for several hours. While this didn't affect customers still running on our previous build setup, it still affected a lot of you.

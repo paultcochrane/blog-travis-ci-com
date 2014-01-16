@@ -4,7 +4,7 @@ created_at: Tue Jan 08 22:00:00 CET 2013
 layout: post
 author: Konstantin Haase
 twitter: konstantinhaase
-permalink: blog/2013-01-08-new-github-scope
+permalink: /2013-01-08-new-github-scope
 ---
 
 We've just started requesting the new [user:email](http://developer.github.com/changes/2013-01-08-new-user-scopes/) scope from GitHub. We added this to improve our email handling in the future. Currently we send out emails based on Git commits, which is suboptimal, we don't have a real user to email mapping.

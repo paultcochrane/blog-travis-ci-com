@@ -4,7 +4,7 @@ created_at: Wed Mar 18:00 CET 2013
 layout: post
 author: Mathias Meyer
 twitter: roidrage
-permalink: blog/2013-blue-box-powers-travis-ci-infrastructure
+permalink: /2013-blue-box-powers-travis-ci-infrastructure
 ---
 We have some great news for you today: Last weekend we finally switched all
 builds on <http://travis-ci.org> to our new build infrastructure. This setup not

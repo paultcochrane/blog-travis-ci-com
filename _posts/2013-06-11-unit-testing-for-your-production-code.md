@@ -4,7 +4,7 @@ author: Mathias Meyer
 twitter: roidrage
 created_at: Mon 11 Jun 2013 18:00:00 CEST
 layout: post
-permalink: blog/2013-06-11-unit-testing-your-production-code
+permalink: /2013-06-11-unit-testing-your-production-code
 ---
 Travis CI and continuous integration are all about making sure your code is
 fulfilling the expectations set against it by way of your tests, whether

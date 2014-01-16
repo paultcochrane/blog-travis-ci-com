@@ -4,7 +4,7 @@ created_at: Fri Jan 25 10:00:00 NZDT 2013
 layout: post
 author: Josh Kalderimis
 twitter: j2h
-permalink: blog/2013-01-25-the-worker-gets-a-revamp
+permalink: /2013-01-25-the-worker-gets-a-revamp
 ---
 
 **HAPPY FRIDAY!**

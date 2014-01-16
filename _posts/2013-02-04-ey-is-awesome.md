@@ -4,7 +4,7 @@ layout: post
 created_at: Mon 4 Feb 16:00:00 CET
 author: Piotr Sarnacki
 twitter: drogus
-permalink: blog/2013-02-04-engine-yard-is-awesome
+permalink: /2013-02-04-engine-yard-is-awesome
 ---
 
 As some of you may know I've been working on Travis CI for the last 3 months

@@ -3,7 +3,7 @@ title: PostgreSQL 9.2 and 9.3 Now Available on Travis CI!
 created_at: Fri 29 Nov 2013 16:15:00 CET
 author: Mathias Meyer
 twitter: roidrage
-permalink: blog/2013-11-29-postgresql-92-93-now-available
+permalink: /2013-11-29-postgresql-92-93-now-available
 layout: post
 ---
 <figure class="right small">

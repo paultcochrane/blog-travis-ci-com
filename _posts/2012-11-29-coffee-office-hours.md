@@ -1,6 +1,6 @@
 ---
 title: Coffee Office Hours in Berlin and Wellington
-permalink: blog/2012-11-29-coffee-office-hours
+permalink: /2012-11-29-coffee-office-hours
 created_at: Thu 29 Nov 2012 16:00:00 CET
 author: Mathias Meyer
 twitter: roidrage

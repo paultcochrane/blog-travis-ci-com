@@ -3,7 +3,7 @@ title: A Long Overdue Database Upgrade to Heroku Postgres 2.0
 created_at: Mon 2 Dec 2013 16:00:00 CET
 author: Mathias Meyer
 twitter: roidrage
-permalink: blog/2013-12-2-a-long-overdue-database-upgrade-heroku-postgres
+permalink: /2013-12-2-a-long-overdue-database-upgrade-heroku-postgres
 layout: post
 ---
 Last week, we shipped official support for [PostgreSQL 9.2 and 9.3 on Travis

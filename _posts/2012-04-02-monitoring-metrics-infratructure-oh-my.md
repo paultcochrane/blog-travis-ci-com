@@ -2,7 +2,7 @@
 title: Metrics, Monitoring, Infrastructure, Oh my!
 layout: post
 created_at: mon apr 02 22:29:26 edt 2012
-permalink: blog/2012-04-02-metrics-monitoring-infrastructure-oh-my
+permalink: /2012-04-02-metrics-monitoring-infrastructure-oh-my
 author: Mathias Meyer
 twitter: roidrage
 ---

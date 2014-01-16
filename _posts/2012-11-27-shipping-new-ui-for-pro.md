@@ -4,7 +4,7 @@ created_at: Mon Now 27 12:00:00 CET 2012
 layout: post
 author: Sven Fuchs
 twitter: svenfuchs
-permalink: blog/2012-11-27-shipping-the-new-travis-ci-ui-for-pro
+permalink: /2012-11-27-shipping-the-new-travis-ci-ui-for-pro
 ---
 You asked for it, so here it is.
 

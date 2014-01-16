@@ -3,7 +3,7 @@ title: Deploy Your cloudControl Apps with Travis CI
 author: Mathias Meyer
 twitter: roidrage
 created_at: Thu 15 Aug 2013 15:00:00 CEST
-permalink: blog/2013-08-15-deploy-your-cloudcontrol-apps-with-travis-ci
+permalink: /2013-08-15-deploy-your-cloudcontrol-apps-with-travis-ci
 layout: post
 ---
 <figure class="small right">

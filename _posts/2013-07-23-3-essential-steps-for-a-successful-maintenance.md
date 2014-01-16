@@ -4,7 +4,7 @@ created_at: Tue 23 Jul 2013 16:00:00 CEST
 author: Mathias Meyer
 layout: post
 twitter: roidrage
-permalink: blog/2013-07-23-3-essential-preparation-steps-for-a-successful-maintenance
+permalink: /2013-07-23-3-essential-preparation-steps-for-a-successful-maintenance
 ---
 We all love shipping code to production fast and with zero downtime.
 

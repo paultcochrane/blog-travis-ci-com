@@ -4,7 +4,7 @@ author: Mathias Meyer
 twitter: roidrage
 created_at: Wed 29 May 2013 19:00 CEST
 layout: post
-permalink: blog/2013-05-29-improvemed-handling-travis-yml
+permalink: /2013-05-29-improvemed-handling-travis-yml
 ---
 Until recently we've been handling issues with parsing .travis.yml files rather
 poorly. YAML is a finicky beast, and when there was a problem parsing it, we

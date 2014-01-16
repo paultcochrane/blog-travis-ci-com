@@ -4,7 +4,7 @@ created_at: Mon Oct 04 01:30:00 PDT 2012
 layout: post
 author: Phil Cohen
 twitter: phlipper
-permalink: blog/2012-10-04-flowdock-notifications
+permalink: /2012-10-04-flowdock-notifications
 ---
 _A HUGE thanks to Phil Cohen ([@phlipper](http://twitter.com/phlipper)) for writing this guest post and adding this awesome feature!_
 

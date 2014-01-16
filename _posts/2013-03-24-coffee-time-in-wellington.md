@@ -1,6 +1,6 @@
 ---
 title: We all love coffee in Wellington
-permalink: blog/2013-03-24-coffee-in-wellington
+permalink: /2013-03-24-coffee-in-wellington
 created_at: Sun 24 Mar 2013 20:00:00 UTC+10
 author: Josh Kalderimis
 twitter: j2h

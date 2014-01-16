@@ -4,7 +4,7 @@ created_at: Thu Sep 27 10:00:00 CEST 2012
 layout: post
 author: Mathias Meyer
 twitter: roidrage
-permalink: blog/2012-09-27-hipchat-notifications
+permalink: /2012-09-27-hipchat-notifications
 ---
 Deep in the bowels of the [Travis code
 base](https://github.com/travis-ci/travis-core/blob/master/lib/travis/task/hipchat.rb),

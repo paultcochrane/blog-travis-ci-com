@@ -1,7 +1,7 @@
 ---
 title: "Post-Mortem: Pull Request Unavailability"
 layout: post
-permalink: blog/2012-09-24-post-mortem-pull-request-unavailability
+permalink: /2012-09-24-post-mortem-pull-request-unavailability
 created_at: Mon Sep 24 21:00:00 CEST 2012
 author: Mathias Meyer
 twitter: roidrage

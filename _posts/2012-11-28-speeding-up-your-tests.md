@@ -4,7 +4,7 @@ layout: post
 created_at: Wed Nov 28 2012 17:00:00 CET
 author: Mathias Meyer
 twitter: roidrage
-permalink: blog/2012-11-28-speeding-up-your-tests-by-parallelizing-them
+permalink: /2012-11-28-speeding-up-your-tests-by-parallelizing-them
 ---
 In private projects, such as the ones our customers are running on [Travis
 Pro](https://travis-ci.com), a large integration test suite is a common part of

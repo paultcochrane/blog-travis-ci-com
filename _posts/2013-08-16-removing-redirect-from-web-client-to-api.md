@@ -4,7 +4,7 @@ author: Piotr Sarnacki
 twitter: drogus
 layout: post
 created_at: Fri 16 Aug 2013 16:00:00 CEST
-permalink: blog/2013-08-16-removing-redirect-from-web-client-to-api
+permalink: /2013-08-16-removing-redirect-from-web-client-to-api
 ---
 
 Historically Travis' web interface and Travis API lived on

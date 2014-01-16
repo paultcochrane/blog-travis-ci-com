@@ -4,7 +4,7 @@ layout: post
 author: Mathias Meyer
 twitter: roidrage
 created_at: Thu 23 May 2013 16:00 CEST
-permalink: blog/2013-05-23-staff-picks
+permalink: /2013-05-23-staff-picks
 ---
 There's a lot of great content out there on the topic of testing, and we'd like
 to present some of our favorites.

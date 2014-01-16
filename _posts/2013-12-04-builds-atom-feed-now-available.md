@@ -4,7 +4,7 @@ created_at: Wed 04 Dec 2013 06:54:47 EST
 author: Hiro Asari
 twitter: hiro_asari
 layout: post
-permalink: blog/2013-12-04-builds-atom-feed-now-available
+permalink: /2013-12-04-builds-atom-feed-now-available
 ---
 There are many ways to stay up-to-date with your projects' build
 results; you can visit [the web site](https://travis-ci.org), or

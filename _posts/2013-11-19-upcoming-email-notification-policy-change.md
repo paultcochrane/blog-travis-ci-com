@@ -4,7 +4,7 @@ created_at: Tue 19 Nov 2013 09:48:43 EST
 author: Hiro Asari
 twitter: hiro_asari
 layout: post
-permalink: blog/2013-11-19-upcoming-email-notification-policy-change
+permalink: /2013-11-19-upcoming-email-notification-policy-change
 ---
 
 We send about 14,000 notification emails every day.

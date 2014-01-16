@@ -4,7 +4,7 @@ created_at: Mon 14 Oct 2013 17:00:00 CET
 author: Justine Arreche
 twitter: saltinejustine
 layout: post
-permalink: blog/2013-10-14-new-ui-improvements
+permalink: /2013-10-14-new-ui-improvements
 ---
 
 For the past few weeks we've been working on updating our UI. All this work is part of a future plan for big and exciting changes to make Travis CI even better to use!

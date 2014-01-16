@@ -4,7 +4,7 @@ created_at: Tue Jan 14 17:30 CET 2013
 layout: post
 author: Konstantin Haase
 twitter: konstantinhaase
-permalink: blog/2013-01-14-new-client
+permalink: /2013-01-14-new-client
 ---
 
 Up until now, using secure environment variables for private projects was not the most pleasant experience. This was due to our command line client not being able to talk to [Travis Pro](http://travis-ci.com).

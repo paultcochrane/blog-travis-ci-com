@@ -4,7 +4,7 @@ created_at: Thu Feb 07 22:20 CET 2013
 layout: post
 author: Piotr Sarnacki
 twitter: drogus
-permalink: blog/2013-02-07-running-jobs
+permalink: /2013-02-07-running-jobs
 ---
 
 Recently I've added a small new feature to the [Travis web client](https://travis-ci.org),

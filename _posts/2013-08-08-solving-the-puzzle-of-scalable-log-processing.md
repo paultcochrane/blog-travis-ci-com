@@ -4,7 +4,7 @@ author: Mathias Meyer
 twitter: roidrage
 layout: post
 created_at: Thu 08 Aug 2013 16:00:00 CEST
-permalink: blog/2013-08-08-solving-the-puzzle-of-scalable-log-processing
+permalink: /2013-08-08-solving-the-puzzle-of-scalable-log-processing
 ---
 ![](http://s3itch.paperplanes.de/build_log.png)
 

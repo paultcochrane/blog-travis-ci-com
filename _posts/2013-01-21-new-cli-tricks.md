@@ -4,7 +4,7 @@ created_at: Mon Jan 21 22:20 CET 2013
 layout: post
 author: Konstantin Haase
 twitter: konstantinhaase
-permalink: blog/2013-01-21-more-cli-tricks
+permalink: /2013-01-21-more-cli-tricks
 ---
 
 Just a few days ago, we [announced our new command line client](http://about.travis-ci.org/blog/2013-01-14-new-client/).

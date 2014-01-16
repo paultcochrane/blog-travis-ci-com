@@ -4,7 +4,7 @@ author: Mathias Meyer
 twitter: roidrage
 created_at: Tue 18 Jun 2013 16:00:00 CEST
 layout: post
-permalink: blog/2013-06-18-books-that-shaped-our-business
+permalink: /2013-06-18-books-that-shaped-our-business
 ---
 We've been working on turning Travis CI into a business for more than a year
 now. While we're working hard to go public for everyone to use our platform for

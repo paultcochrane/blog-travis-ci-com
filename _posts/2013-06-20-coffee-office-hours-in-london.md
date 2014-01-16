@@ -4,7 +4,7 @@ author: Josh Kalderimis
 twitter: j2h
 created_at: Thur 20 Jun 2013 19:00:00 CEST
 layout: post
-permalink: blog/2013-06-20-coffee-office-hours-in-london
+permalink: /2013-06-20-coffee-office-hours-in-london
 ---
 
 We love London, if it be the never ending clouds, the hot and sticky underground, or maybe how it always feels like it is about to rain (or that it is always raining). 

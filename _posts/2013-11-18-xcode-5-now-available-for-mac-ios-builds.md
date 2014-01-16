@@ -3,7 +3,7 @@ title: Xcode 5 and iOS 7 now available for Mac and iOS Builds!
 created_at: Mon 19 Nov 2013 20:00:00 CET
 author: Mathias Meyer
 twitter: roidrage
-permalink: blog/2013-11-18-xcode-5-now-available-for-mac-ios-builds
+permalink: /2013-11-18-xcode-5-now-available-for-mac-ios-builds
 layout: post
 ---
 <figure class="smaller right">

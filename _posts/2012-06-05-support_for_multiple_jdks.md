@@ -2,7 +2,7 @@
 title: Support for multiple JDKs
 layout: post
 created_at: Tue Jun 05 04:00:00 CDT 2012
-permalink: blog/support_for_multiple_jdks
+permalink: /support_for_multiple_jdks
 author: Michael Klishin
 twitter: michaelklishin
 ---

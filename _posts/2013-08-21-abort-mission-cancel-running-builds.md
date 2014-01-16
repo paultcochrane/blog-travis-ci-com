@@ -4,7 +4,7 @@ author: Mathias Meyer
 twitter: roidrage
 created_at: Wed 21 Aug 2013 16:00:00 CEST
 layout: post
-permalink: blog/2013-08-21-abort-mission-cancel-running-builds
+permalink: /2013-08-21-abort-mission-cancel-running-builds
 ---
 One of the biggest [feature
 requests](https://github.com/travis-ci/travis-ci/issues/763) we've received over

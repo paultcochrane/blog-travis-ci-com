@@ -2,7 +2,7 @@
 title: "Improving the Quality of Service on Travis CI"
 layout: post
 created_at: thu jul 27 16:27:26 cest 2012
-permalink: blog/2012-07-27-improving-the-quality-of-service-on-travis-ci
+permalink: /2012-07-27-improving-the-quality-of-service-on-travis-ci
 author: Mathias Meyer
 twitter: roidrage
 ---

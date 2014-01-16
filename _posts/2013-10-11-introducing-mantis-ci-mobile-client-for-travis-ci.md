@@ -3,7 +3,7 @@ title: Introducing Mantis CI, a Mobile Client for Travis CI
 created_at: Fri 11 Oct 2013 14:00:00 CEST
 author: Mathias Meyer
 twitter: roidrage
-permalink: blog/2013-10-11-introducing-mantis-ci-mobile-client-for-travis-ci
+permalink: /2013-10-11-introducing-mantis-ci-mobile-client-for-travis-ci
 layout: post
 ---
 <figure class="smaller right">

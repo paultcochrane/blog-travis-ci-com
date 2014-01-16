@@ -4,7 +4,7 @@ author: Konstantin Haase
 twitter: konstantinhaase
 created_at: Mon 22 Jul 2013 18:00:00 CEST
 layout: post
-permalink: blog/2013-07-22-deploy-your-apps-to-nodejitsu
+permalink: /2013-07-22-deploy-your-apps-to-nodejitsu
 ---
 
 <figure class="small right">

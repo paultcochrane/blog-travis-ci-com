@@ -1,6 +1,6 @@
 ---
 title: Improved GitHub Sync
-permalink: blog/2013-05-09-improved-github-sync
+permalink: /2013-05-09-improved-github-sync
 created_at: Wed 09 May 2013 10:00:00 GMT
 author: Josh Kalderimis
 twitter: j2h

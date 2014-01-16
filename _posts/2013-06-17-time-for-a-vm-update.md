@@ -4,7 +4,7 @@ author: Josh Kalderimis
 twitter: j2h
 created_at: Mon 17 Jun 2013 16:00:00 CEST
 layout: post
-permalink: blog/2013-06-17-time-for-a-vm-update
+permalink: /2013-06-17-time-for-a-vm-update
 ---
 
 Happy Monday Everyone!
