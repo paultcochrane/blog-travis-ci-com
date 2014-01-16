@@ -28,7 +28,7 @@ adhere to a "build the simplest thing possible" rule pretty strictly. The
 result was a rather simple app that showed an exciting vision, but also already
 proved useful enough for people to rely on on a daily basis.
 
-Then in 2012 Travis CI saw [rapid growth](http://about.travis-ci.org/blog/2012-12-17-numbers/).
+Then in 2012 Travis CI saw [rapid growth](/2012-12-17-numbers/).
 It became obvious that we'd need a much better foundation, so we could scale
 things out with the exploding demand.  We've collected some money from the
 [crowdfunding campaign](https://love.travis-ci.org). This allowed us to grow
@@ -110,7 +110,7 @@ features.
 
 In October [Engine Yard](http://www.engineyard.com) started sponsoring a
 fulltime position for Piotr in the most [broadminded
-way](http://about.travis-ci.org/blog/2012-10-22-engine-yard-sponsors-piotr-sarnacki-to-work-on-travis),
+way](/2012-10-22-engine-yard-sponsors-piotr-sarnacki-to-work-on-travis),
 as part of their Open Source Grant program. [Piotr](https://github.com/drogus)
 is a fantastic Ruby developer. He has been active as a Rails core member and
 worked on distributed applications, as well as Ember.js based clients in the
@@ -137,14 +137,14 @@ Clojure, Erlang, Node.js, PHP, Ruby and Scala. Today we are proud to say that
 native support for [14 different languages](https://github.com/travis-ci/travis-build/tree/90644d14cb14cf886dfb61586bad81c78bb7abd4/lib/travis/build/job/test)
 on Travis CI, including support for JVM switching and a generic JVM language
 builder. Besides these officialy supported languages, there are also projects
-testing EMACS Lisp, Smalltalk, Bash and [many other languages](http://about.travis-ci.org/blog/2012-12-17-numbers/#Programming-Languages)
+testing EMACS Lisp, Smalltalk, Bash and [many other languages](/2012-12-17-numbers/#Programming-Languages)
 on Travis CI.
 
 We believe this is huge.
 
 Next to that, the most exciting and popular new feature on Travis CI is
-the [pull request support](http://about.travis-ci.org/blog/announcing-pull-request-support)
-and later the tight [integration with GitHub's UI](http://about.travis-ci.org/blog/2012-09-04-pull-requests-just-got-even-more-awesome/),
+the [pull request support](/announcing-pull-request-support)
+and later the tight [integration with GitHub's UI](/2012-09-04-pull-requests-just-got-even-more-awesome/),
 that has been added. Konstantin has done an amazing job at this, also adding a
 new [layered GitHub API client](https://github.com/rkh/gh) that now makes our
 life much easier at Travis CI.
@@ -153,7 +153,7 @@ Then later this year, Piotr added two more features that gave tremendous
 value to Travis CI, as they open up an entire new space of usecases and
 possibilities: [secure env vars](http://about.travis-ci.org/docs/user/encryption-keys)
 (so users are now able to add sensitive data to their public .travis.yml config
-files) and (building on that) [build artefacts](http://about.travis-ci.org/blog/2012-12-18-travis-artifacts).
+files) and (building on that) [build artefacts](/2012-12-18-travis-artifacts).
 
 
 ### Pure JS client and a shiny new API v2
@@ -166,11 +166,11 @@ browser client.
 We've started working on a new Travis CI web client in early June and a new [Sinatra](http://www.sinatrarb.com/)
 based API app shortly after that. Since we also had to tackle so many other
 things in parallel, the whole thing wasn't ready to launch into beta
-[until October](http://about.travis-ci.org/blog/2012-10-23-introducing-travis-cis-next-generation-web-client).
+[until October](/2012-10-23-introducing-travis-cis-next-generation-web-client).
 
 But we were super happy with the result, as it's all much faster, much
 easier to maintain and add features to it. We've since ported the client to
-[Travis CI pro](http://about.travis-ci.org/blog/2012-11-27-shipping-the-new-travis-ci-ui-for-pro)
+[Travis CI pro](/2012-11-27-shipping-the-new-travis-ci-ui-for-pro)
 and fixed a good number of edge cases around the new JS based OAuth sign-in
 process.
 
@@ -221,8 +221,8 @@ we'd get some pretty graphs and assembled them on a nice dashboard.
 ![metrics everywhere](http://s3itch.paperplanes.de/graphs-20121024-182007.png)
 
 Over the next months the situation improved step by step and we're now able
-to tell [what's happening](http://about.travis-ci.org/blog/2012-10-24-finding-your-soul-metric)
-and [isolate issues](http://about.travis-ci.org/blog/2012-09-24-post-mortem-pull-request-unavailability)
+to tell [what's happening](/2012-10-24-finding-your-soul-metric)
+and [isolate issues](/2012-09-24-post-mortem-pull-request-unavailability)
 rather quickly even though our app now consists of many more components.
 
 
@@ -248,7 +248,7 @@ adjustments had to be made.
 We're still in a closed, private beta and we have a number of big improvements
 in the pipeline before we'll be able to entirely open the service. But we can
 say proudly that our users are already pretty happy with it, given the
-[feedback](http://about.travis-ci.org/blog/2012-10-25-the-travis-plans/#What-Existing-Customers-Are-Saying)
+[feedback](/2012-10-25-the-travis-plans/#What-Existing-Customers-Are-Saying)
 we have.
 
 

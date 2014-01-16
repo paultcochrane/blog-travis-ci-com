@@ -70,7 +70,7 @@ And of course there are the API isuses and VirtualBox specific errors, like tryi
 
 The great thing is we finally have the answer to this question, and are very happy to say we now know what our next-gen architecture will look like. In fact, we have been testing it with the Rails and Spree queues, and since a week ago, the JVM queue. And over the next week or two we will be moving all queues to this new setup.
 
-And don't worry [Travis Pro customers](http://about.travis-ci.org/blog/2012-10-25-the-travis-plans/), we have been running a beta setup for a small set of customers too and it is working beautifully!
+And don't worry [Travis Pro customers](/2012-10-25-the-travis-plans/), we have been running a beta setup for a small set of customers too and it is working beautifully!
 
 So what is this new setup you ask?
 

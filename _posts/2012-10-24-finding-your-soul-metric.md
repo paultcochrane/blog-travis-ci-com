@@ -98,7 +98,7 @@ everything is still working.
 ### Tell me about your monitoring and alerting?
 
 Our infrastructure is still mostly based on what [I wrote about earlier this
-year](http://about.travis-ci.org/blog/2012-04-02-metrics-monitoring-infrastructure-oh-my/),
+year](/2012-04-02-metrics-monitoring-infrastructure-oh-my/),
 with a few additions.
 
 To track custom, external metrics like the ones from RabbitMQ or determined by

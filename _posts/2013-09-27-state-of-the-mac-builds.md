@@ -7,7 +7,7 @@ layout: post
 permalink: /2013-09-27-state-of-the-mac-builds
 ---
 
-Hello everyone! It's been almost half a year since we [shipped Mac, iOS and RubyMotion testing](/blog/introducing-mac-ios-rubymotion-testing/) (time really flies, doesn't it?). Since then we've had almost 30,000 Mac builds on travis-ci.org and nearly 13,000 Mac builds on travis-ci.com.
+Hello everyone! It's been almost half a year since we [shipped Mac, iOS and RubyMotion testing](/introducing-mac-ios-rubymotion-testing/) (time really flies, doesn't it?). Since then we've had almost 30,000 Mac builds on travis-ci.org and nearly 13,000 Mac builds on travis-ci.com.
 
 I'd like to take a moment to address some of the instability we've been having lately, and what we're doing to improve. On September 24th we started noticing issues with our Mac infrastructure, causing delays in Mac and iOS builds. We had noticed earlier that sometimes the VMs get stuck in a suspended state, which causes us to be unable to boot new VMs. Fortunately, fixing this is very easy, but does require manual intervention on our end.
 

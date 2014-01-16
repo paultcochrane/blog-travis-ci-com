@@ -6,7 +6,7 @@ layout: post
 permalink: /2013-07-25-more-deployment-goodness-announcing-openshift-support
 ---
 
-Remember a little while back when we introduced support for [deploying to Heroku](/blog/2013-07-09-introducing-continuous-deployment-to-heroku) and [Nodejitsu](/blog/2013-07-22-deploy-your-apps-to-nodejitsu)?
+Remember a little while back when we introduced support for [deploying to Heroku](/2013-07-09-introducing-continuous-deployment-to-heroku) and [Nodejitsu](/blog/2013-07-22-deploy-your-apps-to-nodejitsu)?
 
 We thought "why stop there"!
 

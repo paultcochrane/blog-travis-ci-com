@@ -29,6 +29,6 @@ finally retire the old client.
 Please help us by giving feedback on any issues, breakage or weirdness.
 
 If you are eager to read an overview of all the features and goodies that the
-new UI includes you can find them in the [original announcement](http://about.travis-ci.org/blog/2012-10-23-introducing-travis-cis-next-generation-web-client).
+new UI includes you can find them in the [original announcement](/2012-10-23-introducing-travis-cis-next-generation-web-client).
 But the gist is: overall polished, much more responsive, fast and stable, new
 features like proper URLs, requeueing builds, flash messages etc.

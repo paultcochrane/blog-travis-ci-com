@@ -75,7 +75,7 @@ When we first started using virtual machines for Travis CI (around June 2011) we
 This worked perfectly, but by the fall of 2011 10.04 started showing its age. Our users kept asking for more 
 recent versions of certain tools and libraries which were challenging to provide without building and maintaining 
 a myriad of Debian packages. So in November 2011 we migrated all VMs to Ubuntu 11.04 which solved the problem. 
-And then in early April 2012 we [migrated to 11.10](http://about.travis-ci.org/blog/upcoming_ubuntu_11_10_migration/).
+And then in early April 2012 we [migrated to 11.10](/upcoming_ubuntu_11_10_migration/).
 
 Now it is August 2012 and the time to move on to 12.04 is drawing close. We want to explain briefly how Travis CI 
 will migrate to it, why we are doing it and what may change for your project.

@@ -70,7 +70,7 @@ So far we have delivered the first two of these. With the help of the community 
   <figcaption>Loads of swag</figcaption>
 </figure>
 
-Also, we have implemented support for [pre-tested pull requests](http://about.travis-ci.org/blog/announcing-pull-request-support/), which has taken the community by storm. We are currently still unlocking accounts for donors before we will finally release the feature into the wild. So, if you would like to use it for your projects please shoot us an email.
+Also, we have implemented support for [pre-tested pull requests](/announcing-pull-request-support/), which has taken the community by storm. We are currently still unlocking accounts for donors before we will finally release the feature into the wild. So, if you would like to use it for your projects please shoot us an email.
 
 We are also in the middle of completing private build support, which will be released as a product currently codenamed "Travis Pro - Magnum". We have had a few handpicked users running builds on a alpha-stage system for quite a while, but we still need to put more work into it before we can add more users.
 

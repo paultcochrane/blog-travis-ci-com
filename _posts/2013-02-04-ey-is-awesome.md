@@ -8,7 +8,7 @@ permalink: /2013-02-04-engine-yard-is-awesome
 ---
 
 As some of you may know I've been working on Travis CI for the last 3 months
-[thanks to awesomeness of Engine Yard](http://about.travis-ci.org/blog/2012-10-22-engine-yard-sponsors-piotr-sarnacki-to-work-on-travis/).
+[thanks to awesomeness of Engine Yard](/2012-10-22-engine-yard-sponsors-piotr-sarnacki-to-work-on-travis/).
 You can read about the things that I've been working on on
 [Engine Yard's blog](http://blog.engineyard.com/2012/travis-ci?eymktci=70170000000hHEC).
 

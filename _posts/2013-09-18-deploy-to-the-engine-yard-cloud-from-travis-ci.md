@@ -12,7 +12,7 @@ permalink: /2013-09-18-deploy-to-engine-yard-cloud-from-travis-ci
 
 Today we're happy to announce **continuous deployment support for the [Engine Yard Cloud](https://www.engineyard.com/products/cloud)!**
 
-Engine Yard has been an [incredible supporter](https://blog.engineyard.com/2012/travis-ci) of [Travis CI](http://about.travis-ci.org/blog/2013-06-10-secure-env-in-pull-requests/), and we're very grateful to [count them amongst our customers](https://travis-ci.com). We're very excited that you can now deploy your code from Travis CI to their cloud platform.
+Engine Yard has been an [incredible supporter](https://blog.engineyard.com/2012/travis-ci) of [Travis CI](/2013-06-10-secure-env-in-pull-requests/), and we're very grateful to [count them amongst our customers](https://travis-ci.com). We're very excited that you can now deploy your code from Travis CI to their cloud platform.
 
 Getting started is easy. Sign up for an account with [Engine Yard](https://www.engineyard.com/trial), if you haven't already, your first 500 hours are free!
 

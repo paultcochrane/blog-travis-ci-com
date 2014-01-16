@@ -86,7 +86,7 @@ UI.**
 
 The functionality to regenerate the SSL keys has been introduced during a
 previous [security
-advisory](http://about.travis-ci.org/blog/2012-12-05-ssl-keys-security-issue/)
+advisory](/2012-12-05-ssl-keys-security-issue/)
 and has been extended to automatically store the new key on GitHub for private
 repositories. We're working on removing the manual step of having to delete the
 key on GitHub.

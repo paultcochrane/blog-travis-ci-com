@@ -12,7 +12,7 @@ running on our new build system!
 This is good news, as we've outlined recently, as this new build system and the
 way it's now used is a lot more stable compared to our old one. You can read up on
 all the details in [last week's blog
-post](http://about.travis-ci.org/blog/2013-01-25-the-worker-gets-a-revamp/).
+post](/2013-01-25-the-worker-gets-a-revamp/).
 
 After we did a test run on <http://travis-ci.org> we switched over all build
 machines and eventually upgraded <http://travis-ci.com> as well, along with a

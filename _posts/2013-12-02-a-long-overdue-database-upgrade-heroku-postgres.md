@@ -7,7 +7,7 @@ permalink: /2013-12-2-a-long-overdue-database-upgrade-heroku-postgres
 layout: post
 ---
 Last week, we shipped official support for [PostgreSQL 9.2 and 9.3 on Travis
-CI](/blog/2013-11-29-postgresql-92-93-now-available/).
+CI](/2013-11-29-postgresql-92-93-now-available/).
 
 In the weeks leading up to the announcements, just in time, we finished up some
 long overdue upgrades of our own infrastructure, bringing Travis CI up to par
@@ -15,7 +15,7 @@ with the latest versions of PostgreSQL.
 
 For the longest time, Travis CI ran off a single PostgreSQL instance, posing a
 challenge for us to [both scale up and
-out](http://about.travis-ci.org/blog/2013-08-08-solving-the-puzzle-of-scalable-log-processing/).
+out](/2013-08-08-solving-the-puzzle-of-scalable-log-processing/).
 Due to unfortunate timing, we've been running on a 32 bit server with 1.7 GB of
 memory.
 
@@ -69,7 +69,7 @@ remained to be exported and imported.
 
 All migrations took the better of four hours each, an unfortunate but urgently
 need service disruption. We kept the [maintenance windows mostly to the
-weekends](/blog/2013-07-23-3-essential-preparation-steps-for-a-successful-maintenance/)
+weekends](/2013-07-23-3-essential-preparation-steps-for-a-successful-maintenance/)
 as much as we could to reduce overall impact.
 
 ### The Results

@@ -13,7 +13,7 @@ All these features are immediately available to all our users including our [Tra
 
 # Releasing to PyPI
 
-Just like [Ruby developers](/blog/2013-08-22-let-travis-push-your-rubygems), Python package developers can now also enjoy continuous releases, thanks to our new support for PyPI!
+Just like [Ruby developers](/2013-08-22-let-travis-push-your-rubygems), Python package developers can now also enjoy continuous releases, thanks to our new support for PyPI!
 
 Simply add the following lines to your `.travis.yml`:
 

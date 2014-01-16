@@ -7,7 +7,7 @@ twitter: konstantinhaase
 permalink: /2013-01-21-more-cli-tricks
 ---
 
-Just a few days ago, we [announced our new command line client](http://about.travis-ci.org/blog/2013-01-14-new-client/).
+Just a few days ago, we [announced our new command line client](/2013-01-14-new-client/).
 We just did a new release, and are proud to announce that it learned a few new tricks.
 
 <figure>

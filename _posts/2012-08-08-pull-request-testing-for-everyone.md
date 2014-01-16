@@ -7,7 +7,7 @@ author: Konstantin Haase
 twitter: konstantinhaase
 ---
 
-Two months ago we [announced support for Pull Request testing](/blog/announcing-pull-request-support). Since then, you've managed to keep [The Travis Bot](https://github.com/travisbot) quite busy.
+Two months ago we [announced support for Pull Request testing](/announcing-pull-request-support). Since then, you've managed to keep [The Travis Bot](https://github.com/travisbot) quite busy.
 
 We just started unrolling an updated version and are in the process of turning it on for everybody.
 

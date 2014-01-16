@@ -43,7 +43,7 @@ Recently we wanted to show the changes in the client in some easy way,
 without the need to deploy to the staging server. The idea was simple:
 
 * after finishing the build on travis, upload the assets to the S3 bucket
-  using [travis artifacts](http://about.travis-ci.org/blog/2012-12-18-travis-artifacts/)
+  using [travis artifacts](/2012-12-18-travis-artifacts/)
 * when a parameter is passed to the web app (like: `https://travis-ci.org?alt=my-feature-branch),
   start serving assets from S3 for a given branch, also set cookie
   to serve alternative assets on subsequent requests

@@ -34,4 +34,4 @@ and lots of exciting stuff going on, so it's hard to keep up! Just check
 out this blog, it's much easier than reading the commit list. ;)
 
 Oh, and if you want to subscribe via RSS, grab the [Travis blog feed
-here](/blog.xml)
+here](.xml)

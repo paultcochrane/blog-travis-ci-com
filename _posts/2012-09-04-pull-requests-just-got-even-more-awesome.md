@@ -7,9 +7,9 @@ layout: post
 created_at: Tue Sep 04 18:00:00 CEST 2012
 ---
 Just short of four months ago, we [announced the availability of pull request
-testing](http://about.travis-ci.org/blog/announcing-pull-request-support/) on
+testing](/announcing-pull-request-support/) on
 Travis CI. Just recently we [announced the availability of pull requests for
-everyone](http://about.travis-ci.org/blog/pull-request-testing-for-everyone/)
+everyone](/pull-request-testing-for-everyone/)
 and all of their projects by default.
 
 Since then, [travisbot](https://github.com/travisbot) has been busy, very busy,

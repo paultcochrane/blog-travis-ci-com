@@ -38,7 +38,7 @@ We've recently made some exciting additions to the Travis CI family and we thoug
 
 </div>
 
-[Piotr](https://twitter.com/drogus) is not only a Rails and Ember contributor, but also a Polish Nicholas Cage impersonator! He started working for Travis CI as an [open source intern from Engine Yard](/blog/2012-10-22-engine-yard-sponsors-piotr-sarnacki-to-work-on-travis/), but has since joined us full time working on everything from our web UI, our API, and everything inbetween. Piotr has been instrumental is helping Travis CI scale, adding great new features, and generally making Travis CI more and more awesome every day.
+[Piotr](https://twitter.com/drogus) is not only a Rails and Ember contributor, but also a Polish Nicholas Cage impersonator! He started working for Travis CI as an [open source intern from Engine Yard](/2012-10-22-engine-yard-sponsors-piotr-sarnacki-to-work-on-travis/), but has since joined us full time working on everything from our web UI, our API, and everything inbetween. Piotr has been instrumental is helping Travis CI scale, adding great new features, and generally making Travis CI more and more awesome every day.
 
 <br>
 

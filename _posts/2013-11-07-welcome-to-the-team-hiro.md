@@ -7,7 +7,7 @@ layout: post
 permalink: /2013-11-07-welcome-to-the-team-hiro
 ---
 
-It feels like only yesterday we [welcomed Piotr, Anika and Justine](/blog/2013-10-10-the-travis-ci-family-is-growing/) to the team, well, now it's time to welcome another awesome team member!
+It feels like only yesterday we [welcomed Piotr, Anika and Justine](/2013-10-10-the-travis-ci-family-is-growing/) to the team, well, now it's time to welcome another awesome team member!
 
 #Hiro Asari
 

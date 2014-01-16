@@ -20,7 +20,7 @@ separated services and the challenges and questions that come along with it.
 Martin Fowler gives a short overview of the principles and ideas of continuous
 delivery, which is more than just having an automated way of deploying to
 production (which we just so happened to [launch
-yesterday](/blog/2013-07-09-introducing-continuous-deployment-to-heroku/)).
+yesterday](/2013-07-09-introducing-continuous-deployment-to-heroku/)).
 Continuous delivery is a matter of company culture. Make sure to look at [Jez
 Humble's book](http://amzn.to/12hbLko) on the topic too.
 

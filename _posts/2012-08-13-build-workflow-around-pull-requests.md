@@ -37,7 +37,7 @@ who leaves a totally un-opinionated comment on pull requests to let the owner
 know if they passed or failed.
 
 With the [availability of pull requests for
-everyone](http://about.travis-ci.org/blog/pull-request-testing-for-everyone/),
+everyone](/pull-request-testing-for-everyone/),
 including private repositories on [Travis Pro](http://travis-ci.com), you can
 now easily choose your workflow and bend Travis to your own needs. You can
 either choose to keep building all branches (which is the default).
