@@ -18,13 +18,13 @@ To start deploying to AWS OpsWorks, add the following to your `.travis.yml`.
       secret-access-key: <AWS Secret Access Key>    
       app-id: <AWS App Id>
 
-We recommend you [encrypt the AWS Secret Access Key in your `.travis.yml`](http://about.travis-ci.org/docs/user/encryption-keys/)
+We recommend you [encrypt the AWS Secret Access Key in your `.travis.yml`](http://docs.travis-ci.com/user/encryption-keys/)
 
 You can always use the `travis` tool to set this up as well.
 
     $ travis setup opsworks
 
-To read more about deployment to AWS OpsWorks you can go [here](http://about.travis-ci.org/docs/user/deployment/opsworks).
+To read more about deployment to AWS OpsWorks you can go [here](http://docs.travis-ci.com/user/deployment/opsworks).
 
 ### Rackspace Cloud Files
 
@@ -37,13 +37,13 @@ To push files to Rackspace after every build, [sign up for Rackspace Cloud Files
       region:   <Cloudfiles Region>
       container:<Cloudfiles Container>
 
- We recommend you [encrypt the Api Key in your `.travis.yml`](http://about.travis-ci.org/docs/user/encryption-keys/).
+ We recommend you [encrypt the Api Key in your `.travis.yml`](http://docs.travis-ci.com/user/encryption-keys/).
  
 You can always use the `travis` tool to set this up as well.
 
     $ travis setup cloudfiles
 
-To learn more about pushing files to Rackspace Cloud files you can go [here](http://about.travis-ci.org/docs/user/deployment/cloudfiles).
+To learn more about pushing files to Rackspace Cloud files you can go [here](http://docs.travis-ci.com/user/deployment/cloudfiles).
 
 ### Divshot
 
@@ -53,13 +53,13 @@ To get started with [Divshot](https://www.divshot.com), just sign up and add the
       provider: divshot
       api-key: <api-key>
 
-We recommend you [encrypt the api key in your `.travis.yml`](http://about.travis-ci.org/docs/user/encryption-keys/).
+We recommend you [encrypt the api key in your `.travis.yml`](http://docs.travis-ci.com/user/encryption-keys/).
 
 As always, you can use the `travis` tool to set this up as well.
 
     $ travis setup divshot
 
-Read more about Divshot deployment [here](http://about.travis-ci.org/docs/user/deployment/divshot).
+Read more about Divshot deployment [here](http://docs.travis-ci.com/user/deployment/divshot).
 
 Send a huge thank you to the many volunteers that contributed to make this possible: Johannes Würbach, Brad Gignac,  and Joshua Anderson.
 

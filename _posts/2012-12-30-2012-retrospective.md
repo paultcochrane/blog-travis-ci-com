@@ -151,7 +151,7 @@ life much easier at Travis CI.
 
 Then later this year, Piotr added two more features that gave tremendous
 value to Travis CI, as they open up an entire new space of usecases and
-possibilities: [secure env vars](http://about.travis-ci.org/docs/user/encryption-keys)
+possibilities: [secure env vars](http://docs.travis-ci.com/user/encryption-keys)
 (so users are now able to add sensitive data to their public .travis.yml config
 files) and (building on that) [build artefacts](/2012-12-18-travis-artifacts).
 

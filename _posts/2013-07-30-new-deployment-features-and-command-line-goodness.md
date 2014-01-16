@@ -41,7 +41,7 @@ Maybe that is not what you want, as you might generate some artifacts (think ass
 
 ##### Setting Heroku buildpack
 
-When deploying to Heroku via the [Anvil](/docs/user/deployment/heroku/#Deploy-Strategy) strategy, you can now set the [buildpack](https://devcenter.heroku.com/articles/buildpacks) to use:
+When deploying to Heroku via the [Anvil](http://docs.travis-ci.com/user/deployment/heroku/#Deploy-Strategy) strategy, you can now set the [buildpack](https://devcenter.heroku.com/articles/buildpacks) to use:
 
     deploy:
       provider: heroku
@@ -90,7 +90,7 @@ To ease that, we now offer a `travis setup` command that you can run in your pro
     Deploy only from travis-ci/travis-api? |yes|
     Encrypt API key? |yes|
 
-You can also use this for setting up [Sauce Connect](http://about.travis-ci.org/docs/user/addons/#Sauce-Connect):
+You can also use this for setting up [Sauce Connect](http://docs.travis-ci.com/user/addons/#Sauce-Connect):
 
     [~/travis-api]$ travis setup sauce_connect
     Sauce Labs user: rkh
@@ -99,7 +99,7 @@ You can also use this for setting up [Sauce Connect](http://about.travis-ci.org/
 
 ##### Improved value encryption
 
-When you add [encrypted environment variables](http://about.travis-ci.org/docs/user/build-configuration/#Secure-environment-variables), you don't want to override existing variables, which is why the `travis encrypt` command turns it into a list if it isn't already and appends the new value.
+When you add [encrypted environment variables](http://docs.travis-ci.com/user/build-configuration/#Secure-environment-variables), you don't want to override existing variables, which is why the `travis encrypt` command turns it into a list if it isn't already and appends the new value.
 
 However, this causes issues when you re-encrypt for instance a deploy token, as you might accidentally turn it into a list with two entries even though you wanted to override the old one.
 

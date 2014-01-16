@@ -31,7 +31,7 @@ By default Travis CI will run
 
     ./configure && make && make test
 
-to compile your project and run the tests. It is possible to override this behavior by specifying [your own `install:` and `script:` commands](http://about.travis-ci.org/docs/user/build-configuration/).
+to compile your project and run the tests. It is possible to override this behavior by specifying [your own `install:` and `script:` commands](http://docs.travis-ci.com/user/build-configuration/).
 
 Historically, Travis CI environment only had GCC (currently 4.6) preinstalled but with the first class support for C and C++ project, we've added Clang (3.1) and introduced a way to switch compilers using the `compiler` key in `.travis.yml`. 
 
@@ -49,7 +49,7 @@ Testing against two compilers will create two rows in your build matrix, or poss
 
 During each test the Travis CI C builder will export the `CXX` env variable to point to either g++ or clang++ and `CC` to either gcc or clang.
 
-See [C support](http://about.travis-ci.org/docs/user/languages/c/) and [C++ support](http://about.travis-ci.org/docs/user/languages/cpp/) guides for more information.
+See [C support](http://docs.travis-ci.com/user/languages/c/) and [C++ support](http://docs.travis-ci.com/user/languages/cpp/) guides for more information.
 
 Some real world examples that already use C++ support and test against both GCC and Clang:
 
@@ -85,7 +85,7 @@ Here are some projects using it today:
  * [peterbourgon/diskv](https://github.com/peterbourgon/diskv/blob/master/.travis.yml)
  * [Go RabbitMQ client](https://github.com/streadway/amqp/blob/master/.travis.yml)
 
-Our documentation guides [cover Go support on Travis CI](http://about.travis-ci.org/docs/user/languages/go/). There is no support for multiple versions of Go because at the moment as the only released version of Go is 1.0.
+Our documentation guides [cover Go support on Travis CI](http://docs.travis-ci.com/user/languages/go/). There is no support for multiple versions of Go because at the moment as the only released version of Go is 1.0.
 
 
 

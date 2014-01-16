@@ -82,4 +82,4 @@ PhantomJs: **v1.9.1**
 
 - Mirrors removed: We provided EU based mirrors for Maven and Perl, these have been removed as our VMs are based in the US.
 
-- FireFox locked to 19.0, see http://about.travis-ci.org/docs/user/addons/#Firefox for more info
+- FireFox locked to 19.0, see http://docs.travis-ci.com/user/addons/#Firefox for more info

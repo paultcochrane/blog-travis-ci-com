@@ -15,7 +15,7 @@ permalink: /2013-07-09-introducing-continuous-deployment-to-heroku
   </figcaption>
 </figure>
 
-Are you testing your [Heroku](https://www.heroku.com/) application on Travis CI? Then we've got some amazing news for you: Deploying that application after a passing build has just become [incredibly easy](/docs/user/deployment/heroku/)!
+Are you testing your [Heroku](https://www.heroku.com/) application on Travis CI? Then we've got some amazing news for you: Deploying that application after a passing build has just become [incredibly easy](http://docs.travis-ci.com/user/deployment/heroku/)!
 
 Here is what you need to add to your app's `.travis.yml`:
 
@@ -78,7 +78,7 @@ Deploy staging app from master branch and production app from production:
         master: my-app-staging
         production: my-app-production
 
-For a description of all available options, check out [the documentation](/docs/user/deployment/heroku/).
+For a description of all available options, check out [the documentation](http://docs.travis-ci.com/user/deployment/heroku/).
 
 ### All open source
 

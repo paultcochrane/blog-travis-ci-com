@@ -7,7 +7,7 @@ twitter: drogus
 layout: post
 ---
 
-TL;DR: [Secure environment variables](http://about.travis-ci.org/docs/user/build-configuration/#Secure-environment-variables)
+TL;DR: [Secure environment variables](http://docs.travis-ci.com/user/build-configuration/#Secure-environment-variables)
 are enabled for pull requests as long as the origin of the pull request and the target repository are the same.
 
 Secure environment variables have been available in Travis CI for quite some time now,

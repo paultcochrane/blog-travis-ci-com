@@ -43,7 +43,7 @@ Travis' Node.js builder will do the following as part of the build process:
 
 Most of steps in the workflow can be overriden by projects that need it. We recommend you use defaults when possible though.
 
-For more information on what is [available in terms of services](http://about.travis-ci.org/docs/user/ci-environment/) (mysql, postgres, riak, etc.), or how to configure your builds or matrix, visit the [docs site](http://about.travis-ci.org/docs/).
+For more information on what is [available in terms of services](http://docs.travis-ci.com/user/ci-environment/) (mysql, postgres, riak, etc.), or how to configure your builds or matrix, visit the [docs site](http://docs.travis-ci.com/).
 
 
 ### Next steps

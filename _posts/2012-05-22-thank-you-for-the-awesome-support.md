@@ -63,7 +63,7 @@ Apart from sending out swag we also promised to add some awesome new features to
 * Private build support
 * Build artifacts
 
-So far we have delivered the first two of these. With the help of the community and Michael Klishin we have added support for [Perl](http://about.travis-ci.org/docs/user/languages/perl/), [Python](http://about.travis-ci.org/docs/user/languages/python/), [Java](http://about.travis-ci.org/docs/user/languages/java/), [Clojure](http://about.travis-ci.org/docs/user/languages/clojure/), [Scala](http://about.travis-ci.org/docs/user/languages/scala/), and [Haskell](http://about.travis-ci.org/docs/user/languages/haskell/).
+So far we have delivered the first two of these. With the help of the community and Michael Klishin we have added support for [Perl](http://docs.travis-ci.com/user/languages/perl/), [Python](http://docs.travis-ci.com/user/languages/python/), [Java](http://docs.travis-ci.com/user/languages/java/), [Clojure](http://docs.travis-ci.com/user/languages/clojure/), [Scala](http://docs.travis-ci.com/user/languages/scala/), and [Haskell](http://docs.travis-ci.com/user/languages/haskell/).
 
 <figure class="small right">
   [ ![Loads of swag](http://distilleryimage1.s3.amazonaws.com/eef1f4869b5711e181bd12313817987b_7.jpg) ](http://distilleryimage1.s3.amazonaws.com/eef1f4869b5711e181bd12313817987b_7.jpg)

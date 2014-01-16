@@ -80,7 +80,7 @@ Here are all the details on what's new.
 **Scala**
 
 - Scala 2.10.3 is set as the new default.
-- sbt 0.13.0 is set as new default, but [other releases can be specified in your build configuration](/docs/user/languages/scala/#Projects-using-sbt)
+- sbt 0.13.0 is set as new default, but [other releases can be specified in your build configuration](http://docs.travis-ci.com/user/languages/scala/#Projects-using-sbt)
 - Build download time improved for Scala projects: Scala and sbt boot libraries
   are now preinstalled for following Scala versions: 2.11.0-M5, 2.10.3, 2.10.2,
   2.10.1, 2.10.0, 2.9.3, 2.9.2
@@ -97,7 +97,7 @@ Here are all the details on what's new.
 ### Updates to the pre-installed database services and tools
 
 - Support for **PostgreSQL 9.1, 9.2, and 9.3**. You can select the version that's
-  running in your build environment in your [.travis.yml](/docs/user/addons/#PostgreSQL).
+  running in your build environment in your [.travis.yml](http://docs.travis-ci.com/user/addons/#PostgreSQL).
 - All PostgreSQL versions are pre-configured with PostGIS 2.1 and [other modules](http://www.postgresql.org/docs/devel/static/contrib.html).
 - **Breaking change**: **memcached** and **redis-server** are not auto-started anymore, make sure to add them to the services section in your .travis.yml.
 - **Cassandra v2.0.2**

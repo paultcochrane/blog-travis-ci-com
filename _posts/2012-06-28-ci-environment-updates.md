@@ -10,7 +10,7 @@ twitter: michaelklishin
 Open source projects move fast and so does Travis CI environment. Most of the changes make open source projects and Travis CI environment better
 but some break backwards compatibility and may cause CI builds to fail.
 
-Today we want to give you a heads-up on several recent (or upcoming) [CI environment](/docs/user/ci-environment/) changes that are not backwards compatible.
+Today we want to give you a heads-up on several recent (or upcoming) [CI environment](http://docs.travis-ci.com/user/ci-environment/) changes that are not backwards compatible.
 They are: moving to Leiningen 2.0 Preview 7, Node.js 0.8, switching to CRuby 1.9.3 as the new default Ruby version.
 
 

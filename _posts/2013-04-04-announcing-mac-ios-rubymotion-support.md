@@ -61,7 +61,7 @@ Boom, you're done!
 
 For all the available options that customize the build and for the specifics of
 the Mac build environment, check the
-[documentation](http://about.travis-ci.org/docs/user/osx-ci-environment/) and the example projects
+[documentation](http://docs.travis-ci.com/user/osx-ci-environment/) and the example projects
 listed above!
 
 ### Can I test the same project on Mac and Linux?

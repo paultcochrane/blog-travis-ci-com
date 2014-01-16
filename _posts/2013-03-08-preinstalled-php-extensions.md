@@ -30,7 +30,7 @@ These extensions are *not enabled by default*, you'll have to explicitly enable 
 
 Previously it was not particularly easy to customize Travis' PHP configuration since you had to locate the php.ini of the current PHP version you were running your tests against. I (Loïc) developed a little extension to [phpenv](https://github.com/CHH/phpenv), which Travis uses for PHP environment switching, that allows you to easily add a config file with all the configuration directives which make sense for your build with one super simple command! 
 
-Just use __`phpenv config-add`__ and __`phpenv config-rm`__ to add or remove a configuration file. You can refer to the documentation for more details on how to [customize your PHP configuration](http://about.travis-ci.org/docs/user/languages/php/#Custom-PHP-configuration).
+Just use __`phpenv config-add`__ and __`phpenv config-rm`__ to add or remove a configuration file. You can refer to the documentation for more details on how to [customize your PHP configuration](http://docs.travis-ci.com/user/languages/php/#Custom-PHP-configuration).
 
 The easiest way to enable a preinstalled extension is to use `phpenv config-add` to add a custom config file which enables and configures the extension you need, for example:
 
@@ -46,7 +46,7 @@ If adding a full configuration file is overkill for your needs, you can also use
 
     echo "extension = <extension>.so" >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
 
-For more information, please refer to the [PHP extensions section](http://about.travis-ci.org/docs/user/languages/php/#PHP-extensions) of the documentation!
+For more information, please refer to the [PHP extensions section](http://docs.travis-ci.com/user/languages/php/#PHP-extensions) of the documentation!
 
 This feature is live on Travis CI for open source projects now and will be made available to [Travis Pro](http://beta.travis-ci.com) projects on the 18th of March.
 

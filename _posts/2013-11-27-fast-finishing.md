@@ -6,7 +6,7 @@ layout: post
 permalink: /2013-11-27-fast-finishing-builds
 ---
 
-For a while, Travis CI has supported [allowed failures](http://about.travis-ci.org/docs/user/build-configuration/#Rows-That-are-Allowed-To-Fail) in your build matrix -
+For a while, Travis CI has supported [allowed failures](http://docs.travis-ci.com/user/build-configuration/#Rows-That-are-Allowed-To-Fail) in your build matrix -
 jobs that are allowed to fail, without affecting the status of the entire build.
 
 However, even if some of the items in your build matrix are allowed failures, Travis CI will still wait for them to finish before marking the build as finished.
@@ -20,6 +20,6 @@ To enable fast finishing, add `fast_finish: true` to the `matrix` section of you
     matrix:
       fast_finish: true
 
-For more information, check out [the docs](/docs/user/build-configuration)
+For more information, check out [the docs](http://docs.travis-ci.com/user/build-configuration)
 
 This feature is immediately available for [open source](https://travis-ci.org/) and [private](https://travis-ci.com/) repositories.

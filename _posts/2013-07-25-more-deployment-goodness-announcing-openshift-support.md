@@ -31,7 +31,7 @@ To provide the best service possible, Travis CI has teamed up with OpenShift as 
 
 This feature is immediately available to all our users including our [Travis Pro](http://travis-ci.com) customers.
 
-For more information, see [the documentation](/docs/user/deployment/openshift).
+For more information, see [the documentation](http://docs.travis-ci.com/user/deployment/openshift).
 
 ### Your provider still missing?
 

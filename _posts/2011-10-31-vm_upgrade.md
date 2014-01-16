@@ -34,7 +34,7 @@ Rubinius' Ruby 1.9 features support is still a work in progress (it does not sup
 we encourage Ruby developers to try testing their libraries against Rubinius, in both 1.8 and 1.9 modes. Now it is even
 easier to do on travis-ci.org.
 
-To get regular updates about travis-ci.org environment upgrades and other developments, [follow Travis CI on Twitter](https://twitter.com/travisci)
+To get regular updates about Travis CI environment upgrades and other developments, [follow Travis CI on Twitter](https://twitter.com/travisci)
 and watch our [Chef cookbooks repository on GitHub](https://github.com/travis-ci/travis-cookbooks/tree/master/vagrant_base).
 
 

@@ -71,7 +71,7 @@ The specified paths are relative to the build directory.
 We're working on getting more language-specific caching methods included, and
 on getting common dependency mirrors closer to our infrastructure,
 as we already did with a [network-local APT
-cache](http://about.travis-ci.org/docs/user/caching/#Caching-Ubuntu-packages).
+cache](http://docs.travis-ci.com/user/caching/#Caching-Ubuntu-packages).
     
 Bundler 1.5 has great features upcoming, including [Gem Source
 Mirrors](http://bundler.io/v1.5/bundle_config.html#gem-source-mirrors), which
@@ -79,7 +79,7 @@ we're looking into utilizing to increase the reliability of installing RubyGems.
 
 Stay tuned, and happy caching!
 
-For all the gory details on caching, see our [docs](/docs/user/caching/). Note
+For all the gory details on caching, see our [docs](http://docs.travis-ci.com/user/caching/). Note
 that this feature is currently only [**available for private
 repositories**](https://travis-ci.com).
 

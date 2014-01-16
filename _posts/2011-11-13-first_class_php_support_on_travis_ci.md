@@ -23,7 +23,7 @@ upstream).
 
 Having all those projects building fine for several days makes us confident that we are ready to ship this feature.
 
-Please see our [initial documentation for PHP projects](http://about.travis-ci.org/docs/user/languages/php) and [the rest of the guides](http://about.travis-ci.org/docs/). We tried to link to as many real world .travis.yml examples to demonstrate all the features in action.
+Please see our [initial documentation for PHP projects](http://docs.travis-ci.com/user/languages/php) and [the rest of the guides](http://docs.travis-ci.com/). We tried to link to as many real world .travis.yml examples to demonstrate all the features in action.
 
 In addition, we have a couple of machines lined up that we will be running PHP builds on. One of them is [Shopify](http://shopify.com): they donated a worker we have been using for Node.js projects. Another one is [ServerGrove](http://servergrove.com), experts in PHP hosting and specifically frameworks like Symfony and Zend Framework: they donated us one more machine to run PHP builds on.
 

@@ -31,7 +31,7 @@ Make sure to use our [travis](https://github.com/travis-ci/travis) command line
 tool to encrypt your password.
 
 To see all the available options for deployments to cloudControl, see our
-[documentation](http://about.travis-ci.org/docs/user/deployment/cloudcontrol/).
+[documentation](http://docs.travis-ci.com/user/deployment/cloudcontrol/).
 
 We have a [little example app](https://github.com/rkh/ruby-sinatra-example-app)
 running on there, [neatly deployed from Travis

@@ -7,7 +7,7 @@ layout: post
 permalink: /2013-09-18-deploy-to-engine-yard-cloud-from-travis-ci
 ---
 <figure class=" small right">
-  <a href="http://www.engineyard.com"><img src="http://about.travis-ci.org/images/logo-engineyard.png"/></a>
+  <a href="http://www.engineyard.com"><img src="http://blog.travis-ci.com/images/logo-engineyard.png"/></a>
 </figure>
 
 Today we're happy to announce **continuous deployment support for the [Engine Yard Cloud](https://www.engineyard.com/products/cloud)!**
@@ -22,7 +22,7 @@ Once your project is set up, configure the application in your .travis.yml:
       provider: engineyard
       api_key: <key>
 
-We recommend [encrypting the key in your .travis.yml](http://about.travis-ci.org/docs/user/build-configuration/#Secure-environment-variables).
+We recommend [encrypting the key in your .travis.yml](http://docs.travis-ci.com/user/build-configuration/#Secure-environment-variables).
 
 Alternatively, you can use username and password:
 
@@ -37,7 +37,7 @@ You can customize the environment to deploy to if you happen to have your app de
       provider: engineyard
       environment: kittens_production
 
-For the all the gory details on the available options, check out [our documentation](/docs/user/deployment/engineyard/).
+For the all the gory details on the available options, check out [our documentation](http://docs.travis-ci.com/user/deployment/engineyard/).
 
 Deploying to the Engine Yard Cloud is available for [open source](https://travis-ci.org) and [private](https://travis-ci.com) repositories today!
 

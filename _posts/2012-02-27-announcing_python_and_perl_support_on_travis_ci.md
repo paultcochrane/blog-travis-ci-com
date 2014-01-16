@@ -21,7 +21,7 @@ Python, around since the early 90's (think MC Hammer ["Too Legit to Quit"](http:
 
 You can watch build logs in near-real time in your browser, access logs later, and even link to log line numbers (for example, when reporting an issue).
 
-Thanks to GitHub integration, Travis CI lets your contributors effortlessly add their development forks to test work-in-progress branches and makes your CI status very visible to the community thanks to our [CI badges](http://about.travis-ci.org/docs/user/status-images/).
+Thanks to GitHub integration, Travis CI lets your contributors effortlessly add their development forks to test work-in-progress branches and makes your CI status very visible to the community thanks to our [CI badges](http://docs.travis-ci.com/user/status-images/).
 
 Started in early 2011, Travis CI has since run half a million builds for over 6,000 open source projects, including Ruby, Ruby on Rails, RubyGems, Node.js, Leiningen, Symfony and many more.
 
@@ -29,7 +29,7 @@ Started in early 2011, Travis CI has since run half a million builds for over 6,
 ## Getting Your Python Project on Travis CI
 
 Travis CI provides multiple Python and Perl versions to test against. To get started, you need to add one file
-(.travis.yml) and the GitHub hook as described in the [Getting Started guide](http://about.travis-ci.org/docs/user/getting-started/). A minimal .travis.yml
+(.travis.yml) and the GitHub hook as described in the [Getting Started guide](http://docs.travis-ci.com/user/getting-started/). A minimal .travis.yml
 would look like this:
 
     language: python
@@ -42,14 +42,14 @@ would look like this:
     # command to run tests
     script: nosetests
 
-It is possible to add new commands to the build lifecycle, please refer to [our documentation](http://about.travis-ci.org/), which now includes a guide dedicated to [Python](http://about.travis-ci.org/docs/user/languages/python/).
+It is possible to add new commands to the build lifecycle, please refer to [our documentation](http://docs.travis-ci.com/), which now includes a guide dedicated to [Python](http://docs.travis-ci.com/user/languages/python/).
 
 
 
 ## Getting Your Perl Project on Travis CI
 
 Travis CI provides three Perl versions to test against. To get started, you need to add one file
-(.travis.yml) and the GitHub hook as described in the [Getting Started guide](http://about.travis-ci.org/docs/user/getting-started/). A minimal .travis.yml
+(.travis.yml) and the GitHub hook as described in the [Getting Started guide](http://docs.travis-ci.com/user/getting-started/). A minimal .travis.yml
 would look like this:
 
     language: perl
@@ -70,7 +70,7 @@ or
 
     perl Makefile.PL && make test
 
-It is possible to override these commands and add new ones to the build lifecycle, please refer to [our documentation](http://about.travis-ci.org/), which now includes a guide dedicated to [Perl](http://about.travis-ci.org/docs/user/languages/perl/).
+It is possible to override these commands and add new ones to the build lifecycle, please refer to [our documentation](http://docs.travis-ci.com/), which now includes a guide dedicated to [Perl](http://docs.travis-ci.com/user/languages/perl/).
 
 
 
@@ -91,7 +91,7 @@ Travis' build workflow usually is
 
 ### Learn more
 
-To learn what tools and services (MySQL, Postgres, Riak, etc.) are available in the CI environment, refer to the [CI environment](http://about.travis-ci.org/docs/user/ci-environment/) guide.
+To learn what tools and services (MySQL, Postgres, Riak, etc.) are available in the CI environment, refer to the [CI environment](http://docs.travis-ci.com/user/ci-environment/) guide.
 
 If you need help, feel free to join #travis on chat.freenode.net, ping us on Twitter ([@travisci](http://twitter.com/travisci)) and ask questions on [our mailing list](https://groups.google.com/group/travis-ci).
 

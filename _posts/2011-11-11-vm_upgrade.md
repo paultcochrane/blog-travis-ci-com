@@ -25,7 +25,7 @@ Node.js workers were upgraded, too:
 
 ## Follow Us on Twitter
 
-To get regular updates about travis-ci.org environment upgrades and other developments, [follow Travis CI on Twitter](https://twitter.com/travisci)
+To get regular updates about Travis CI environment upgrades and other developments, [follow Travis CI on Twitter](https://twitter.com/travisci)
 and watch our [Chef cookbooks repository on GitHub](https://github.com/travis-ci/travis-cookbooks/tree/master/vagrant_base).
 
 

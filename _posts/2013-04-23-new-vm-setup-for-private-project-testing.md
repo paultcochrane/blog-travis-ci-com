@@ -28,7 +28,7 @@ There are three important changes which are good to be aware of as well as they 
 
 3. The use of 'sudo' should not be required for commands like 'npm install', 'pip install' or 'gem install'. Removing the 'sudo' should make everything hum along nicely.
 
-4. Declaration of services required by your application is now mandatory to reduce the overhead of things running by default. See the [documentation](http://about.travis-ci.org/docs/user/database-setup/#Configure-Your-Projects-to-Use-Services-in-Tests) for details. 
+4. Declaration of services required by your application is now mandatory to reduce the overhead of things running by default. See the [documentation](http://docs.travis-ci.com/user/database-setup/#Configure-Your-Projects-to-Use-Services-in-Tests) for details. 
 
 If you experience any issues, please email us at [support@travis-ci.com](mailto:support@travis-ci.com), or pop into our Campfire room, and we would be more than happy to help :)
 

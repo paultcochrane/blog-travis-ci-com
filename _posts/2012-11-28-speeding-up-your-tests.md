@@ -16,7 +16,7 @@ to run, sometimes even up to half an hour.
 
 To speed up a test suite like that, you can break it up into several parts using
 Travis’ [build
-matrix](http://about.travis-ci.org/docs/user/build-configuration/#The-Build-Matrix)
+matrix](http://docs.travis-ci.com/user/build-configuration/#The-Build-Matrix)
 feature.
 
 ![Neo dodging bullets](http://i.imgur.com/w8Wv1.jpg)
