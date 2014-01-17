@@ -1,6 +1,6 @@
 ---
 title: A Big Refactoring!
-layout: en
+layout: post
 created_at: Mon Aug 29 12:29:26 EDT 2011
 permalink: /big_refactoring
 ---
