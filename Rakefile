@@ -1,7 +1,7 @@
 # Copyright 2013 Travis CI team and contributors
 require 'erb'
 
-desc "Generate blog post file in blog/_posts"
+desc "Generate blog post file in _posts"
 task :gen_blog_post, [:title] do |t, args|
   template = File.read(File.join(File.dirname(__FILE__),'templates', 'blog.erb'))
 
@@ -11,7 +11,7 @@ task :gen_blog_post, [:title] do |t, args|
   date_stamp       = time.strftime('%Y-%m-%d')
   permalink        = "#{date_stamp}-#{title_normalized}"
   file_name        = "#{permalink}.md"
-  file_full_path   = File.join('blog', '_posts', file_name)
+  file_full_path   = File.join('_posts', file_name)
   erb              = ERB.new(template)
 
   File.open(file_full_path, 'w+') do |f|
