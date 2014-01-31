@@ -286,6 +286,14 @@ figure.right {
   max-width : 250px;
 }
 
+#main figure.normal {
+  width: 308px;
+}
+
+#main figure.normal img {
+  max-width: 300px;
+}
+
 #disqus_thread {
   width  : 600px;
   margin : 50px auto 0px auto;
