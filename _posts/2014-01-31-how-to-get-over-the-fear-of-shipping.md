@@ -43,6 +43,9 @@ changing.**
 There are excellent services out there to [track your code
 coverage](https://codeclimate.com/partners/travisci).
 
+If you're looking into adopting a continuous integration system, [we can help
+with that too](https://travis-ci.com)!
+
 ### Lack of automated deployment
 
 How fast can you ship your code to production? Does it take minutes?
