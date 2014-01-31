@@ -41,7 +41,7 @@ tests for any new code you're writing and for any existing code you're
 changing.**
 
 There are excellent services out there to [track your code
-coverage](http://codeclimate.com).
+coverage](https://codeclimate.com/partners/travisci).
 
 ### Lack of automated deployment
 
