@@ -12,6 +12,17 @@
     <link rel="stylesheet" type="text/css" href="/blog-mobile.css" media="handheld, only screen and (max-device-width: 960px)">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <link rel="alternate" type="application/atom+xml" href="/blog.xml">
+
+    {% if page.title %} 
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:title" content="{{ page.title | truncate:70 }}"/>
+    <meta name="twitter:site" content="@travisci"/>
+    <meta name="twitter:creator" content="@{{ page.twitter }}"/>
+    <meta name="twitter:description" content="{{ page.content | markdownify | strip_html | truncate:200 }}"/>
+    <meta name="twitter:url" content="http://blog.travis-ci.com{{ page.url }}">
+    <meta name="twitter:domain" content="blog.travis-ci.com">
+    {% endif %}
+
     <script type="text/javascript">
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-24868285-7']);
