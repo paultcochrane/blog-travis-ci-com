@@ -141,6 +141,10 @@ bombs and a simple `/awwww` command in Campfire.
 
 ### Remote work is about happiness
 
+<figure>
+  <img src="http://s3itch.paperplanes.de/sliceoflife.gif"/>
+</figure>
+
 With a remote team, you need to invest a lot more to make your team happy, to
 give them room to bond when they don't see each other in person for weeks or
 months, to give them a good laugh every now and then.
