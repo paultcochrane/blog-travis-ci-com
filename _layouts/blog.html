@@ -21,6 +21,9 @@
     <meta name="twitter:description" content="{{ page.content | markdownify | strip_html | truncate:200 }}"/>
     <meta name="twitter:url" content="http://blog.travis-ci.com{{ page.url }}">
     <meta name="twitter:domain" content="blog.travis-ci.com">
+    {% if page.twitter_card_image %}
+    <meta name="twitter:image" content="{{ page.twitter_card_image }}"/>
+    {% endif %}
     {% endif %}
 
     <script type="text/javascript">
