@@ -30,8 +30,8 @@ Make sure to copy the API token shown as it will only be shown to you once.
 
 Then you can enable the notifications in your `.travis.yml`:
 
-  notifications:
-    sqwiggle: <api_token>@room
+    notifications:
+      sqwiggle: <api_token>@room
 
 The room can be identified by its path name or by its identifier, which you can
 fetch via the API.
@@ -50,10 +50,10 @@ credentials](http://docs.travis-ci.com/user/encryption-keys/) using our
 You can notify multiple Sqwiggle rooms too, just add the `rooms` key and specify
 the list of rooms.
 
-  notifications:
-    sqwiggle:
-      rooms:
-        - <api_token>@situation-room
-        - <api_token>@main-hall
+    notifications:
+      sqwiggle:
+        rooms:
+          - <api_token>@situation-room
+          - <api_token>@main-hall
 
 Our thanks to [Luke](https://twitter.com/lukeroberts1990) from Sqwiggle for contributing the notifications code!
