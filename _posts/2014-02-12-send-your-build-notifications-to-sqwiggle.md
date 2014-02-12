@@ -8,7 +8,7 @@ layout: post
 ---
 Just recently, in a blog post on [how we manage remote
 work](/2014-02-03-how-we-manage-work-in-a-remote-team/), we introduced you to
-[Sqwiggle](https://sqwiggle.com), a great tool for remote teams to stay in
+[Sqwiggle](https://www.sqwiggle.com), a great tool for remote teams to stay in
 visual touch with each other./
 
 Sqwiggle supports more than video presence and video chats, you can use it as
