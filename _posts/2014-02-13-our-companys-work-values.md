@@ -6,7 +6,7 @@ twitter: roidrage
 layout: post
 permalink: 2014-02-13-how-we-roll-as-a-team
 ---
-We recently talked about how [we omanage remote work on our
+We recently talked about how [we manage remote work on our
 team](/2014-02-03-how-we-manage-work-in-a-remote-team/).
 
 Tools are an important part of remote team work, but there's a bigger issue
