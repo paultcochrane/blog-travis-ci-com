@@ -77,7 +77,7 @@ process.
 department](http://jackealtman.com/customer-service-isnt-a-department), it's a
 business value.
 
-### Ongoing Communication instead of Daily Standups
+### Ongoing communication instead of daily standups
 
 There are no daily standups in our workflow.
 
@@ -88,7 +88,7 @@ Everyone is encouraged to speak up and pull others in when they have problems.
 **Daily standups are disruptive to people's workflows, especially when you're
 distributed across the globe.**
 
-### Personal Life Comes First
+### Personal life comes first
 
 People have families, people have personal lives. That is something to be
 respected, and something we appreciate.
