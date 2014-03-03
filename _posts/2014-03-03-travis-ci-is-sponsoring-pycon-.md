@@ -19,7 +19,7 @@ their projects testing on Travis CI.
 We are so excited to be part of PyCon!
 To celebrate our sponsorship with you, we are giving away one free ticket to this wonderful conference!
 
-To enter the raffle, sign up for a Travis CI account at https://travis-ci.org if you haven't
+To enter the raffle, sign up for a [Travis CI](https://travis-ci.org) account if you haven't
 done so already, and star [this Gist](https://gist.github.com/BanzaiMan/32bf11ef224f476d4379) before 9 March, 23:59 UTC.
 We will contact the winner via email on March 10th.
 
