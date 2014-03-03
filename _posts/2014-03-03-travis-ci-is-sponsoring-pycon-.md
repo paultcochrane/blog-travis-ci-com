@@ -6,7 +6,7 @@ twitter: hiro_asari
 layout: post
 permalink: 2014-03-03-travis-ci-is-sponsoring-pycon-
 ---
-# Travis CI is sponsoring PyCon 2014
+# [Travis CI](https://travis-ci.org) is sponsoring PyCon 2014
 We are excited to announce our sponsorship of [PyCon 2014](https://us.pycon.org/2014/)
 in Montréal from 9th to 17th of April.
 
