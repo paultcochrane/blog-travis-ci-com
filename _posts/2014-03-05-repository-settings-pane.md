@@ -1,10 +1,10 @@
 ---
 title: "Introducing Finer Controls over Building Branches and Pull Requests with Repository Settings"
-created_at: Thu 13 Feb 2014 18:30:00 CET
+created_at: Wed 05 Mar 2014 18:30:00 CET
 author: Piotr Sarnacki
 twitter: drogus
 layout: post
-permalink: 2014-02-18-repository-settings
+permalink: 2014-03-05-repository-settings
 ---
 
 A `.travis.yml` config file is a main configuration point for your builds.
