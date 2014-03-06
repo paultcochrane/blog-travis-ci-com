@@ -32,7 +32,7 @@ But feature flags can be used for much more than just disabling features in prod
 
     This allows you to run experiments with actual users before you put it live. You can collect feedback and iterate based on real production usage.
    
-* Enable it for your team to try out and give feedback on. At GitHub, this is known as staff mode. Next time you see a hühner in the wild, peek at their version of GitHub, I'm sure you'll notice some subtle differences.
+* Enable it for your team to try out and give feedback on. At GitHub, this is known as staff mode. Next time you see a hubber in the wild, peek at their version of GitHub, I'm sure you'll notice some subtle differences.
 
 * Enable a feature for a specific set of users, or just your team for them to try it out before it's rolled out for everyone.
 
