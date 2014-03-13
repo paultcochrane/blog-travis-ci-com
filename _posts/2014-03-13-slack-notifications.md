@@ -31,7 +31,7 @@ You can set up multiple notifications to multiple channels too.
 
 We did something new with this integration as well: **Slack notifications are
 sent on pull requests**, so your team can stay up-to-date about their build
-status as well.
+status.
 
 Check our
 [documentation](http://docs.travis-ci.com/user/notifications/#Slack-notifications)
