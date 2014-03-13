@@ -22,7 +22,7 @@ Today we're more than happy to change that, as Slack are now a built-in part of
 Getting started requires a new [Slack integration for Travis
 CI](https://my.slack.com/services/new/travis).
 
-Once you've chosen a room, you'll a snippet ready to copy and paste into your
+Once you've chosen a room, you'll get a snippet ready to copy and paste into your
 `.travis.yml`.
 
 ![](http://s3itch.paperplanes.de/Team_Integration__Travis_CI_Slack_20140313_093329_20140313_093404.jpg)
