@@ -20,7 +20,7 @@ Today we're more than happy to change that, as Slack are now a built-in part of
 [our notification system](http://docs.travis-ci.com/user/notifications).
 
 Getting started requires a new [Slack integration for Travis
-CI](https://travisci.slack.com/services/new/travis).
+CI](https://my.slack.com/services/new/travis).
 
 Once you've chosen a room, you'll a snippet ready to copy and paste into your
 `.travis.yml`.
