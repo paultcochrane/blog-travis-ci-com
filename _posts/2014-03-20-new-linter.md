@@ -7,7 +7,7 @@ layout: post
 permalink: 2014-03-20-validate-travis-yml-configuration-with-super-powers
 ---
 
-Users wonder why their build doesn't start, but often the culprit is `.travis.yml`. We introduced [our web linter](http://lint.travis-ci.org/) to prevent such issues as tool to validate a `.travis.yml`. Until recently, this solution was far from ideal. Most settings were simply ignored, and those that were validated often resulted in false positives. It wasn't an all-that-useful tool.
+Users wonder why their build doesn't start, but often the culprit is `.travis.yml`. We introduced [our web linter](http://lint.travis-ci.org/) as tool to validate a `.travis.yml`. Until recently, this solution was far from ideal. Most settings were simply ignored, and those that were validated often resulted in false positives. It wasn't an all-that-useful tool.
 
 We have now replaced it with a complete rewrite. It is using our brand new [travis-yaml](https://github.com/travis-ci/travis-yaml) gem. This means instead of being very rudimentary and not well maintained, it is powerful and descriptive when it comes to spotting issues in your [build configuration](http://docs.travis-ci.com/user/build-configuration/).
 
