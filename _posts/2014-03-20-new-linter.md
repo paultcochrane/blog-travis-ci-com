@@ -1,6 +1,6 @@
 ---
 title: Validate your .travis.yml, with Super Powers
-created_at: Thu 20 Mar 2014 17:17:48 CET
+created_at: Thu 20 Mar 2014 18:17:48 CET
 author: Konstantin Haase
 twitter: konstantinhaase
 layout: post
