@@ -13,7 +13,7 @@ they were initially added on [20 February
 That's more than three years ago!
 
 Here's what the first ever build status badge looked like:
-![](https://raw.githubusercontent.com/travis-ci/travis-ci/b6b9e9bbe1ea8e53bbd5742b0dafdced7b201ab1/public/images/status/stable.png)
+![](http://s3itch.paperplanes.de/Screenshot_20140320_165453_20140320_165507.jpg)
 
 Now they've become part of the trust chain in a project. The green badge
 instills confidence that the project maintainer is not only actively writing
@@ -42,5 +42,6 @@ they look, fingers crossed the build is green!
 For the time being, we'll still serve the PNG files on the old URLs, but we'll
 eventually serve the SVG version by default for both URLs.
 
-Our thanks goes to the Shields project for providing us with these badges and
-for pushing towards them being unified across all projects actively using them.
+Many thanks to the [Shields](http://shields.io) project for providing us with
+these badges and for pushing towards them being unified across all projects
+actively using them.
