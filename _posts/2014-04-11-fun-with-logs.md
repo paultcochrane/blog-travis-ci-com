@@ -32,11 +32,13 @@ Logging structured data with this format only requires a hash of key=value pairs
 
 Here's an example from the Heroku router:
 
-    heroku[router]: at=info method=POST path=/ host=billing.travis-ci.com dyno=web.1 connect=3ms service=148ms status=303 bytes=614
+    heroku[router]: at=info method=POST path=/ host=billing.travis-ci.com
+      dyno=web.1 connect=3ms service=148ms status=303 bytes=614
 
 Here's the request as logged with lograge:
 
-    method=GET path=/ format=html controller=home action=index status=200 duration=200.95 view=164.48 db=30.98
+    method=GET path=/ format=html controller=home action=index status=200
+      duration=200.95 view=164.48 db=30.98
 
 Add a unique request identifier to the mix and you can start tracing requests throughout your system, both with a log parser, which can make sense of the format above, and with your eyes when you're tailing or searching the logs.
 
@@ -50,7 +52,7 @@ Our own build logs support a lot of ANSI codes too, allowing you to see your bui
 
 All it takes is adding a few ANSI escapes to your logs. Here's an example from our support backend:
 
-    \e[32m[travis-admin] \e[33m[#{request_id}] \e[35m[#{current_user.login}]\e[0m
+    \e[32m[admin] \e[33m[#{request_id}] \e[35m[#{current_user.login}]\e[0m
 
 Every ANSI escape starts with a `\e` escape sequence followed by a command, in this case `[32m` which tells the terminal to change the graphics mode. At the end, `\e[0m` resets the graphics mode back to the default.
 
