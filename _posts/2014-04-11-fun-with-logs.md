@@ -1,5 +1,5 @@
 ---
-title: Fun With Logs
+title: 7 Ways to Make Your Production Logs More Useful
 created_at: Fri 11 Apr 2014 11:30:00 CEST
 layout: post
 author: Mathias Meyer
