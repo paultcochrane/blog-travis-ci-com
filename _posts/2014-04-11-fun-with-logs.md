@@ -110,9 +110,9 @@ Our billing system logs links to customer information on Stripe, for example. Ta
 
 Emojis are great to [express your emotions](http://wynnnetherland.com/journal/putting-the-emote-in-remote-work) and to say things much shorter than with words.
 
-That should give us something for logs as well, shouldn't it? It's nice to parse web request log lines that show something like `status=500`, but how much better would it be if they said `status=😱`?
+That should give us something for logs as well, shouldn't it? It's nice to parse web request log lines that show something like `status=500`, but how much better would it be if they said `status=:scream:`?
 
-Or replace severity with emojis. Surely 😂 is easier to spot for your eyes than `WARN`, yes?
+Or replace severity with emojis. Surely :cry: is easier to spot for your eyes than `WARN`, yes?
 
 Of course you could easily use [Kaomojis](http://www.chatslang.com/emoticons/kaomoji) as well, should your favorite logging system or terminal not support Emojis. `status=(╯°□°）╯` or `status=ಠ_ಠ` could work just as well.
 
