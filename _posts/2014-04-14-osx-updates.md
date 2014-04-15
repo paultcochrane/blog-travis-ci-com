@@ -9,8 +9,7 @@ permalink: 2014-04-15-xcode-51-ios-71-osx-109
 
 We are happy to announce that Xcode 5.1, iOS 7.1 and OS X 10.9 support is coming
 to Travis CI! We will be updating travis-ci.org this Wednesday, [April 16th at 3
-PM UTC][org-time] and travis-ci.com the following Friday, [April 18th at 3 PM
-UTC][com-time].
+PM UTC][org-time] and travis-ci.com Friday, [April 18th at 3 PM UTC][com-time].
 
 [org-time]: http://www.timeanddate.com/worldclock/fixedtime.html?iso=20140416T15
 [com-time]: http://www.timeanddate.com/worldclock/fixedtime.html?iso=20140418T15
@@ -25,9 +24,9 @@ are now preinstalled:
 With this update we've also removed some older versions of iOS SDKs, the
 available SDKs are now iOS 6.1, 7.0 and 7.1.
 
-We've also switched the default Ruby to be Ruby 2.0.0 to match the system Ruby
-on OS X 10.9, although it is installed with RVM, so you don't have to use `sudo`
-to install gems.
+We've also switched the default Ruby over to Ruby 2.0.0 to match the system Ruby
+on OS X 10.9. Note that this Ruby verison is installed with RVM, so there is no
+need to use `sudo` to install gems.
 
 If you see any issues after the update, please [let us
 know](mailto:support@travis-ci.org) or [open a
