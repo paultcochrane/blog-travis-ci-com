@@ -17,8 +17,8 @@ There are two updates we would like to talk about in further detail.
 
 The first is the inclusion of HHVM nightly in the PHP build environment. This means you can now add:
 
-  php:
-    - hhvm-nightly
+    php:
+      - hhvm-nightly
 
 to your .travis.yml and we will install the latest nightly HHVM package so you can test your libraries or apps against the latest and greatest changes available in trunk. On top of this we have also updated the installed HHVM to 3.0.1.
 
