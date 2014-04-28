@@ -64,7 +64,7 @@ Below is the full set of changes included in this upgrade:
   - 3.4.0 is now available
   - 2.6.9, 2.7.6, 3.2.5, 3.3.5, 3.4.0, pypy-2.2.1 all installed
 
-**Php**:
+**PHP**:
   - Updated PHP to 5.4.27 and 5.5.11
   - Support for PHP 5.6 with 5.6.0alpha3
   - Updated HHVM to 3.0.1
