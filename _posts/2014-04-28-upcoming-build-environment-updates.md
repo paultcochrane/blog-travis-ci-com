@@ -56,48 +56,58 @@ Josh
 Below is the full set of changes included in this upgrade:
 
 **Erlang**:
+
   - Removed 17.0-rc1 and 17.0-rc2
   - 17.0 added
 
 **Python**:
+
   - Pythons now installed with pyenv
   - 3.4.0 is now available
   - 2.6.9, 2.7.6, 3.2.5, 3.3.5, 3.4.0, pypy-2.2.1 all installed
 
 **PHP**:
+
   - Updated PHP to 5.4.27 and 5.5.11
   - Support for PHP 5.6 with 5.6.0alpha3
   - Updated HHVM to 3.0.1
   - Support for HHVM nightly
 
 **Ruby**:
+
   - JRuby upgraded to 1.7.11
   - 1.9.3 upgraded to 1.9.3-p545
   - 2.0.0 upgraded to 2.0.0-p451
   - 2.1.0 upgraded to 2.1.1
 
 **Perl**:
+
   - Updated 5.19.6 to 5.19.9
   - Updated 5.18.1 to 5.18.2
 
 **Haskell**:
+
   - 7.8.2 added
 
 **Java**:
+
   - Updated Oracle JDK 8 to build 1.8.0-b132
   - JCE for JDK 8 added
   - Updated Maven to 3.2.1
 
 **Scala**:
+
   - Updated sbt launcher
   - 2.10.4 now the default and preinstalled
 
 **Node.js**:
+
   - Updated nvm
   - 0.10.26 is the new default
   - Updated 0.11 to 0.11.11
 
 **Services**: (standard on all language build environments)
+
   - Elasticsearch 1.1.0
   - CouchDB 1.3.1
   - MongoDB 2.4.10
