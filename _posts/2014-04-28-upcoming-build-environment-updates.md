@@ -41,7 +41,7 @@ With this update you now have access to Python 2.6.9, 2.7.6, 3.2.5, 3.3.5 and 3.
 
 ## A special thanks!
 
-Lastly we would love to give huge thanks to Gilles Cornu (https://github.com/gildegoma) who has been a tremendous help in upgrading our cookbooks and our language build environments. Gilles, you rock!
+Lastly we would love to give huge thanks to [Gilles Cornu](https://github.com/gildegoma) who has been a tremendous help in upgrading our cookbooks and our language build environments. Gilles, you rock!
 
 If you're having any problems after the upgrade, please [file an issue](https://github.com/travis-ci/travis-ci/issues/new) or [contact
 support](mailto:support@travis-ci.com) directly.
