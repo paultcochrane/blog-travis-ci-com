@@ -108,6 +108,10 @@ Below is the full set of changes included in this upgrade:
   - 0.10.26 is the new default
   - Updated 0.11 to 0.11.11
 
+**C/C++**:
+
+  - Clang updated to 3.4
+
 **Services**: (standard on all language build environments)
 
   - Elasticsearch 1.1.0
