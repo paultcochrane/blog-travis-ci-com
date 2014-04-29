@@ -10,7 +10,7 @@ In a previous blog post, we talked about [tracking new metrics when changing exi
 
 We added code to track cache hits and misses so that we can make better decisions on possibly improving the way we cache data to serve build status images. With these metrics in place as of yesterday, I wanted to calculate the percentage cache hit rate from these two metrics.
 
-Librato Metrics, our metrics aggregator of choice, recently [shipped a new feature called composite metrics](http://blog.librato.com/posts/composite-metrics), allowing you to combine the values from multiple metrics series to transform them into composites. For instance, you could add up all the CPU usage values in your server cluster to a global value, or calculate the sum of all requests hitting your application by adding the different counts for status codes.
+[Librato Metrics](https://metrics.librato.com), our metrics aggregator of choice, recently [shipped a new feature called composite metrics](http://blog.librato.com/posts/composite-metrics), allowing you to combine the values from multiple metrics series to transform them into composites. For instance, you could add up all the CPU usage values in your server cluster to a global value, or calculate the sum of all requests hitting your application by adding the different counts for status codes.
 
 This very feature comes in handy to calculate things like rates, which can be easier for a human to parse, like in the case of cache hits and misses.
 
