@@ -24,7 +24,7 @@ We are using [TripIt's Slate](https://github.com/tripit/slate) as a template. It
 
 Right now, our API serves version 1 of our payloads if it is available. If not, it chooses version 2 instead. The latter is also the format used by our [Ember.js client](https://github.com/travis-ci/travis-web).
 
-This leaves out API responses in a very inconsistent state. Moreover, version 1 is not maintained.
+This leaves API responses in a very inconsistent state. Moreover, version 1 is not maintained.
 
 To give you an idea what we're talking about, the version 1 payload for [Sinatra](https://github.com/sinatra/sinatra) looks like the following:
 
