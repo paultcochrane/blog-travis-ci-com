@@ -7,7 +7,7 @@ author: Konstantin Haase
 twitter: konstantinhaase
 ---
 
-Today we have three announcements to make: We are deprecating version 1 of our API, we will require the User-Agent header to be set for all requests, and we have rewritten our [API documentation](http://docs.travis-ci.com/api/).
+Today we have three announcements to make: We have rewritten our [API documentation](http://docs.travis-ci.com/api/), we are deprecating version 1 of our API and we will require the `User-Agent` header to be set for all requests.
 
 ## New API Documentation
 
