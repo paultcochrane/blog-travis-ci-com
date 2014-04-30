@@ -7,9 +7,18 @@ author: Konstantin Haase
 twitter: konstantinhaase
 ---
 
-**We have new API docs: [docs.travis-ci.com/api](http://docs.travis-ci.com/api/). All API requests should set `Accept` and `User-Agent` headers.**
-
 Today we have three announcements to make: We are deprecating version 1 of our API, we will require the User-Agent header to be set for all requests, and we have rewritten our [API documentation](http://docs.travis-ci.com/api/).
+
+## New API Documentation
+
+Exciting news: We have completely rewritten our [API documentation](http://docs.travis-ci.com/api/). All the endpoints and payloads are now documented and there are examples for accessing them via HTTP directly, via our command line client and via our Ruby library.
+
+<figure>
+  [ ![The new API docs.](/images/api_docs.png) ](/images/api_docs.png)
+  <figcaption>The new API docs.</figcaption>
+</figure>
+
+We are using [TripIt's Slate](https://github.com/tripit/slate) as a template. It makes a great boilerplate for API documentation.
 
 ## Deprecating Version 1
 
@@ -61,16 +70,5 @@ To have all endpoints return the new format right away, set the `Accept` header 
 Starting on or after **July 1, 2014**, we will reject API requests that do not include a `User-Agent` header.
 
 Our [official Ruby client](https://github.com/travis-ci/travis.rb) will take care of both using the new payload and setting the User-Agent for you.
-
-## New API Documentation
-
-Now some good news: We have completely rewritten our [API documentation](http://docs.travis-ci.com/api/). All the endpoints and payloads are now documented and there are examples for accessing them via HTTP directly, via our command line client and via our Ruby library.
-
-<figure>
-  [ ![The new API docs.](/images/api_docs.png) ](/images/api_docs.png)
-  <figcaption>The new API docs.</figcaption>
-</figure>
-
-We are using [TripIt's Slate](https://github.com/tripit/slate) as a template. It makes a great boilerplate for API documentation.
 
 We hope to inspire and enable you to build and automate on top of our API. Let us know if you have any questions, feedback or projects you want to show us.
