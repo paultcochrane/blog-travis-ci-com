@@ -69,6 +69,8 @@ To have all endpoints return the new format right away, set the `Accept` header 
 
 Starting on or after **July 1, 2014**, we will reject API requests that do not include a `User-Agent` header.
 
+Assuming your client is called “My Client”, and it’s current version is 1.0.0, a good value would be `MyClient/1.0.0`. For our command line client running on OS X 10.9 on Ruby 2.1.1, it might look like this: `Travis/1.6.8 (Mac OS X 10.9.2 like Darwin; Ruby 2.1.1; RubyGems 2.0.14) Faraday/0.8.9 Typhoeus/0.6.7`.
+
 Our [official Ruby client](https://github.com/travis-ci/travis.rb) will take care of both using the new payload and setting the User-Agent for you.
 
 We hope to inspire and enable you to build and automate on top of our API. Let us know if you have any questions, feedback or projects you want to show us.
