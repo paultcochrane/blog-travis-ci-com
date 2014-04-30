@@ -18,7 +18,7 @@ Exciting news: We have completely rewritten our [API documentation](http://docs.
   <figcaption>The new API docs.</figcaption>
 </figure>
 
-We are using [TripIt's Slate](https://github.com/tripit/slate) as a template. It makes a great boilerplate for API documentation.
+We are using [TripIt's Slate](https://github.com/tripit/slate) as a template. It makes a great boilerplate for API documentation. We'd also like to thank [Thais Camilo](https://twitter.com/narwen) for her help with writing the docs.
 
 ## Deprecating Version 1
 
