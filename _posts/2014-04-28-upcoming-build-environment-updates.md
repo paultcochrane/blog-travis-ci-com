@@ -7,14 +7,14 @@ layout: post
 permalink: /2014-04-28-upcoming-build-environment-updates
 ---
 
-**Update: The build environment update for travis-ci.org has been postponed by a day (30th of April, 04:00 UTC) due to issues caching all images across all dedicated hosts.**
+**Update: The build environment update for travis-ci.com has been postponed by two days (7th of May, 02:00 UTC) due to some fixes required in the Ruby build environment.**
 
 We are very excited to announce a great set of updates to our Build Environment for all Travis CI users.
 
 These updates include everything from version bumps in the services we provide, to language build environment improvements.
 
 ## Update schedule
-These build environment updates will be live for all **[travis-ci.org](https://travis-ci.org)** users at **04:00 UTC on the 30th of April**, with **[travis-ci.com](https://travis-ci.com)** due to be updated on the **5th of May at 02:00 UTC**.
+These build environment updates will be live for all **[travis-ci.org](https://travis-ci.org)** users at **04:00 UTC on the 30th of April**, with **[travis-ci.com](https://travis-ci.com)** due to be updated on the **7th of May at 02:00 UTC**.
 
 ## Update highlights
 
