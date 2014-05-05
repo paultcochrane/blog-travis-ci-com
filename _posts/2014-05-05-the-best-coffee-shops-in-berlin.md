@@ -26,7 +26,7 @@ The Barn is one of my personal favorite, and their espresso roasts are the ones 
 
 You'll occasionally find some of the Travis CI team sitting here, talking about bacon and other things.
 
-There's no wifi in the shop, it's a place to sit and enjoy you're coffee. There's a big communal table, where you can pull out your laptop, but bring your own internet if you do.
+There's no wifi in the shop, it's a place to sit and enjoy your coffee. There's a big communal table, where you can pull out your laptop, but bring your own internet if you do.
 
 The Barn's beans are for sale in their shop for you home brewing pleasure too.
 
