@@ -52,7 +52,7 @@ They serve a mix of local beans and coffees shipped from other German and Europe
 
 Their cheesecake is pretty amazing too, it's right up there with the one from Five Elephant.
 
-### [Cafe CK](http://www.cafeck.de)
+### [Cafe CK](http://cafeckberlin.com)
 
 A great little spot right in Prenzlauer Berg, run by the local coffee cupping champion. Cafe CK serves Sølberg & Hansen coffee and excellent banana bread too. For extra style bonus, coffee is served in wine caraffes and whisky glasses.
 
