@@ -14,7 +14,7 @@ It's no secret that the Travis CI team likes good coffee. We like it so much we 
 
 Quite a few of us are living in Berlin, and it's about time we share our favorite coffee spots around the city, some of which we even call our second offices.
 
-### The Barn
+### [The Barn](http://www.thebarn.de)
 
 One of the first coffee shops in Berlin to serve the great coffee from Square Mile in London, The Barn is now roasting their own coffee, heavily inspired by the likes of Square Mile, Coffee Collective and Tim Wendelboe.
 
@@ -30,7 +30,7 @@ There's no wifi in the shop, it's a place to sit and enjoy you're coffee. There'
 
 The Barn's beans are for sale in their shop for you home brewing pleasure too.
 
-### Five Elephant
+### [Five Elephant](http://www.fiveelephant.com)
 
 Some say, they're selling the **Mother of all Cheesecakes** here, and they're right.
 
@@ -42,7 +42,7 @@ Depending on the season, look out for their Obata from Brazil, the Tegu from Ken
 
 Their roasts are pretty amazing, so you're well advised to buy a bag. You can shop online for their coffee too.
 
-### Silo Coffee
+### [Silo Coffee](https://twitter.com/siloberlin)
 
 For the latter half of 2013, Silo Coffee officially turned into the Travis CI HQ in Berlin. We were very close to officially changing our business address to get our mail delivered here.
 
@@ -52,19 +52,19 @@ They serve a mix of local beans and coffees shipped from other German and Europe
 
 Their cheesecake is pretty amazing too, it's right up there with the one from Five Elephant.
 
-### Cafe CK
+### [Cafe CK](http://www.cafeck.de)
 
 A great little spot right in Prenzlauer Berg, run by the local coffee cupping champion. Cafe CK serves Sølberg & Hansen coffee and excellent banana bread too. For extra style bonus, coffee is served in wine caraffes and whisky glasses.
 
 They've got wifi too, so you can spend some time here, working and sipping your way through a great collection of high quality coffee beans.
 
-### No Fire, No Glory
+### [No Fire, No Glory](http://nofirenoglory.de)
 
 Well known for their giant vintage cash register and great coffee, No Fire No Glory is located right in the center of Prenzlauer Berg, and just up the street from Cafe CK.
 
 They serve a nice mix of coffee from Five Elephant, and Coffee Collective from Copenhagen. There's a nice outside area on the sidewalk where you can sip your coffee, enjoy a giant piece of delicious cake and get some work done, thanks to the wifi.
 
-### Westberlin
+### [Westberlin](http://www.westberlin-bar-shop.de)
 
 Located very close to Checkpoint Charlie, this is the most stylish coffee shop around, and it's web worker friendly too. The shop is beautifully decorated with Scandinavian furniture and serves both coffee from Five Elephant and Drop Coffee.
 
