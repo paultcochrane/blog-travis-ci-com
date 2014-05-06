@@ -22,8 +22,8 @@ and get started!
 
 ## Huge thanks to Gilles Cornu, Andrew Rosa and Ralf Kistner
 
-The first-class Android support on Travis CI is a result of valiant efforts by [Gilles Cornu](https://github.com/gildegoma)
-[Andrew Rosa](https://github.com/andrewhr) and [Ralf Kistner](https://github.com/rkistner).
+The first-class Android support on Travis CI is a result of valiant efforts by [Gilles Cornu](https://github.com/gildegoma),
+[Andrew Rosa](https://github.com/andrewhr), and [Ralf Kistner](https://github.com/rkistner).
 
 Thank you, Gilles, Andrew and Ralf! You guys are awesome.
 
