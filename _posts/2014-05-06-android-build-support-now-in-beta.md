@@ -20,12 +20,12 @@ Travis CI, bringing our market coverage to [over 90%](https://www.comscore.com/I
 Without further ado, head on over to the [Android development guide](http://docs.travis-ci.com/user/languages/android/)
 and get started!
 
-## Huge thanks to Gilles Cornu
+## Huge thanks to Gilles Cornu, Andrew Rosa and Ralf Kistner
 
-Gilles Cornu was instrumental in bringing the first-class Android support
-to Travis CI.
+The first-class Android support on Travis CI is a result of valiant efforts by [Gilles Cornu](https://github.com/gildegoma)
+[Andrew Rosa](https://github.com/andrewhr) and [Ralf Kistner](https://github.com/rkistner).
 
-Thank you, Gilles! You are awesome.
+Thank you, Gilles, Andrew and Ralf! You guys are awesome.
 
 ### Legal
 Android is a trademark of Google Inc.
