@@ -1,10 +1,10 @@
 ---
 title: "Android Build Support Now in Beta"
-created_at: Tue 06 May 2014 10:11:29 EDT
+created_at: Wed 07 May 2014 10:11:29 EDT
 author: Hiro Asari
 twitter: hiro_asari
 layout: post
-permalink: 2014-05-06-android-build-support-now-in-beta
+permalink: 2014-05-07-android-build-support-now-in-beta
 ---
 
 ## Announcing Beta testing for Android Build support
