@@ -17,6 +17,8 @@ We have had iOS support [just over a year](http://blog.travis-ci.com/introducing
 Today, we are pleased to announce the beta testing for Android builds on
 Travis CI, bringing our market coverage to [over 90%](https://www.comscore.com/Insights/Press_Releases/2014/3/comScore_Reports_January_2014_US_Smartphone_Subscriber_Market_Share).
 
+![](/images/Travdroid.png)
+
 This release is very much work in progress.
 As such, we really appreciate your feedback on how we can make
 the development process better for you.
