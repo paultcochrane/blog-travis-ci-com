@@ -1,0 +1,68 @@
+---
+title: "Multi-OS Feature Available"
+created_at: Fri 09 May 2014 21:37:09 EDT
+author: Hiro Asari
+twitter: hiro_asari
+layout: post
+permalink: 2014-05-09-multi-os-feature-available
+---
+
+## One Repository, Multiple OSes
+We are elated to announce the availabity of the multi-OS feature
+on Travis CI.
+
+With this feature, your code can now be tested on Linux and Mac OS
+workers.
+Your Ruby gems and Python libraries, among other things,
+can now be tested on Travis CI from a single repository.
+
+## "Cool beans! How do I get started?"
+The mulit-OS feature is currently in beta testing, and
+must be manually turned on by the Travis CI team on a
+repository-by-repository basis.
+
+If you want the feature turned on for your repository, get in
+touch with us via email at [support@travis-ci.com](mailto:support@travis-ci.com).
+
+## Modify Your `.travis.yml`
+Once you have your repository has the multi-OS feature on, all you
+have to do is add these lines to your `.travis.yml`:
+
+```yaml
+os:
+  - linux
+  - osx
+```
+
+This will double the size of your [build matrix](http://docs.travis-ci.com/user/build-configuration/#The-Build-Matrix)
+and start running your code on both Linux and Mac OS X workers.
+
+## Caveat Emptor
+When you test your code on multiple OSes, always be mindful of differences
+that can affect your tests.
+
+1. Not all tools may be available on the Mac
+
+	We are still working on building up the tool chain on the Mac worker.
+	Presently, Ruby is the most supported language across the OSes.
+
+1. The file system behavior is different
+
+	The HFS+ file system on our OS X workers is case-insensitive (which is the factory default),
+	and the files in a directory are returned sorted.
+	On Linux, on the other hand, the file system is case-sensitive, and returns directory entries in
+	the order they appear in the directory internally, which may appear random.
+
+	Your tests may implicitly rely on these behaviors, and could fail because of them.
+
+1. They are different operating systems, after all
+
+	Commands may have the same name on the Mac and Linux, but they may have different flags,
+	or the same flag may mean different things.
+	In some cases, commands that do the same thing could have different names.
+	These need to be investigated case by case.
+
+## Problems?
+As always, if you run into problems or have suggestions, open a [GitHub issue](https://github.com/travis-ci/travis-ci/issues/new).
+
+Happy Testing!
