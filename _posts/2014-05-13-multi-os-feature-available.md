@@ -1,10 +1,10 @@
 ---
 title: "Multi-OS Feature Available"
-created_at: Fri 09 May 2014 21:37:09 EDT
+created_at: Tue 13 May 2014 06:30:09 EDT
 author: Hiro Asari
 twitter: hiro_asari
 layout: post
-permalink: 2014-05-09-multi-os-feature-available
+permalink: 2014-05-13-multi-os-feature-available
 ---
 
 ## One Repository, Multiple OSes
