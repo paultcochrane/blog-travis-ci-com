@@ -4,7 +4,7 @@ layout: post
 author: Piotr Sarnacki
 twitter: drogus
 permalink: /2014-05-12-better-insight-into-events-reaching-travis-ci
-created_at: Tue 4 Mar 2014 18:00:00 CEST
+created_at: Mon 12 May 2014 15:00:00 CEST
 ---
 
 Sometimes you push to Travis CI and there is no new build. What to do in such case?
