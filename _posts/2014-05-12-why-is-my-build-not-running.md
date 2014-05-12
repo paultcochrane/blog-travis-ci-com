@@ -1,9 +1,9 @@
 ---
-title: Better insight into events reaching Travis CI
+title: Why is my build not running? Introducing greater transparency in why we accept or reject builds
 layout: post
 author: Piotr Sarnacki
 twitter: drogus
-permalink: /2014-05-12-better-insight-into-events-reaching-travis-ci
+permalink: /2014-05-12-why-is-my-build-not-running
 created_at: Mon 12 May 2014 15:00:00 CEST
 ---
 
