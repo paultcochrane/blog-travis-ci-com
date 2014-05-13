@@ -24,6 +24,11 @@ repository-by-repository basis.
 If you want the feature turned on for your repository, get in
 touch with us via email at [support@travis-ci.com](mailto:support@travis-ci.com).
 
+### What Sort of Repositories are Best Suited for this Feature?
+
+Repositories most suitable for this feature are those with small build
+matrices, and without requirement for multiple language run times.
+
 ## Modify Your `.travis.yml`
 Once you have your repository has the multi-OS feature on, all you
 have to do is add these lines to your `.travis.yml`:
@@ -62,7 +67,7 @@ that can affect your tests.
 	In some cases, commands that do the same thing could have different names.
 	These need to be investigated case by case.
 
-## Huge thanks to Facebook
+## Huge Thanks to Facebook
 
 This feature was supported by [Facebook](https://code.facebook.com/).
 Thank you, Facebook, for your support of Travis CI!
