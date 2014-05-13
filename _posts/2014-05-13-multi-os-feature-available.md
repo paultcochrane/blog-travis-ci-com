@@ -7,7 +7,7 @@ layout: post
 permalink: 2014-05-13-multi-os-feature-available
 ---
 
-## One Repository, Multiple OSes
+## One Repository, Multiple Operating Systems
 We are elated to announce the availabity of the multi-OS feature
 on Travis CI.
 
