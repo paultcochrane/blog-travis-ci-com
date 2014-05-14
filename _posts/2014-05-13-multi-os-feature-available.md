@@ -7,7 +7,7 @@ layout: post
 permalink: 2014-05-13-multi-os-feature-available
 ---
 
-### Addendum
+### Update
 
 This blog post originally promised that Python libraries can be tested
 on OS X workers.
