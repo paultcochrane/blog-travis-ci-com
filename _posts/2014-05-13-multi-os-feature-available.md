@@ -7,13 +7,20 @@ layout: post
 permalink: 2014-05-13-multi-os-feature-available
 ---
 
+### Addendum
+
+This blog post originally promised that Python libraries can be tested
+on OS X workers.
+That was incorrect.
+We apologize for this inaccuracy.
+
 ## One Repository, Multiple Operating Systems
 We are elated to announce the availabity of the multi-OS feature
 on Travis CI.
 
 With this feature, your code can now be tested on Linux and Mac OS
 workers.
-Your Ruby gems and Python libraries, among other things,
+Your Ruby gems, C programs, and Java libraries
 can now be tested on Travis CI from a single repository.
 
 ## "Cool beans! How do I get started?"
