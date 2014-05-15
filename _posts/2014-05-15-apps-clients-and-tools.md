@@ -30,4 +30,4 @@ Did we miss your tool in the list? Our documentation is [open source](https://gi
 
 The tools don't provide exactly what you need? You want to build something yourself? We recently [rewrote our API documentation](http://blog.travis-ci.com/2014-04-30-new-api-docs/) to make it even easier for you to get started. We are very excited to see what you come up with! The page also includes [a list of libraries](http://docs.travis-ci.com/user/apps/#libraries) in different programming languages.
 
-We strive to constantly improve your CI experiences and all these tools you've built are a massive inspiration for us!
+We strive to constantly improve your CI experiences and all these tools you've built are a massive inspiration for us. Thank you!
