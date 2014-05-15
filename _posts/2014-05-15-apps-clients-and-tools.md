@@ -13,7 +13,7 @@ permalink: 2014-05-15-apps-clients-and-tools
 
 We love the Travis CI community.
 
-Over the last few years you have created a wide range of different applications, tools, plugins and libraries to make working with Travis CI a breeze.
+Over the last few years you have created a wide range of applications, tools, plugins and libraries to make working with Travis CI a breeze.
 
 To share this joy with as many people as possible, we've added an [Apps, Clients and Tools](http://docs.travis-ci.com/user/apps/) page to our official documentation.
 
