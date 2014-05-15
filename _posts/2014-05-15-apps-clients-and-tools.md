@@ -25,7 +25,7 @@ Did we miss your tool in the list? Our documentation is [open source](https://gi
 
 <figure class="smaller right">
   ![](http://replygif.net/i/391.gif)
-  <figcaption>When we see an new tool for Travis CI</figcaption>
+  <figcaption>When we see a new tool for Travis CI</figcaption>
 </figure>
 
 The tools don't provide exactly what you need? You want to build something yourself? We recently [rewrote our API documentation](http://blog.travis-ci.com/2014-04-30-new-api-docs/) to make it even easier for you to get started. We are very excited to see what you come up with! The page also includes [a list of libraries](http://docs.travis-ci.com/user/apps/#libraries) in different programming languages.
