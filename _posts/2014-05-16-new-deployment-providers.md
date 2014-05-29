@@ -59,7 +59,7 @@ It's easy to get started with Ninefold. Just add the following to your `.travis.
 
 As always, you can use the `travis` tool to set everthing up for you.
 
-    $ traivs setup ninefold
+    $ travis setup ninefold
 
 To read more about deployment to Ninefold you can go [here](http://docs.travis-ci.com/user/deployment/ninefold).
 
