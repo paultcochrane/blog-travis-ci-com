@@ -6,9 +6,9 @@ layout: post
 permalink: /2014-05-16-new-deployment-providers
 ---
 
-The Travis CI team has been busy adding serveral new providers for continious deployment: [Modulus](https://modulus.io/), [GitHub Releases](https://github.com/blog/1547-release-your-software), [Ninefold](https://ninefold.com/), [Cloud 66](https://www.cloud66.com/) and a major rewrite for [Cloud Foundry](http://cloudfoundry.org/index.html).
+The Travis CI team has been busy adding several new providers for continuous deployment: [Modulus](https://modulus.io/), [GitHub Releases](https://github.com/blog/1547-release-your-software), [Ninefold](https://ninefold.com/), [Cloud 66](https://www.cloud66.com/) and a major rewrite for [Cloud Foundry](http://cloudfoundry.org/index.html).
 
-When we launched continious deployment with Heroku 10 months ago, we had no idea how fast it would grow. Now, we're up to 19 providers, with more landing every few weeks.
+When we launched continuous deployment with Heroku 10 months ago, we had no idea how fast it would grow. Now, we're up to 19 providers, with more landing every few weeks.
 
 ### Modulus
 
