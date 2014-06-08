@@ -25,7 +25,7 @@ executable called `artifacts`.  This binary may be downloaded and used
 directly by following the [installation
 instructions](https://github.com/travis-ci/artifacts#installation).
 
-In addition to this binary, an `artifacts` addon was tacked onto.
+In addition to this binary, an `artifacts` addon was tacked onto
 [travis-build](https://github.com/travis-ci/travis-build) so that you
 can use it via your `.travis.yml`.  More details are available in [the
 docs](https://docs.travis-ci.com/user/using-artifacts/), but a brief
