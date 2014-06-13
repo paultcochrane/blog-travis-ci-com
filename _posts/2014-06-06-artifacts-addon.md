@@ -6,6 +6,18 @@ layout: post
 permalink: /2014-06-06-artifacts-revisited
 ---
 
+This is my first time posting here, and it's important to know that I am
+not a Travis CI employee, but instead an employee of ModCloth.  This
+post came about as a result of having worked with the Travis CI team to
+design and build a new artifact management capability based on our
+experience using Travis Pro.
+
+While the majority of the code was written by me, direction and guidance
+were provided throughout by my peers at ModCloth and the Travis CI team.
+I can't say enough good things about the process of contributing to such
+an important part of my team's toolkit.  With that introduction out of
+the way, I'd love to tell you about what we've built together.
+
 If whatever you're running on Travis CI produces artifacts, you'll no
 doubt be thrilled to hear that we want to make saving these artifacts
 super easy for you.
