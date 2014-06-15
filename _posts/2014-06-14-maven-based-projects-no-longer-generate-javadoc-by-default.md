@@ -7,6 +7,8 @@ layout: post
 permalink: 2014-06-14-maven-based-projects-no-longer-generate-javadoc-by-default
 ---
 
+## Maven install command now skips Javadoc generation
+
 This is a quick blog post to notify that Maven-based Java projects will skip
 Javadoc generation in the `install` step. The default `install` command is now:
 
