@@ -2,9 +2,9 @@
 title: PHP Environment Updates
 author: Josh Kalderimis
 twitter: j2h
-created_at: Mon 17 Jun 2014 18:00:00 NZDT
+created_at: Thu 19 Jun 2014 18:00:00 NZDT
 layout: post
-permalink: /2014-06-17-php-environment-updates
+permalink: /2014-06-19-php-environment-updates
 ---
 
 Available today on travis-ci.org is an update to the PHP build environment.
