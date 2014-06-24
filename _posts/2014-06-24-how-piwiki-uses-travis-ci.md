@@ -4,6 +4,7 @@ author: Matthieu Aubry
 twitter: matthieuaubry
 layout: post
 created_at: Tue 24 Jun 2014 14:00:00 CEST
+permalink: 2014-06-24-how-piwik-uses-travis-ci
 ---
 ![](/images/piwik_app.jpg)
 
