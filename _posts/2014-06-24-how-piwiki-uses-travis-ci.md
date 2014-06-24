@@ -5,7 +5,7 @@ twitter: matthieuaubry
 layout: post
 created_at: Tue 24 Jun 2014 14:00:00 CEST
 ---
-![](http://piwik.org/wp-content/themes/piwik/assets/img/piwik_app.jpg)
+![](/images/piwik_app.jpg)
 
 > This post was originally [published on the Piwik
 > blog](http://piwik.org/blog/2014/05/piwik-use-travis-ci-ship-analytics-platform-works/).
