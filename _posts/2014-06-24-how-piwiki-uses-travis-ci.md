@@ -75,9 +75,9 @@ afraid of change!
 
 Here is the current status of our builds:
 
-Main build: [![](https://travis-ci.org/piwik/piwik.png?branch=master)](https://travis-ci.org/piwik/piwik)
+Main build: [![](https://travis-ci.org/piwik/piwik.svg?branch=master)](https://travis-ci.org/piwik/piwik)
 
-Screenshot tests build: [![](https://travis-ci.org/piwik/piwik-ui-tests.png?branch=master)](https://travis-ci.org/piwik/piwik-ui-tests)
+Screenshot tests build: [![](https://travis-ci.org/piwik/piwik-ui-tests.svg?branch=master)](https://travis-ci.org/piwik/piwik-ui-tests)
 
 PS: If you are a developer looking for a challenge, [Piwik is hiring a software
 developer](http://piwik.org/blog/2014/05/piwik-expanding-seeking-talented-software-engineer-new-zealand-poland/) to join our engineering team in New Zealand or Poland.
