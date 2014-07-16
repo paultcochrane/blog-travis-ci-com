@@ -25,7 +25,7 @@ Build environments receive several updates.
 ### Android VM
 
 We've introduced [Android support back in May](2014-05-07-android-build-support-now-in-beta),
-but our users have been busy testing it out.
+but you have been busy testing it out.
 Google has since released a new SDK, and it is now time for us to catch up.
 
 This update includes SDK 23 support and other component updates.
@@ -55,7 +55,6 @@ Version updares include:
 * 5.6.0rc2
 * 5.5.14
 * 5.4.30
-* HHVM 3.1.0
 
 We also added LDAP support.
 
