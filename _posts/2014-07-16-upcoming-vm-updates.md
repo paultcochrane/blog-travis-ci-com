@@ -25,7 +25,7 @@ Build environments receive several updates.
 ### Android VM
 
 We've introduced [Android support back in May](2014-05-07-android-build-support-now-in-beta),
-but you have been busy testing it out.
+and you have been busy testing it out.
 Google has since released a new SDK, and it is now time for us to catch up.
 
 This update includes SDK 23 support and other component updates.
