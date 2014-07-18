@@ -55,6 +55,7 @@ Version updares include:
 * 5.6.0rc2
 * 5.5.14
 * 5.4.30
+* HHVM 3.2.0
 
 We also added LDAP support.
 
