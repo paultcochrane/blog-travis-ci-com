@@ -1,10 +1,10 @@
 ---
 title: "Upcoming VM Updates"
-created_at: Wed 16 Jul 2014 14:46:36 CEST
+created_at: Wed 21 Jul 2014 09:46:36 CEST
 author: Hiro Asari
 twitter: hiro_asari
 layout: post
-permalink: 2014-07-16-upcoming-vm-updates
+permalink: 2014-07-21-upcoming-build-environment-updates
 ---
 
 New build environments updates are coming.
