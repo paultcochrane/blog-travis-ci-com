@@ -7,10 +7,11 @@ layout: post
 permalink: 2014-07-16-upcoming-vm-updates
 ---
 
-New VM updates are coming.
+New build environments updates are coming.
 
-It has been a while since our last VM update in [late April](http://blog.travis-ci.com/2014-04-28-upcoming-build-environment-updates/);
-it is time for the next round of VM udpates.
+It has been a while since our last build environmetnt update in
+[late April](http://blog.travis-ci.com/2014-04-28-upcoming-build-environment-updates/);
+it is time for the next round of udpates.
 
 ## Update schedule
 
@@ -22,6 +23,8 @@ to **[travis-ci.com](https://travis-ci.com)** at **[06:00 UTC on the 30th of Jul
 
 Build environments receive several updates.
 
+For all environments, Go 1.3 is now the default.
+
 ### Android VM
 
 We've introduced [Android support back in May](2014-05-07-android-build-support-now-in-beta),
@@ -32,9 +35,7 @@ This update includes SDK 23 support and other component updates.
 
 ### Go VM
 
-Default is now 1.3.
-
-Version 1.2.2 is available.
+Version 1.2.2 is also preinstalled.
 
 ### Node.js VM
 
@@ -44,13 +45,14 @@ Default is now version 10.28.
 
 Version updates include:
 
-* 5.20.0 and 5.21.0 are added, 5.17 and 5.19 are dropped.
+* 5.20.0 and 5.21.0 have been added.
+* Older development versions 5.17 and 5.19 have been dropped.
 * 5.18.2 and 5.20.0 are now also provided with the `-Duseshrplib` compile option under the names
   `5.18-shrplib` and `5.20-shrplib`, respectively.
 
 ### PHP VM
 
-Version updares include:
+Version updates include:
 
 * 5.6.0rc2
 * 5.5.14
@@ -70,15 +72,27 @@ Following updates are included:
 
 ### Ruby VM
 
+#### MRI
+
+We have added the following pre-installed Rubies:
+
 * MRI 1.9.3-p547
 * MRI 2.1.2
+
+#### JRuby
+
+We have update JRuby to the latest release
+
 * JRuby 1.7.13
+
+#### Rubinius
+
 * Rubinius 2.2.10 (Available as `rbx`; no longer needs to be specified as `rbx-2`)
 
 
 ### Services Updates
 
-In addition, following updates are available on all VMs:
+In addition, the following updates are available on all VMs:
 
 * CouchDB update to latest stable (1.5)
 * Cassandra 2.0.9
