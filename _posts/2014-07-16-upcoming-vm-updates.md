@@ -81,7 +81,7 @@ We have added the following pre-installed Rubies:
 
 #### JRuby
 
-We have update JRuby to the latest release
+We have updated JRuby to the latest release
 
 * JRuby 1.7.13
 
