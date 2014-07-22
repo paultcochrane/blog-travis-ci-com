@@ -1,27 +1,27 @@
 ---
-title: "Upcoming VM Updates"
-created_at: Wed 21 Jul 2014 09:46:36 CEST
+title: "Upcoming Build Environment Updates"
+created_at: Tue 22 Jul 2014 09:46:36 CEST
 author: Hiro Asari
 twitter: hiro_asari
 layout: post
-permalink: 2014-07-21-upcoming-build-environment-updates
+permalink: 2014-07-22-upcoming-build-environment-updates
 ---
 
 New build environments updates are coming.
 
 It has been a while since our last build environmetnt update in
-[late April](http://blog.travis-ci.com/2014-04-28-upcoming-build-environment-updates/);
-it is time for the next round of udpates.
+[late April](http://blog.travis-ci.com/2014-04-28-upcoming-build-environment-updates/),
+and we thought it was a good time for the next set of updates.
 
 ## Update schedule
 
 The updates will be rolled out to
-**[travis-ci.org](https://travis-ci.org)** at **[06:00 UTC on the 23rd of July](http://everytimezone.com/#2014-7-23,-360,cn3)** and
+**[travis-ci.org](https://travis-ci.org)** at **[06:00 UTC on the 24rd of July](http://everytimezone.com/#2014-7-24,-360,cn3)** and
 to **[travis-ci.com](https://travis-ci.com)** at **[06:00 UTC on the 30th of July](http://everytimezone.com/#2014-7-30,-360,cn3)**.
 
 ## Build Environment Updates
 
-Build environments receive several updates.
+All build environments will be receiving some fantastic updates.
 
 For all environments, Go 1.3 is now the default.
 
@@ -46,7 +46,7 @@ Default is now version 10.28.
 Version updates include:
 
 * 5.20.0 and 5.21.0 have been added.
-* Older development versions 5.17 and 5.19 have been dropped.
+* Older development versions 5.17 and 5.19 have been removed.
 * 5.18.2 and 5.20.0 are now also provided with the `-Duseshrplib` compile option under the names
   `5.18-shrplib` and `5.20-shrplib`, respectively.
 
