@@ -16,7 +16,7 @@ and we thought it was a good time for the next set of updates.
 ## Update schedule
 
 The updates will be rolled out to
-**[travis-ci.org](https://travis-ci.org)** at **[10:00 UTC on the 29th of July](http://everytimezone.com/#2014-7-29,-120,cn3)** and
+**[travis-ci.org](https://travis-ci.org)** at **[08:00 UTC on the 29th of July](http://everytimezone.com/#2014-7-29,-240,cn3)** and
 to **[travis-ci.com](https://travis-ci.com)** at **[06:00 UTC on the 31st of July](http://everytimezone.com/#2014-7-31,-360,cn3)**.
 
 ## Build Environment Updates
