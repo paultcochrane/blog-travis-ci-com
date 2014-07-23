@@ -1,10 +1,10 @@
 ---
 title: "Upcoming Build Environment Updates"
-created_at: Tue 22 Jul 2014 09:46:36 CEST
+created_at: Wed 23 Jul 2014 18:46:36 CEST
 author: Hiro Asari
 twitter: hiro_asari
 layout: post
-permalink: 2014-07-22-upcoming-build-environment-updates
+permalink: 2014-07-23-upcoming-build-environment-updates
 ---
 
 New build environments updates are coming.
@@ -39,7 +39,7 @@ Version 1.2.2 is also preinstalled.
 
 ### Node.js VM
 
-Default is now version 10.28.
+Default is now version 10.29.
 
 ### Perl VM
 
