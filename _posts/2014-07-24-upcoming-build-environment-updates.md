@@ -1,10 +1,10 @@
 ---
 title: "Upcoming Build Environment Updates"
-created_at: Wed 23 Jul 2014 18:46:36 CEST
+created_at: Thu 24 Jul 2014 08:46:36 CEST
 author: Hiro Asari
 twitter: hiro_asari
 layout: post
-permalink: 2014-07-23-upcoming-build-environment-updates
+permalink: 2014-07-24-upcoming-build-environment-updates
 ---
 
 New build environments updates are coming.
@@ -16,8 +16,8 @@ and we thought it was a good time for the next set of updates.
 ## Update schedule
 
 The updates will be rolled out to
-**[travis-ci.org](https://travis-ci.org)** at **[06:00 UTC on the 24rd of July](http://everytimezone.com/#2014-7-24,-360,cn3)** and
-to **[travis-ci.com](https://travis-ci.com)** at **[06:00 UTC on the 30th of July](http://everytimezone.com/#2014-7-30,-360,cn3)**.
+**[travis-ci.org](https://travis-ci.org)** at **[10:00 UTC on the 29th of July](http://everytimezone.com/#2014-7-29,-120,cn3)** and
+to **[travis-ci.com](https://travis-ci.com)** at **[06:00 UTC on the 31st of July](http://everytimezone.com/#2014-7-31,-360,cn3)**.
 
 ## Build Environment Updates
 
