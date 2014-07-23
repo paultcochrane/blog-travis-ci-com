@@ -65,7 +65,7 @@ We also added LDAP support.
 
 Following updates are included:
 
-* Python 2.7.3
+* Python 2.7.8
 * Python 3.4.1
 * PyPy3
 * PyPy 2.3.1
