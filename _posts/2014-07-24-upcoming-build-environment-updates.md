@@ -39,7 +39,7 @@ Version 1.2.2 is also preinstalled.
 
 ### Node.js VM
 
-Default is now version 10.29.
+Default is now version 0.10.29.
 
 ### Perl VM
 
