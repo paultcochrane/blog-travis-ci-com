@@ -33,6 +33,10 @@ Google has since released a new SDK, and it is now time for us to catch up.
 
 This update includes SDK 23 support and other component updates.
 
+### Erlang VM
+
+Erlang 17.1 is now available.
+
 ### Go VM
 
 Version 1.2.2 is also preinstalled.
