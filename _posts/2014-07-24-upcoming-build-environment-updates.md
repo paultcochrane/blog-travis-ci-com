@@ -65,8 +65,8 @@ Version updates include:
 Version updates include:
 
 * 5.6.0rc2
-* 5.5.14
-* 5.4.30
+* 5.5.15
+* 5.4.31
 * HHVM 3.2.0
 
 We also added LDAP support.
