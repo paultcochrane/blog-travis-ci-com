@@ -97,7 +97,7 @@ We have updated JRuby to the latest release
 
 #### Rubinius
 
-* Rubinius 2.2.10 (Available as `rbx`; no longer needs to be specified as `rbx-2`)
+* Rubinius 2.2.10
 
 
 ### Services Updates
