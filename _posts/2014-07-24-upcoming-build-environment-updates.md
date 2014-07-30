@@ -13,6 +13,11 @@ It has been a while since our last build environment update in
 [late April](http://blog.travis-ci.com/2014-04-28-upcoming-build-environment-updates/),
 and we thought it was a good time for the next set of updates.
 
+## Second update to rollout schedule
+
+The update to **[travis-ci.com](https://travis-ci.com)** has been postponed to
+ **[06:00 UTC on the 5th of August](http://everytimezone.com/#2014-8-5,-360,cn3)**.
+
 ## Updated rollout schedule
 
 We are pushing back the .org update by one day to **[08:00 UTC on the 30th of July](http://everytimezone.com/#2014-7-30,-240,cn3)**.
