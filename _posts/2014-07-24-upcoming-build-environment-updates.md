@@ -36,6 +36,17 @@ All build environments will be receiving some fantastic updates.
 
 For all environments, Go 1.3 is now the default.
 
+MySQL is upgraded from 5.5.35 to 5.5.37.
+With this upgrade provided by Ubuntu, MySQL no longer has a database named `test`
+(see http://changelogs.ubuntu.com/changelogs/pool/main/m/mysql-5.5/mysql-5.5_5.5.37-0ubuntu0.12.04.1/changelog).
+If your test relies on this database, you need to create one.
+For example:
+
+```yaml
+before_install:
+  - mysql -e "create database IF NOT EXISTS test;" -u root
+```
+
 ### Android VM
 
 We've introduced [Android support back in May](2014-05-07-android-build-support-now-in-beta),
