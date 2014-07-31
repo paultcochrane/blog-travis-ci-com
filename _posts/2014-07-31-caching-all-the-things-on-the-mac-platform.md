@@ -10,7 +10,7 @@ permalink: 2014-07-31-caching-all-the-things-on-the-mac-platform
 Back in December last year, we [announced][cache-blog-post] dependency caching
 for private repositories. Until now this feature has only been available to
 builds running on our Linux platform. Today we are enabling this feature for
-builds on the Mac platform too.
+builds on the Mac platform too (only for private repositories at this time).
 
 You can cache gems installed with Bundler in the same way you would on
 
