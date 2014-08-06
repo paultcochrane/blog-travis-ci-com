@@ -4,10 +4,8 @@ author: Anika Lindtner
 twitter: langziehohr
 layout: post
 created_at: Wed 06 Aug 2014
-permalink: 2014-08-06-travis-teams-up-for-trip-slower-support-until-sunday
+permalink: 2014-08-06-travis-ci-team-offsite-retreat-slower-support-until-sunday
 ---
-
-###Travis Teams up for Trip - Slower Support until Sunday
 
 From tomorrow (Thursday, 7th) until Sunday our team is going on a trip
 together, for the first time ever!
