@@ -13,8 +13,9 @@ From tomorrow (Thursday, 7th) until Sunday our team is going on a trip
 together, for the first time ever!
 
 We flew in everyone from New Zealand, the US, Norway - and Potsdam - to meet in
-Berlin. We've visited [eurucamp](http://2014.eurucamp.org/) which was an
-absolute blast (and we promise to blog about it more soon).
+Berlin, work out of our [favorite coffee bar](http://silo-coffee.com) and attend
+[eurucamp](http://2014.eurucamp.org/), where we had an amazing time! (We'll
+blog more about that soon.)
 
 Now Sven, Justine, Mathias, Piotr, Kontantin, Hiro, Josh, Henrik, Fritz
 and I (plus two Aeropress and one Chemex) are boarding a bus that takes us into
