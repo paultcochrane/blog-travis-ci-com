@@ -15,7 +15,7 @@ Berlin, work out of our [favorite coffee bar](http://silo-coffee.com) and attend
 [eurucamp](http://2014.eurucamp.org/), where we had an amazing time! (We'll
 blog more about that soon.)
 
-Now Sven, Justine, Mathias, Piotr, Kontantin, Hiro, Josh, Henrik, Fritz
+Now Sven, Justine, Mathias, Piotr, Konstantin, Hiro, Josh, Henrik, Fritz
 and I (plus two Aeropress and one Chemex) are boarding a bus that takes us into
 the green, a nice remote place in the middle of nowhere in northern Germany.
 
