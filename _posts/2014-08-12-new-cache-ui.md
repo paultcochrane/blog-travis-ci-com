@@ -1,10 +1,10 @@
 ---
 title: "New Cache UI"
-created_at: Mon 11 Aug 2014 15:30:00 CET
+created_at: Tue 12 Aug 2014 15:30:00 CET
 author: Konstantin Haase
 twitter: konstantinhaase
 layout: post
-permalink: 2014-08-11-new-cache-ui
+permalink: 2014-08-12-new-cache-ui
 ---
 
 Installing external dependencies on every build can be take quite some time. This is why at the end of last year we introduced [dependency caching](/2013-12-05-speed-up-your-builds-cache-your-dependencies). Since then, we have kept on improving the feature, most recently launching [Mac support](/2014-07-31-caching-all-the-things-on-the-mac-platform).
