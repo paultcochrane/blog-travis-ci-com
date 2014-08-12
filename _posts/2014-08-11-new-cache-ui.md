@@ -11,7 +11,7 @@ Installing external dependencies on every build can be take quite some time. Thi
 
 ## Clearing Caches
 
-Sometimes your cache gets stale and contains files that will cause your build to fail. This is more likely to happen whenever we [update our build environment](/2014-07-24-upcoming-build-environment-updates). It might well be that the only solution is to get rid of the old cache.
+Sometimes your cache gets stale and contains files that will cause your build to fail. For instance, a cache may be invalidated by [build environment updates](/2014-07-24-upcoming-build-environment-updates) if the cache contains compiled code. It might well be that the only solution is to get rid of the old cache.
 
 <figure>
   [ ![travis cache --delete](http://docs.travis-ci.com/images/cli-cache.png) ](http://docs.travis-ci.com/images/cli-cache.png)
@@ -33,4 +33,4 @@ To get to the cache view, navigate to any project on [Travis Pro](https://travis
 
 ## Cache fallback
 
-Please keep in mind: If you delete the cache for a branch other than master, the next build on that branch will fall back to the master cache instead of using an empty cache. This might be important if the master branch cache is causing issues, too.
+Please keep in mind: If you delete the cache for a branch other than master, the next build on that branch will fall back to the master cache instead of using an empty cache. This is be important if the master branch cache is causing issues, too.
