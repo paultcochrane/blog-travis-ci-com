@@ -7,6 +7,13 @@ layout: post
 permalink: 2014-05-13-multi-os-feature-available
 ---
 
+## Update: We are not currently accepting multi-OS requests
+We are at capacity with Mac workers in both .org and .com
+environments.
+Consequently, we are not accepting requests for the multi-OS
+feature at this time.
+As more capacity is added, we will resume accepting requests.
+
 ### Update
 
 This blog post originally promised that Python libraries can be tested
