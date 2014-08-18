@@ -59,3 +59,11 @@ Version updates include:
 
 We've also put back 5.5.9, which is the version supported on Ubuntu LTS14.04.
 
+### Leiningen will default to 2.x
+
+With this update, the default version of Leiningen will be 2.4.3.
+Leiningen 1.x will be available as `lein1`.
+
+`lein` will point to Leiningen 2.4.3, but `lein2` will be available as before.
+
+Those repositories which use `lein` needs to be updated to invoke `lein1` instead.
