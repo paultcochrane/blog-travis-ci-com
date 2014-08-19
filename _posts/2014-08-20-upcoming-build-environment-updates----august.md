@@ -71,8 +71,7 @@ Android SDK is updated to 23.0.2.
 ## Java VM (not JVM)
 
 * Maven is updated to 3.2.3.
-* Leiningen2 is updated to 2.4.3.
-
+* Leiningen2 is updated to 2.4.3. See details [below](#leiningen-will-default-to-2x).
 
 ## PHP VM
 
@@ -83,7 +82,7 @@ Version updates include:
 * 5.4.31
 * 5.3.29
 
-We've also put back 5.5.9, which is the version supported on Ubuntu LTS14.04.
+We've also added 5.5.9 back. This is the version supported on Ubuntu LTS14.04.
 
 ## Firefox browser
 
@@ -98,3 +97,11 @@ Leiningen 1.x will be available as `lein1`.
 `lein` will point to Leiningen 2.4.3, but `lein2` will be available as before.
 
 Those repositories which use `lein` need to be updated to invoke `lein1` instead.
+
+## Go forth and test!
+
+Happy testing!
+
+Love,
+
+Travis Team
