@@ -66,4 +66,4 @@ Leiningen 1.x will be available as `lein1`.
 
 `lein` will point to Leiningen 2.4.3, but `lein2` will be available as before.
 
-Those repositories which use `lein` needs to be updated to invoke `lein1` instead.
+Those repositories which use `lein` need to be updated to invoke `lein1` instead.
