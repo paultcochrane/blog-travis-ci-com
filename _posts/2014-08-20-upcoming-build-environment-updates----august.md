@@ -18,7 +18,7 @@ to **[travis-ci.com](https://travis-ci.com)** at **[14:00 UTC on the 28st of Aug
 
 ## Build Environment Updates
 
-All environments will receive following updates:
+All environments will receive the following updates:
 
 1. Chromium browser: 34.0.1847.116 → 36.0.1985.125
 2. CouchDB: 1.5.0 → 1.6.0
