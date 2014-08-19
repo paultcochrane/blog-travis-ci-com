@@ -71,7 +71,7 @@ Android SDK is updated to 23.0.2.
 ## Java VM (not JVM)
 
 * Maven is updated to 3.2.3.
-* Leiningen2 is updated to 2.4.3. See details [below](#leiningen-will-default-to-2x).
+* Leiningen2 is updated to 2.4.3, which is now the default. See details [below](#leiningen-will-default-to-2x).
 
 ## PHP VM
 
