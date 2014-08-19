@@ -78,8 +78,8 @@ Android SDK is updated to 23.0.2.
 Version updates include:
 
 * 5.6.0rc4
-* 5.5.15
-* 5.4.31
+* 5.5.16
+* 5.4.32
 * 5.3.29
 
 We've also added 5.5.9 back. This is the version supported on Ubuntu LTS14.04.
