@@ -20,35 +20,61 @@ to **[travis-ci.com](https://travis-ci.com)** at **[14:00 UTC on the 28st of Aug
 
 All environments will receive the following updates:
 
-1. Chromium browser: 34.0.1847.116 → 36.0.1985.125
-2. CouchDB: 1.5.0 → 1.6.0
-3. OpenJDK 6: 6b31 → 6b32
-4. OracleJDK 7: 7u60 → 7u67
-5. MySQL: 5.5.37 → 5.5.38
-6. PostgreSQL: 9.1.13 → 9.1.14, 9.2.8 → 9.2.9, 9.3.4 → 9.3.5
-7. RabbitMQ: 3.3.4 → 3.3.5
-8. Firefox: 24.5.0esr → 31.0esr
-9. nvm: 0.13.1
-10. Sphinx: 2.2.2-beta → 2.2.3-beta, 2.1.8 → 2.1.9
+### Chromium browser
 
-### Android VM
+34.0.1847.116 → 36.0.1985.125
 
-Android SDK is updated to 23.0.2.
+### CouchDB
 
-### Java VM (not JVM)
+1.5.0 → 1.6.0
 
-* Maven is updated to 3.2.3.
-* Leiningen2 is updated to 2.4.3.
+### OpenJDK 6
 
+6b31 → 6b32
 
-### Node.js VM
+### OracleJDK 7
+
+7u60 → 7u67
+
+### MySQL
+
+5.5.37 → 5.5.38
+
+### PostgreSQL
+
+1. 9.1.13 → 9.1.14
+1. 9.2.8 → 9.2.9
+1. 9.3.4 → 9.3.5
+
+### RabbitMQ
+
+3.3.4 → 3.3.5
+
+### nvm
+
+0.13.1
 
 With the new nvm, specifying `0.10` will install
 the most recent released version of `0.10.x`.
 If you need a specific version, you must indicate it as
 precisely as possible; e.g., `0.10.29`.
 
-### PHP VM
+### Sphinx
+
+1. 2.2.2-beta → 2.2.3-beta
+1. 2.1.8 → 2.1.9
+
+## Android VM
+
+Android SDK is updated to 23.0.2.
+
+## Java VM (not JVM)
+
+* Maven is updated to 3.2.3.
+* Leiningen2 is updated to 2.4.3.
+
+
+## PHP VM
 
 Version updates include:
 
@@ -59,7 +85,12 @@ Version updates include:
 
 We've also put back 5.5.9, which is the version supported on Ubuntu LTS14.04.
 
-### Leiningen will default to 2.x
+## Firefox browser
+
+This update includes update to the latest Extended Support Release (ESR),
+31.0esr, which corresponds to Desktop Firefox 31.0.
+
+## Leiningen will default to 2.x
 
 With this update, the default version of Leiningen will be 2.4.3.
 Leiningen 1.x will be available as `lein1`.
