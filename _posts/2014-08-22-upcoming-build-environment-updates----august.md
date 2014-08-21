@@ -18,8 +18,8 @@ Here are details of the August, 2014 updates.
 ## Update schedule
 
 The updates will be rolled out to
-**[travis-ci.org](https://travis-ci.org)** at **[14:00 UTC on the 26th of August](http://everytimezone.com/#2014-8-26,120,cn3)** and
-to **[travis-ci.com](https://travis-ci.com)** at **[14:00 UTC on the 28st of August](http://everytimezone.com/#2014-8-28,120,cn3)**.
+**[travis-ci.org](https://travis-ci.org)** at **[14:00 UTC on the 27th of August](http://everytimezone.com/#2014-8-27,120,cn3)** and
+to **[travis-ci.com](https://travis-ci.com)** at **[14:00 UTC on the 29th of August](http://everytimezone.com/#2014-8-29,120,cn3)**.
 
 ## Build Environment Updates
 
