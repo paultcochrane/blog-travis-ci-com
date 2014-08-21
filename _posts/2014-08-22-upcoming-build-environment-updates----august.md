@@ -49,6 +49,36 @@ before_install:
   - curl -O https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-1.1.1.deb
   - sudo dpkg -i elasticsearch-1.1.1.deb
 ```
+### Firefox browser
+
+This update includes update to the latest Extended Support Release (ESR),
+31.0esr, which corresponds to Desktop Firefox 31.0.
+
+### MongoDB
+
+PPA changed to the official one from [MongoDB.org](http://www.mongodb.org/).
+With this change, the default is now 2.6.4.
+If you need a specific version, do the following for releases 2.6.0 and later:
+
+```yaml
+before_install:
+  - sudo apt-get purge mongodb-org mongodb-org-server mongodb-org-shell mongodb-org-mongos mongodb-org-tools
+  - sudo apt-get install mongodb-org=2.6.1 mongodb-org-server=2.6.1 mongodb-org-shell=2.6.1 mongodb-org-mongos=2.6.1 mongodb-org-tools=2.6.1
+```
+
+For releases older than 2.6.0, do:
+
+```yaml
+before_install:
+  - sudo apt-get purge mongodb-org mongodb-org-server mongodb-org-shell mongodb-org-mongos mongodb-org-tools
+  - sudo apt-get --no-remove install mongodb-10gen=2.4.10
+```
+
+Do note the difference in the package name.
+
+### MySQL
+
+5.5.37 → 5.5.38
 
 ### OpenJDK 6
 
@@ -57,10 +87,6 @@ before_install:
 ### OracleJDK 7
 
 7u60 → 7u67
-
-### MySQL
-
-5.5.37 → 5.5.38
 
 ### PostgreSQL
 
@@ -71,15 +97,6 @@ before_install:
 ### RabbitMQ
 
 3.3.4 → 3.3.5
-
-### nvm
-
-0.13.1
-
-With the new nvm, specifying `0.10` will install
-the most recent released version of `0.10.x`.
-If you need a specific version, you must indicate it as
-precisely as possible; e.g., `0.10.29`.
 
 ### Sphinx
 
@@ -121,33 +138,6 @@ Version updates include:
 * 5.3.29
 
 We've also added 5.5.9 back. This is the version supported on Ubuntu LTS14.04.
-
-## MongoDB
-
-PPA changed to the official one from [MongoDB.org](http://www.mongodb.org/).
-With this change, the default is now 2.6.4.
-If you need a specific version, do the following for releases 2.6.0 and later:
-
-```yaml
-before_install:
-  - sudo apt-get purge mongodb-org mongodb-org-server mongodb-org-shell mongodb-org-mongos mongodb-org-tools
-  - sudo apt-get install mongodb-org=2.6.1 mongodb-org-server=2.6.1 mongodb-org-shell=2.6.1 mongodb-org-mongos=2.6.1 mongodb-org-tools=2.6.1
-```
-
-For releases older than 2.6.0, do:
-
-```yaml
-before_install:
-  - sudo apt-get purge mongodb-org mongodb-org-server mongodb-org-shell mongodb-org-mongos mongodb-org-tools
-  - sudo apt-get --no-remove install mongodb-10gen=2.4.10
-```
-
-Do note the difference in the package name.
-
-## Firefox browser
-
-This update includes update to the latest Extended Support Release (ESR),
-31.0esr, which corresponds to Desktop Firefox 31.0.
 
 ## Go forth and test!
 
