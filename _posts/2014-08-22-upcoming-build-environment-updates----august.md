@@ -7,11 +7,8 @@ layout: post
 permalink: 2014-08-22-upcoming-build-environment-updates----august
 ---
 
-There was a long wait of 3 months between the last build environment update
-and the one before that.
-We recognize that the long pauses between updates are not ideal, and
-we are working hard on getting build environment updates
-more frequently by automating the VM provisioning process.
+We have added a lot of nice changes to our cookbooks recently, so
+we decided to roll out the updates to you sooner rather than later!
 
 Here are details of the August, 2014 updates.
 
@@ -51,14 +48,14 @@ before_install:
 ```
 ### Firefox browser
 
-This update includes update to the latest Extended Support Release (ESR),
+Included is an update to the latest Extended Support Release (ESR),
 31.0esr, which corresponds to Desktop Firefox 31.0.
 
 ### MongoDB
 
 PPA changed to the official one from [MongoDB.org](http://www.mongodb.org/).
 With this change, the default is now 2.6.4.
-If you need a specific version, do the following for releases 2.6.0 and later:
+If you need a specific version, plase add the following for releases 2.6.0 and later:
 
 ```yaml
 before_install:
@@ -66,7 +63,7 @@ before_install:
   - sudo apt-get install mongodb-org=2.6.1 mongodb-org-server=2.6.1 mongodb-org-shell=2.6.1 mongodb-org-mongos=2.6.1 mongodb-org-tools=2.6.1
 ```
 
-For releases older than 2.6.0, do:
+For releases older than 2.6.0, please add the following:
 
 ```yaml
 before_install:
@@ -74,7 +71,7 @@ before_install:
   - sudo apt-get --no-remove install mongodb-10gen=2.4.10
 ```
 
-Do note the difference in the package name.
+Please note the difference in the package name.
 
 ### MySQL
 
@@ -111,7 +108,7 @@ Android SDK is updated to 23.0.2.
 ## Haskell VM
 
 Platform is updated to 2014.2.0.0.
-GHC is updated to 7.8.3.
+GHC 7.8.2 is updated to 7.8.3. (Other versions remain the same.)
 
 ## Java VM (not JVM)
 
@@ -123,7 +120,7 @@ GHC is updated to 7.8.3.
 With this update, the default version of Leiningen will be 2.4.3.
 Leiningen 1.x will be available as `lein1`.
 
-`lein` will point to Leiningen 2.4.3, but `lein2` will be available as before.
+`lein` will point to Leiningen 2.4.3, but `lein2` will also be available as before.
 
 Those repositories which use `lein` need to be updated to invoke `lein1` instead.
 
