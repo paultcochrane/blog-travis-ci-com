@@ -68,6 +68,11 @@ precisely as possible; e.g., `0.10.29`.
 
 Android SDK is updated to 23.0.2.
 
+## Haskell VM
+
+Platform is updated to 2014.2.0.0.
+GHC is updated to 7.8.3.
+
 ## Java VM (not JVM)
 
 * Maven is updated to 3.2.3.
