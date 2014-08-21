@@ -28,6 +28,23 @@ All environments will receive the following updates:
 
 1.5.0 → 1.6.0
 
+### ElasticSearch
+
+1.1.1 → 1.3.2
+
+This change contains breaking changes: [1.1 → 1.2](http://www.elasticsearch.org/blog/elasticsearch-1-2-0-released/),
+[1.2 → 1.3](http://www.elasticsearch.org/downloads/1-3-0/).
+
+If you need to revert to ElasticSearch 1.1.1 because of these breaking changes,
+remove the installed version and install 1.1.1:
+
+```yaml
+before_install:
+  - sudo apt-get purge elasticsearch
+  - curl -O https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-1.1.1.deb
+  - sudo dpkg -i elasticsearch-1.1.1.deb
+```
+
 ### OpenJDK 6
 
 6b31 → 6b32
