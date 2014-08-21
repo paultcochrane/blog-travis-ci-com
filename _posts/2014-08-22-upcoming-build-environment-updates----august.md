@@ -99,7 +99,17 @@ GHC is updated to 7.8.3.
 ## Java VM (not JVM)
 
 * Maven is updated to 3.2.3.
-* Leiningen2 is updated to 2.4.3, which is now the default. See details [below](#leiningen-will-default-to-2x).
+* Leiningen2 is updated to 2.4.3, which is now the default.
+
+### Leiningen will default to 2.x
+
+With this update, the default version of Leiningen will be 2.4.3.
+Leiningen 1.x will be available as `lein1`.
+
+`lein` will point to Leiningen 2.4.3, but `lein2` will be available as before.
+
+Those repositories which use `lein` need to be updated to invoke `lein1` instead.
+
 
 ## PHP VM
 
@@ -138,15 +148,6 @@ Do note the difference in the package name.
 
 This update includes update to the latest Extended Support Release (ESR),
 31.0esr, which corresponds to Desktop Firefox 31.0.
-
-## Leiningen will default to 2.x
-
-With this update, the default version of Leiningen will be 2.4.3.
-Leiningen 1.x will be available as `lein1`.
-
-`lein` will point to Leiningen 2.4.3, but `lein2` will be available as before.
-
-Those repositories which use `lein` need to be updated to invoke `lein1` instead.
 
 ## Go forth and test!
 
