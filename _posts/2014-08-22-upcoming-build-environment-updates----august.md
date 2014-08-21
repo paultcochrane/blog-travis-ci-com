@@ -1,10 +1,10 @@
 ---
 title: "Upcoming Build Environment Updates -- August"
-created_at: Wed 20 Aug 2014 11:47:30 EDT
+created_at: Fri 22 Aug 2014 11:47:30 EDT
 author: Hiro Asari
 twitter: hiro_asari
 layout: post
-permalink: 2014-08-20-upcoming-build-environment-updates----august
+permalink: 2014-08-22-upcoming-build-environment-updates----august
 ---
 
 We are working hard on getting build environment updates
