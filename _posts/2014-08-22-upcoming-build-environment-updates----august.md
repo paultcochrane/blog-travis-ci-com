@@ -7,8 +7,13 @@ layout: post
 permalink: 2014-08-22-upcoming-build-environment-updates----august
 ---
 
-We are working hard on getting build environment updates
-more frequently.
+There was a long wait of 3 months between the last build environment update
+and the one before that.
+We recognize that the long pauses between updates are not ideal, and
+we are working hard on getting build environment updates
+more frequently by automating the VM provisioning process.
+
+Here are details of the August, 2014 updates.
 
 ## Update schedule
 
