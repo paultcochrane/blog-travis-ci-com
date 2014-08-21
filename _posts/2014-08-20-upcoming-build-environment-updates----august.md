@@ -84,6 +84,7 @@ precisely as possible; e.g., `0.10.29`.
 ## Android VM
 
 Android SDK is updated to 23.0.2.
+`build-tools-20.0.0` is pre-installed.
 
 ## Haskell VM
 
