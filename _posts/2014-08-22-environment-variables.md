@@ -35,6 +35,10 @@ Examples for using **repository settings**:
 * Variables that have to differ per repository.
 * Variables that contain sensitive data, such as third-party credentials.
 
+## Priority
+
+If a variable set with the UI has the same name as a variable set in the .travis.yml, the latter will have priority. That way you can overwrite whatever is set in the UI, for example if you need to use a different value in a branch.
+
 ## Displaying the value
 
 By default, the value of these new environment variables will be hidden from the `export` line in the logs. This corresponds to the behavior of encrypted variables in your .travis.yml.
