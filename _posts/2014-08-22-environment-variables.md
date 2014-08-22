@@ -1,6 +1,6 @@
 ---
 title: "Environment Variables"
-created_at: Thu 22 Aug 2014 18:00:00 CET
+created_at: Fri 22 Aug 2014 10:00:00 CET
 author: Konstantin Haase
 twitter: konstantinhaase
 layout: post
