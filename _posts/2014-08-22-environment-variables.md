@@ -1,10 +1,10 @@
 ---
 title: "Environment Variables"
-created_at: Thu 21 Aug 2014 18:00:00 CET
+created_at: Thu 22 Aug 2014 18:00:00 CET
 author: Konstantin Haase
 twitter: konstantinhaase
 layout: post
-permalink: 2014-08-21-environment-variables
+permalink: 2014-08-22-environment-variables
 ---
 
 A common way to customize the build process is to use environment variables. These can be accessed from any stage in your build process.
