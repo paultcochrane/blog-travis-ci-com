@@ -28,7 +28,7 @@ Examples for using the **.travis.yml**:
 
 * Variables generally needed for the build to run, that don't contain sensitive data. For instance, a test suite for a Ruby application might require `$RACK_ENV` to be set to `test`.
 * Variables that have to differ per branch.
-* Variables that have to [differ per job](#Matrix-Variables).
+* Variables that have to differ per job.
 
 Examples for using **repository settings**:
 
