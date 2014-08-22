@@ -105,6 +105,20 @@ Please note the difference in the package name.
 Android SDK is updated to 23.0.2.
 `build-tools-20.0.0` is pre-installed.
 
+### Gradle 2.0
+
+Gradle has been updated to version 2.0.
+This release contains potential breaking changes.
+If you need to go back to version 1.11, add the following to your `.travis.yml`:
+
+```yaml
+before_install:
+  - sudo rm -r /usr/local/gradle
+  - curl -LO http://services.gradle.org/distributions/gradle-1.11-bin.zip
+  - unzip -q gradle-1.11-bin.zip
+  - sudo mv gradle-1.11 /usr/local/gradle
+```
+
 ## Haskell VM
 
 Platform is updated to 2014.2.0.0.
@@ -115,6 +129,10 @@ GHC 7.8.2 is updated to 7.8.3. (Other versions remain the same.)
 * Maven is updated to 3.2.3.
 * Leiningen2 is updated to 2.4.3, which is now the default.
 
+### Gradle 2.0
+
+See notes [above](#gradle-20).
+
 ### Leiningen will default to 2.x
 
 With this update, the default version of Leiningen will be 2.4.3.
@@ -123,7 +141,6 @@ Leiningen 1.x will be available as `lein1`.
 `lein` will point to Leiningen 2.4.3, but `lein2` will also be available as before.
 
 Those repositories which use `lein` need to be updated to invoke `lein1` instead.
-
 
 ## PHP VM
 
