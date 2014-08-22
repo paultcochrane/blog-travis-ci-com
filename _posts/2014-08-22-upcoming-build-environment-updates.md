@@ -4,7 +4,7 @@ created_at: Fri 22 Aug 2014 11:47:30 EDT
 author: Hiro Asari
 twitter: hiro_asari
 layout: post
-permalink: 2014-08-22-upcoming-build-environment-updates----august
+permalink: 2014-08-22-upcoming-build-environment-updates
 ---
 
 We have added a lot of nice changes to our cookbooks recently, so
