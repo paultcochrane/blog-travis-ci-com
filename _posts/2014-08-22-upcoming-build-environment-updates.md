@@ -142,6 +142,14 @@ Leiningen 1.x will be available as `lein1`.
 
 Those repositories which use `lein` need to be updated to invoke `lein1` instead.
 
+### Scala
+
+Scala is updated to 2.11.2, sbt to 0.13.5.
+
+In addision, Scala 2.9.2 and 2.10.2 are preinstalled.
+These versions address problem with cross-compilation, and build failures
+descriebed in http://www.typesafe.com/blog/what-happened-to-my-travis-ci, respectively.
+
 ## PHP VM
 
 Version updates include:
