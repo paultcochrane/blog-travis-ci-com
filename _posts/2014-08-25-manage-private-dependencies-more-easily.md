@@ -21,7 +21,7 @@ In order to improve that we introduced a way to add an SSH key in the UI:
   <figcaption>SSH Key screen in the Repository Settings</figcaption>
 </figure>
 
-After clicking "Add a custom SSH key" you can add a custom SSH key which will be then used in
+After clicking "Add a custom SSH key" you can add a key which will be then used in
 your builds:
 
 <figure>
