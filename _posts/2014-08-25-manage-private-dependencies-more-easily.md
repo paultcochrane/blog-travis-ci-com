@@ -1,5 +1,5 @@
 ---
-title: "Manage private dependencies more easily"
+title: "Manage Private Dependencies More Easily"
 created_at: Mon 25 Aug 2014 16:00:00 CET
 author: Piotr Sarnacki
 twitter: drogus
@@ -12,9 +12,9 @@ like a private git submodule. A common approach to authorize a submodule is to u
 with access to multiple repositories on GitHub.
 
 Until recently, the only way to set a custom SSH key was to put it in the `.travis.yml` file.
-However, that approach is not free from problems, one of them being a security concern.
+However, there were security concerns attached to this approach.
 
-In order to improve that we introduced a way to add an SSH key in the UI:
+In order to improve that we're introducing a way to add an SSH key in the UI:
 
 <figure>
   [ ![SSH Key screen in the Repository Settings](/images/ssh-key-screen.png) ](/images/ssh-key-screen.png)
@@ -39,8 +39,8 @@ To make it easier to identify the SSH key in use we also display a fingerprint i
 ## Security
 
 The SSH key added through the UI is securely stored in our DB in an encrypted form.
-Despite that, a preferred way to use a custom SSH key is to create a separate GitHub
-account that would have access only to the specified reposiories.
+To reduce any possible attack vector, we recommend using a user with as little
+access as possible to only the repositories used as dependencies.
 
 ## Other ways to add private dependencies
 
