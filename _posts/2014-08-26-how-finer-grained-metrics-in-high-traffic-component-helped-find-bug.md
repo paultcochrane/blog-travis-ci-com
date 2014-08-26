@@ -45,7 +45,7 @@ erradic behaviour of a few dynos. Normally, all processes should process a
 somewhat equal amount of messages, as RabbitMQ distributes messages on a
 round-robin basis for all open channels.
 
-Now we were able tocorrelate these drops with the logs, and soon we found errors
+Now we were able to correlate these drops with the logs, and soon we found errors
 of when channels were closed. We found a fix quickly and haven't had any alerts
 since.
 
