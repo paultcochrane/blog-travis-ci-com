@@ -12,6 +12,13 @@ we decided to roll out the updates to you sooner rather than later!
 
 Here are details of the August, 2014 updates.
 
+## Update
+
+This announcement originally mentioned MongoDB update from 2.4.x to 2.6.4.
+We discovered a problem with the plan, however, and decided to postpone
+this update until we can provide a more solid upgrade plan.
+We apologize for the inconvenience, and thank you for your understanding.
+
 ## Update schedule
 
 The updates will be rolled out to
@@ -50,28 +57,6 @@ before_install:
 
 Included is an update to the latest Extended Support Release (ESR),
 31.0esr, which corresponds to Desktop Firefox 31.0.
-
-### MongoDB
-
-PPA changed to the official one from [MongoDB.org](http://www.mongodb.org/).
-With this change, the default is now 2.6.4.
-If you need a specific version, plase add the following for releases 2.6.0 and later:
-
-```yaml
-before_install:
-  - sudo apt-get purge mongodb-org mongodb-org-server mongodb-org-shell mongodb-org-mongos mongodb-org-tools
-  - sudo apt-get install mongodb-org=2.6.1 mongodb-org-server=2.6.1 mongodb-org-shell=2.6.1 mongodb-org-mongos=2.6.1 mongodb-org-tools=2.6.1
-```
-
-For releases older than 2.6.0, please add the following:
-
-```yaml
-before_install:
-  - sudo apt-get purge mongodb-org mongodb-org-server mongodb-org-shell mongodb-org-mongos mongodb-org-tools
-  - sudo apt-get --no-remove install mongodb-10gen=2.4.10
-```
-
-Please note the difference in the package name.
 
 ### MySQL
 
