@@ -68,7 +68,7 @@ Included is an update to the latest Extended Support Release (ESR),
 
 ### OracleJDK 7
 
-7u60 → 7u67
+7u60 → 7u65
 
 ### PostgreSQL
 
