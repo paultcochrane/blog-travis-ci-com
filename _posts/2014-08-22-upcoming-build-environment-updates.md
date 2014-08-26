@@ -16,7 +16,7 @@ Here are details of the August, 2014 updates.
 
 This announcement originally mentioned MongoDB update from 2.4.x to 2.6.4.
 We discovered a problem with the plan, however, and decided to postpone
-this update until we can provide a more solid upgrade plan.
+this MongoDB update until we can provide a more solid upgrade plan.
 We apologize for the inconvenience, and thank you for your understanding.
 
 ## Update schedule
