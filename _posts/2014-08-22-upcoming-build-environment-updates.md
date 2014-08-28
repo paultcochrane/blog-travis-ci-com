@@ -14,6 +14,16 @@ Here are details of the August, 2014 updates.
 
 ## Update
 
+Due to JDK bug discussed below, Oracle JDK 7 will remain at 7u60,
+and Oracle JDK 8 at 8u5.
+
+Even though OpenJDK 7u67 contains the bytecode verifier bug,
+we are unable to offer a reasonable alternative without it.
+Setting environment variables `_JAVA_OPTIONS=-Xverify:none` or
+`_JAVA_OPTIONS=-XX:-UseSplitVerifier` should mitigate this issue.
+
+## Update
+
 This announcement originally mentioned MongoDB update from 2.4.x to 2.6.4.
 We discovered a problem with the plan, however, and decided to postpone
 this MongoDB update until we can provide a more solid upgrade plan.
@@ -66,9 +76,9 @@ Included is an update to the latest Extended Support Release (ESR),
 
 6b31 → 6b32
 
-### OracleJDK 7
+### OpenJDK 7
 
-7u60 → 7u65
+7u55 → 7u67
 
 ### PostgreSQL
 
