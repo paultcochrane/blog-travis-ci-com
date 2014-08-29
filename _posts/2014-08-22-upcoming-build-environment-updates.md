@@ -17,7 +17,7 @@ Here are details of the August, 2014 updates.
 Due to JDK bug discussed below, Oracle JDK 7 will remain at 7u60,
 and Oracle JDK 8 at 8u5.
 
-Even though OpenJDK 7u67 contains the bytecode verifier bug,
+Even though OpenJDK 7u65 contains the bytecode verifier bug,
 we are unable to offer a reasonable alternative without it.
 Setting environment variables `_JAVA_OPTIONS=-Xverify:none` or
 `_JAVA_OPTIONS=-XX:-UseSplitVerifier` should mitigate this issue.
@@ -78,7 +78,7 @@ Included is an update to the latest Extended Support Release (ESR),
 
 ### OpenJDK 7
 
-7u55 → 7u67
+7u55 → 7u65
 
 ### PostgreSQL
 
