@@ -20,4 +20,4 @@ and we will offer this version pre-installed with this update.
 
 ## Ruby VM
 
-[JRuby 1.7.14](http://jruby.org/2014/08/27/jruby-1-7-14) is available in both 1.8 and 1.9 modes.
+JRuby 1.7.15 is available in both 1.8 and 1.9 modes.
