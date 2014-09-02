@@ -23,7 +23,3 @@ and they are also known as `5.18-extras` and `5.20-extras`.
 and we will offer this version pre-installed with this update.
 
 `xdebug` will be updated to 2.2.5 on PHP 5.3.3 and 5.5.9.
-
-## Ruby VM
-
-JRuby 1.7.15 is available in both 1.8 and 1.9 modes.
