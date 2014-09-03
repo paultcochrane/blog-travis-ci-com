@@ -10,7 +10,11 @@ layout: post
 We are very pleased to announce official Rust language support when you
 test your project on Travis CI.
 
-![Travis CI Per Command Time Tags](/images/2014-09-3-travis-gets-rusty.png)
+<figure class="smaller right">
+  ![Travis CI Mascot: The Rust Edition](/images/2014-09-3-travis-gets-rusty.png)
+  <figcaption>Travis CI Mascot: The Rust Edition</figcaption>
+</figure>
+
 This is available for both opensource and private repositories right now.
 
 For a while now we have seen the rise of developers
