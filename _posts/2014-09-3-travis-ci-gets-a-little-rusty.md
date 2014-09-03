@@ -39,11 +39,11 @@ and BOOM!, you are now testing against version 0.13 of Rust.
 
 But what if you want to test against 0.13 and nightly?
 
-  language: rust
+    language: rust
 
-  rust:
-    - 0.11.0
-    - nightly
+    rust:
+      - 0.11.0
+      - nightly
 
 We can hear you right now screaming 'How delightful!', but that's not all!
 
