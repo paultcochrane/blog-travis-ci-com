@@ -15,14 +15,14 @@ test your project on Travis CI.
   <figcaption>Travis CI Mascot: The Rust Edition</figcaption>
 </figure>
 
-This is available for both opensource and private repositories right now.
+This is available for both open source and private repositories right now.
 
 For a while now we have seen the rise of developers
 [testing Rust projects](http://bettong.net/2014/05/09/how-to-test-rust-on-travis-ci/)
 on Travis CI, usually by installing Rust and Cargo as required, and then running
 `cargo build` and `cargo test`.
 
-With the awesome help of [dykim](https://github.com/dyrim), who was very kind
+With the awesome help of [dyrim](https://github.com/dyrim), who was very kind
 to send us a [Pull Request](https://github.com/travis-ci/travis-build/pull/264)
 to wrap these defaults, including the installation of Rust and Cargo, all you
 need to do is add:
@@ -39,7 +39,7 @@ following to your `.travis.yml`:
 
     rust: 0.11.0
 
-and BOOM!, you are now testing against version 0.13 of Rust.
+and BOOM!, you are now testing against version 0.11.0 of Rust.
 
 But what if you want to test against 0.11.0 and nightly?
 
