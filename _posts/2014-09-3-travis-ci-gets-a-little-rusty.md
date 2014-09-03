@@ -10,7 +10,7 @@ layout: post
 We are very pleased to announce official Rust language support when you
 test your project on Travis CI.
 
-![Travis CI Per Command Time Tags](/images/2014-09-3-travis-gets-rusty.jpg)
+![Travis CI Per Command Time Tags](/images/2014-09-3-travis-gets-rusty.png)
 This is available for both opensource and private repositories right now.
 
 For a while now we have seen the rise of developers
@@ -33,7 +33,7 @@ following to your .travis.yml:
 
   language: rust
 
-  rust: 0.13
+  rust: 0.11.0
 
 and BOOM!, you are now testing against version 0.13 of Rust.
 
@@ -42,7 +42,7 @@ But what if you want to test against 0.13 and nightly?
   language: rust
 
   rust:
-    - 0.13
+    - 0.11.0
     - nightly
 
 We can hear you right now screaming 'How delightful!', but that's not all!
