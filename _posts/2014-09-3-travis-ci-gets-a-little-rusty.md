@@ -32,7 +32,7 @@ need to do is add:
 to your `.travis.yml` file and you are good to go!
 
 By default this will test your project by installing Rust and Cargo nightly
-biniries. If you need a specific version, all you need to do is add the
+binaries. If you need a specific version, all you need to do is add the
 following to your `.travis.yml`:
 
     language: rust
@@ -41,7 +41,7 @@ following to your `.travis.yml`:
 
 and BOOM!, you are now testing against version 0.13 of Rust.
 
-But what if you want to test against 0.13 and nightly?
+But what if you want to test against 0.11.0 and nightly?
 
     language: rust
 
