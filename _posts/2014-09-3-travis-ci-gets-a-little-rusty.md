@@ -23,7 +23,7 @@ to send us a [Pull Request](https://github.com/travis-ci/travis-build/pull/264)
 to wrap these defaults, including the installation of Rust and Cargo, all you
 need to do is add:
 
-  language: rust
+    language: rust
 
 to your .travis.yml file and you are good to go!
 
@@ -31,9 +31,9 @@ By default this will test your project by installing Rust and Cargo nightly
 biniries. If you need a specific version, all you need to do is add the
 following to your .travis.yml:
 
-  language: rust
+    language: rust
 
-  rust: 0.11.0
+    rust: 0.11.0
 
 and BOOM!, you are now testing against version 0.13 of Rust.
 
@@ -53,9 +53,9 @@ override the install and script steps.
 For example, if you don't want Travis CI to run `cargo build` and `cargo test`,
 all you need to do is change your .travis.yml file to:
 
-  language: rust
+    language: rust
 
-  script: ./run_my_favourite_script
+    script: ./run_my_favourite_script
 
 We have added [full documentation](http://docs.travis-ci.com/user/languages/rust/)
 on our Rust support in case you have any further questions.
