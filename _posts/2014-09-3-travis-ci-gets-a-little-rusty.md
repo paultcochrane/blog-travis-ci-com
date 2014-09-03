@@ -29,11 +29,11 @@ need to do is add:
 
     language: rust
 
-to your .travis.yml file and you are good to go!
+to your `.travis.yml` file and you are good to go!
 
 By default this will test your project by installing Rust and Cargo nightly
 biniries. If you need a specific version, all you need to do is add the
-following to your .travis.yml:
+following to your `.travis.yml`:
 
     language: rust
 
@@ -55,7 +55,7 @@ As always you get all the awesome power of Travis CI, including the ability to
 override the install and script steps.
 
 For example, if you don't want Travis CI to run `cargo build` and `cargo test`,
-all you need to do is change your .travis.yml file to:
+all you need to do is change your `.travis.yml` file to:
 
     language: rust
 
