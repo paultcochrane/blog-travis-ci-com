@@ -201,7 +201,7 @@ How do you force yourself to end the day at the same time every day? Easy, set a
 calendar entry with an alert 15-30 minutes before so you can wrap up what you're
 currently working on.
 
-### Take a real vacation
+### Bonus: Take a real vacation
 
 A few weeks ago I went on a trip to France with my family for three weeks.
 Initially I thought I'd work a few hours a day to make up for the time I'm away.
