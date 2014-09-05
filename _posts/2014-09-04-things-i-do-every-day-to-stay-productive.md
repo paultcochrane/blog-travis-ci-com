@@ -22,7 +22,7 @@ to become a happier person again.
 Here are the steps that I've taken since then that not only restored my personal
 happiness, they've helped me be more productive.
 
-### Plan you day, plan your week
+### Plan your day, plan your week
 
 Without the slightest idea what I'd do on any day, without a plan, I found
 myself unhappy because I didn't feel like I accomplished anything. I may very
