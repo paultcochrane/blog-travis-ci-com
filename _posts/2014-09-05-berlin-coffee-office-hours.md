@@ -27,5 +27,5 @@ around. Hint: they're serving the greatest breakfast at Silo Coffee as well!
 
 [![](http://s3.unlike.net.s3.amazonaws.com/photos/0073/5807/silo_coffee_berlin_8_600x480.jpg)](http://unlike.net/berlin/food/silo)
 
-<a href="(https://goo.gl/maps/O5Yvg"><img width="600" src="http://s3itch.paperplanes.de/Silo_Coffee_-_Google_Maps_2014-09-05_10-15-34_2014-09-05_10-15-46.jpg"/></a>
+<a href="https://goo.gl/maps/O5Yvg"><img width="600" src="http://s3itch.paperplanes.de/Silo_Coffee_-_Google_Maps_2014-09-05_10-15-34_2014-09-05_10-15-46.jpg"/></a>
 
