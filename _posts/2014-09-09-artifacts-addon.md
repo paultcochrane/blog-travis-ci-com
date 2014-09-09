@@ -12,8 +12,8 @@ supported uploading artifacts after a build.  We're very honored to have him
 not only help us ship this feature, but also write this blog post, which I'm
 sure you'll all enjoy.  ~ [Josh Kalderimis](https://twitter.com/j2h)*
 
-If whatever you're running on Travis CI produces artifacts, you'll no doubt be
-thrilled to hear that we want to make saving these artifacts super easy for
+If the builds you're running on Travis CI produces artifacts, you'll no doubt
+be thrilled to hear that we want to make saving these artifacts super easy for
 you.
 
 The first supported tool for doing this was
@@ -33,7 +33,7 @@ instructions](https://github.com/travis-ci/artifacts#installation).
 In addition to this binary, an `artifacts` addon was tacked onto
 [travis-build](https://github.com/travis-ci/travis-build) so that you can use
 it via your `.travis.yml`.  More details are available in [the
-docs](https://docs.travis-ci.com/user/using-artifacts/), for example:
+docs](http://docs.travis-ci.com/user/uploading-artifacts/), for example:
 
 ``` yaml
 # .travis.yml
