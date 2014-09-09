@@ -1,47 +1,39 @@
 ---
 title: "Artifacts Revisited"
 author: Dan Buch
-created_at: Fri 06 June 2014 00:00:00 GMT
+created_at: Tues 09 September 2014 00:00:00 GMT
 layout: post
-permalink: /2014-06-06-artifacts-revisited
+permalink: /2014-09-09-artifacts-revisited
 ---
 
-This is my first time posting here, and it's important to know that I am
-not a Travis CI employee, but instead an employee of ModCloth.  This
-post came about as a result of having worked with the Travis CI team to
-design and build a new artifact management capability based on our
-experience using Travis Pro.
+*Dan has been a long-time contributor to Travis CI, including not only our Go
+support, but also features within our cookbooks, as well as how we originally
+supported uploading artifacts after a build.  We're very honored to have him
+not only help us ship this feature, but also write this blog post, which I'm
+sure you'll all enjoy.  ~ [Josh Kalderimis](https://twitter.com/j2h)*
 
-While the majority of the code was written by me, direction and guidance
-were provided throughout by my peers at ModCloth and the Travis CI team.
-I can't say enough good things about the process of contributing to such
-an important part of my team's toolkit.  With that introduction out of
-the way, I'd love to tell you about what we've built together.
-
-If whatever you're running on Travis CI produces artifacts, you'll no
-doubt be thrilled to hear that we want to make saving these artifacts
-super easy for you.
+If whatever you're running on Travis CI produces artifacts, you'll no doubt be
+thrilled to hear that we want to make saving these artifacts super easy for
+you.
 
 The first supported tool for doing this was
-[travis-artifacts](https://github.com/travis-ci/travis-artifacts), a
-handy gem-installable tool for shipping artifacts to Amazon S3.  This
-was a great start, and solved the immediate need, but we knew we could
-do better.
+[travis-artifacts](https://github.com/travis-ci/travis-artifacts), a handy
+gem-installable tool for shipping artifacts to Amazon S3.  This was a great
+start, and solved the immediate need, but we knew we could do better.
 
-Among the problems we hoped to address were the lengthy installation
-process of runtime dependencies and the lack of first-class support in
-one's `.travis.yml`.
+Among the problems we hoped to address were the lengthy installation process of
+runtime dependencies and the lack of first-class support in one's
+`.travis.yml`.
 
 What we ended up building comes in two parts.  First, there is a binary
-executable called `artifacts`.  This binary may be downloaded and used
-directly by following the [installation
+executable called `artifacts`.  This binary may be downloaded and used directly
+by following the [installation
 instructions](https://github.com/travis-ci/artifacts#installation).
 
 In addition to this binary, an `artifacts` addon was tacked onto
-[travis-build](https://github.com/travis-ci/travis-build) so that you
-can use it via your `.travis.yml`.  More details are available in [the
-docs](https://docs.travis-ci.com/user/using-artifacts/), but a brief
-example might look like this:
+[travis-build](https://github.com/travis-ci/travis-build) so that you can use
+it via your `.travis.yml`.  More details are available in [the
+docs](https://docs.travis-ci.com/user/using-artifacts/), for example:
 
 ``` yaml
 # .travis.yml
@@ -55,15 +47,27 @@ addons:
       secure: X19eaiiFZobD3uCk...X8cY+ohT8WkQ0=
 ```
 
-The bucket, key and secret parameters are equivalent to an S3 bucket
-name, access key id, and secret access key.  These are currently
-required parameters when using the artifacts addon, although we're
-working on a solution in which the upload, storage, and retrieval of
-artifacts is completely transparent.
+You can also set `ARTIFACTS_KEY` and `ARTIFACTS_SECRET` environment variables
+via the repository settings in order to keep your `.travis.yml` more slim, for
+example:
 
-The default paths that are sent to S3 are found via `git ls-files -o`.
-If you want to upload any other paths, these may be specified as the
-`addons.artifacts.paths` key a la:
+![Artifacts env vars in repository
+settings](/images/2014-09-09-artifacts-env-vars.png)
+
+Setting such environment variables would reduce the valid addons configuration
+to the following:
+
+``` yaml
+# .travis.yml
+# ...
+addons:
+  artifacts:
+    bucket: my-special-bucket
+```
+
+By default, any files found using `git ls-files -o` within your repository
+directory will be uploaded to S3.  If you want to upload a different set of
+files, you can specify these using the following config:
 
 ``` yaml
 # .travis.yml
@@ -78,5 +82,8 @@ addons:
     # singular paths work fine, too
     - $HOME/some/other/path.log
 ```
+
+We have some great improvements in the works to make artifacts even better, but
+consider this the first of many.
 
 We're looking forward to hearing what you think!
