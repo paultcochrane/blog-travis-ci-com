@@ -1,9 +1,9 @@
 ---
-title: "Artifacts Revisited"
+title: "Improved Artifacts; Like Dinosaurs, But Cooler"
 author: Dan Buch
 created_at: Tues 09 September 2014 00:00:00 GMT
 layout: post
-permalink: /2014-09-09-artifacts-revisited
+permalink: /2014-09-09-improved-artifacts-like-dinosaurs-but-cooler
 ---
 
 *Dan has been a long-time contributor to Travis CI, including not only our Go
