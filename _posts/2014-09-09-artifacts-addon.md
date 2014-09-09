@@ -33,11 +33,10 @@ instructions](https://github.com/travis-ci/artifacts#installation).
 In addition to this binary, an `artifacts` addon was tacked onto
 [travis-build](https://github.com/travis-ci/travis-build) so that you can use
 it via your `.travis.yml`.  More details are available in [the
-docs](http://docs.travis-ci.com/user/uploading-artifacts/), for example:
+docs](http://docs.travis-ci.com/user/uploading-artifacts/), for example, all
+you need is to add the following to your `.travis.yml`:
 
 ``` yaml
-# .travis.yml
-# ...
 addons:
   artifacts:
     bucket: my-special-bucket
@@ -46,6 +45,14 @@ addons:
     secret:
       secure: X19eaiiFZobD3uCk...X8cY+ohT8WkQ0=
 ```
+
+And you should then see at the bottom of your log:
+
+![Artifacts upload in
+action](/images/2014-09-09-artifacts-upload-travis-log.png)
+
+*The above screenshot is from
+[travis-build](https://travis-ci.org/travis-ci/travis-build/builds/32925401).*
 
 You can also set `ARTIFACTS_KEY` and `ARTIFACTS_SECRET` environment variables
 via the repository settings in order to keep your `.travis.yml` more slim, for
@@ -58,8 +65,6 @@ Setting such environment variables would reduce the valid addons configuration
 to the following:
 
 ``` yaml
-# .travis.yml
-# ...
 addons:
   artifacts:
     bucket: my-special-bucket
@@ -70,8 +75,6 @@ directory will be uploaded to S3.  If you want to upload a different set of
 files, you can specify these using the following config:
 
 ``` yaml
-# .travis.yml
-# ...
 addons:
   artifacts:
     # ...
