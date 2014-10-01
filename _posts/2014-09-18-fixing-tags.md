@@ -1,10 +1,10 @@
 ---
 title: "Improved tag handling"
-created_at: Mon 25 Aug 2014 16:00:00 CET
+created_at: Wed 1 Oct 2014 18:00:00 CET
 author: Piotr Sarnacki
 twitter: drogus
 layout: post
-permalink: 2014-08-25-manage-private-dependencies-more-easily
+permalink: 2014-10-01-manage-private-dependencies-more-easily
 ---
 
 When you push your tagged commits to a GitHub repository, you may
@@ -40,4 +40,4 @@ tags:
 You may also need to adjust your scripts to use `TRAVIS_TAG` environment variable,
 whereas now you can also use `TRAVIS_BRANCH`.
 
-We're going to introduce these changes in 2 weeks, ie. {TODO: fill this in with a date}.
+We're going to introduce these changes at 24th of October, 2014.
