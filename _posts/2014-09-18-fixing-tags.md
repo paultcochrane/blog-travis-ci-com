@@ -40,4 +40,4 @@ tags:
 You may also need to adjust your scripts to use `TRAVIS_TAG` environment variable,
 whereas now you can also use `TRAVIS_BRANCH`.
 
-We're going to introduce these changes at 24th of October, 2014.
+We're going to introduce these changes at 23rd of October, 2014.
