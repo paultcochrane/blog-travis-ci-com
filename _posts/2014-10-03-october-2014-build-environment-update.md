@@ -36,7 +36,7 @@ The updates will include the following:
 
 ## PHP VM
 
-* hhvm has been updated to 3.3.0
+* HHVM has been updated to 3.3.0.
 * PHP 5.5.17 and 5.4.33 are now installed.
 
 ## Ruby VM
