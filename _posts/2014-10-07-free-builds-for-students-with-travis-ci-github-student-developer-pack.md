@@ -6,6 +6,9 @@ created_at: Tue 7 Oct 2014 9:00:00 PDT
 permalink: 2014-10-07-free-builds-for-students-github-student-developer-pack
 layout: post
 ---
+<figure class="normal right" style="width: 400px;">
+  ![](/images/student-developer-pack-logo.png)
+</figure>
 Ever since we launched the product version of Travis CI, we've received numerous
 requests by students to support them in their course work. GitHub had
 spearheaded the idea of supporting education and academia with discounts on
@@ -21,6 +24,10 @@ We want to make sure you have the best tools available for your course work and
 be able to use them for free to become a better software developer, systems
 administrator, scientist, or writer (yup, you can use Travis CI for any of
 these!).
+
+<figure class="smaller right">
+  ![](/images/books-macbook.png)
+</figure>
 
 You can find all the details on [GitHub's Student Developer Pack
 page](https://education.github.com/pack) and on our own page for the education
