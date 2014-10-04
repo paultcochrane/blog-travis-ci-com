@@ -24,7 +24,7 @@ The updates will include the following:
 
 ## Erlang VM
 
-* Erlang 17.2 and 17.3 are added.
+* Erlang 17.3 is added.
 
 ## Java VM
 
@@ -32,7 +32,7 @@ The updates will include the following:
 
 ## Node.js VM
 
-* Version 0.10.32 is now pre-installed.
+* Version 0.10.32 is pre-installed and now the default.
 
 ## PHP VM
 
