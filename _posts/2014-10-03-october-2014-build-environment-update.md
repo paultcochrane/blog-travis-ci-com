@@ -21,6 +21,7 @@ The updates will include the following:
 
 * bash has been updated to include the [CVE-2014-7169](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-7169) fix.
 * Go has been updated to 1.3.3.
+* Sphinx 2.2.4 is available.
 
 ## Erlang VM
 
