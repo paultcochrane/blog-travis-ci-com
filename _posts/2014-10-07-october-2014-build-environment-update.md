@@ -1,10 +1,10 @@
 ---
 title: "October 2014 Build Environment Update"
-created_at: Fri 03 Oct 2014 08:40:38 EDT
+created_at: Tues 07 Oct 2014 18:40:38 EDT
 author: Hiro Asari
 twitter: hiro_asari
 layout: post
-permalink: 2014-10-03-october-2014-build-environment-update
+permalink: 2014-10-07-october-2014-build-environment-update
 ---
 
 # Scheduled Updates
