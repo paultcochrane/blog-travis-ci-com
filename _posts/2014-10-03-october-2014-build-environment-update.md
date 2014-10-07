@@ -17,11 +17,14 @@ to **[travis-ci.com](https://travis-ci.com)** at **[14:00 UTC on the 8th of Octo
 
 The updates will include the following:
 
-## All build environments
+## All build environments except PHP environments
 
 * bash has been updated to include the [CVE-2014-7169](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-7169) fix.
 * Go has been updated to 1.3.3.
 * Sphinx 2.2.4 is available.
+
+Please note that we have postponed updates to PHP environments due to older sources
+(in particular, 5.2.17 and 5.3.3) currently being unavailable on [PHP archive](http://museum.php.net).
 
 ## Erlang VM
 
@@ -34,11 +37,6 @@ The updates will include the following:
 ## Node.js VM
 
 * Version 0.10.32 is pre-installed and now the default.
-
-## PHP VM
-
-* HHVM has been updated to 3.3.0.
-* PHP 5.5.17 and 5.4.33 are now installed.
 
 ## Ruby VM
 
