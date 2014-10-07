@@ -12,8 +12,8 @@ permalink: 2014-10-03-october-2014-build-environment-update
 We plan a new wave of build environment updates.
 
 The updates will be rolled out to
-**[travis-ci.org](https://travis-ci.org)** at **[14:00 UTC on the 7th of October](http://everytimezone.com/#2014-10-7,120,cn3)** and
-to **[travis-ci.com](https://travis-ci.com)** at **[14:00 UTC on the 8th of October](http://everytimezone.com/#2014-10-8,120,cn3)**.
+**[travis-ci.org](https://travis-ci.org)** at **[14:00 UTC on the 9th of October](http://everytimezone.com/#2014-10-9,120,cn3)** and
+to **[travis-ci.com](https://travis-ci.com)** at **[14:00 UTC on the 14th of October](http://everytimezone.com/#2014-10-14,120,cn3)**.
 
 The updates will include the following:
 
