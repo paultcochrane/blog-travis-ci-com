@@ -16,11 +16,11 @@ private repositories.
 
 Today we're happy to announce our education program to offer free continuous
 integration to students as part of the [GitHub Student Developer
-Pack](https://education.github.com/pack)! We're joining a line-up of fantastic
+Pack](https://education.github.com/pack)! We're joining a lineup of fantastic
 companies offering their services to students for free, including DNSimple,
 DigitalOcean, Stripe and SendGrid.
 
-We want to make sure you have the best tools available for your course work and
+We want to make sure students have the best tools available for your course work and
 be able to use them for free to become a better software developer, systems
 administrator, scientist, or writer (yup, you can use Travis CI for any of
 these!).
@@ -39,6 +39,7 @@ put you on our education plan.
 
 What's more, as a student your builds are running on our new Docker-based setup,
 which we'll be slowly rolling out for general availability over the next couple
-of months. More details on this soon!
+of months. Note that the Docker-setup currently doesn't support any commands
+requiring `sudo`. More details on this soon!
 
 Happy testing!
