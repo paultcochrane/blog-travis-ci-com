@@ -15,6 +15,16 @@ The updates will be rolled out to
 **[travis-ci.org](https://travis-ci.org)** at **[14:00 UTC on the 9th of October](http://everytimezone.com/#2014-10-9,120,cn3)** and
 to **[travis-ci.com](https://travis-ci.com)** at **[14:00 UTC on the 14th of October](http://everytimezone.com/#2014-10-14,120,cn3)**.
 
+*****
+### Update
+PHP images will be updated with the following updates:
+
+* HHVM has been updated to 3.3.0.
+* PHP 5.5.17 and 5.4.33 are now installed.
+
+This will be rolled out to .org at the same time .com update is scheduled.
+*****
+
 The updates will include the following:
 
 ## All build environments except PHP environments
