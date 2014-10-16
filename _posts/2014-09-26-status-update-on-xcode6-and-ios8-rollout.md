@@ -18,3 +18,5 @@ Our second attempt at rolling out the image was yesterday, September 25th. We ve
 We're still trying to figure out the booting issue with our infrastructure team, and we hope to have this resolved as soon as possible.
 
 I'm really sorry for the delays in getting this update out to you.
+
+**Update**: We rolled out the Xcode 6 update two weeks ago, but saw some issues after rolling it out. The majority of these issues have been fixed, see the [status page](http://status.travis-ci.com/incidents/y9pysslbxb79) for more information. A postmortem will be published on Wednesday, October 22nd, which will detail the problems we encountered with the update, as well as improvements we will be making to the update process.
