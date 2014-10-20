@@ -7,6 +7,8 @@ layout: post
 permalink: 2014-09-26-status-update-on-xcode6-and-ios8-rollout
 ---
 
+**Update: We rolled out the Xcode 6 update two weeks ago, but saw some issues after rolling it out. The majority of these issues have been fixed, see the [status page](http://status.travis-ci.com/incidents/y9pysslbxb79) for more information. A postmortem will be published on Wednesday, October 22nd, which will detail the problems we encountered with the update, as well as improvements we will be making to the update process.**
+
 It's been nine days since Xcode 6 was released, and I wanted to give you an update on what we've been doing to get it rolled out to you.
 
 We started working on this as soon as Xcode 6 was out, but had some issues booting up and connecting to the base VM that we use to install any updates. Once we got the machine booted up and got past the connection issue (turned out to be a bug in the VPN client that I use), we started updating the software in the build environment.
@@ -18,5 +20,3 @@ Our second attempt at rolling out the image was yesterday, September 25th. We ve
 We're still trying to figure out the booting issue with our infrastructure team, and we hope to have this resolved as soon as possible.
 
 I'm really sorry for the delays in getting this update out to you.
-
-**Update**: We rolled out the Xcode 6 update two weeks ago, but saw some issues after rolling it out. The majority of these issues have been fixed, see the [status page](http://status.travis-ci.com/incidents/y9pysslbxb79) for more information. A postmortem will be published on Wednesday, October 22nd, which will detail the problems we encountered with the update, as well as improvements we will be making to the update process.
