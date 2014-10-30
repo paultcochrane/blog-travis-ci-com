@@ -7,11 +7,9 @@ layout: post
 permalink: 2014-10-30-november--build-environment-updates
 ---
 
-# Scheduled Updates
+# Update Schedule
 
-We plan a new wave of build environment updates.
-
-The updates will be rolled out to
+The new updates will be rolled out to
 **[travis-ci.org](https://travis-ci.org)** at **[15:00 UTC on the 4th of November](http://everytimezone.com/#2014-11-4,180,cn3)** and
 to **[travis-ci.com](https://travis-ci.com)** at **[15:00 UTC on the 6th of November](http://everytimezone.com/#2014-10-14,180,cn3)**.
 
@@ -50,7 +48,8 @@ The updates will include the following:
 
 ## Questions or comments?
 
-As usual, please get in touch if you have questions or comments.
+If you have questions or comments, please get in touch via [email](mailto:support@travis-ci.com)
+or [GitHub issues](https://github.com/travis-ci/travis-ci/issues).
 
 Happy testing!
 
