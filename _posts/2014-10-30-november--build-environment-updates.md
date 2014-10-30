@@ -17,9 +17,9 @@ The updates will include the following:
 
 ## All Environments
 
-* PhantomJS 1.9.8
-* Ruby 1.9.3-p550
-* ElasticSearch 1.3.4
+* PhantomJS 1.9.7 → 1.9.8
+* Ruby 1.9.3-p547 → 1.9.3-p550
+* ElasticSearch 1.3.2 → 1.3.4
 
 ## Andorid VM
 
@@ -31,20 +31,20 @@ The updates will include the following:
 
 ## Java VM
 
-* Oracle JDK 7u72, 8u25
+* Oracle JDK 7u60 → 7u72, 8u05 → 8u25
 
 ## PHP VM
 
-* 5.4.34, 5.5.18, 5.6.2
+* 5.4.31 → 5.4.34, 5.5.17 → 5.5.18, 5.6.1 → 5.6.2
 
 ## Python VM
 
-* 3.4.2
+* 3.4.1 → 3.4.2
 
 ## Ruby VM
 
-* Ruby 2.1.4, 2.0.0-p594
-* JRuby 1.7.16.1
+* Ruby 2.1.4, 2.0.0-p576 → 2.0.0-p594
+* JRuby 1.7.16 → 1.7.16.1
 
 ## Questions or comments?
 
