@@ -44,7 +44,7 @@ The updates will include the following:
 ## Ruby VM
 
 * Ruby 2.1.4, 2.0.0-p576 → 2.0.0-p594
-* JRuby 1.7.16 → 1.7.16.1
+* JRuby 1.7.15 → 1.7.16.1
 
 ## Questions or comments?
 
