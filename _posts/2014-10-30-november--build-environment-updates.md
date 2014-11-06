@@ -9,8 +9,31 @@ permalink: 2014-10-30-november--build-environment-updates
 
 ---------
 
-Update
+## Update
+
 .org rollout has been postponed by a day due to a bug in our worker code.
+
+## Note on PhantomJS 1.9.8
+
+There are reports of problems with PhantomJS 1.9.8 (which is reported as https://github.com/ariya/phantomjs/issues/12697).
+This manifests in error messages such as:
+
+```
+Cannot decode JSON from PhantomJS runner
+```
+or
+```
+Cannot decode JSON from PhantomJS runner: 795: unexpected token at 'Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL...
+```
+
+You can downgrade to 1.9.7 with the following commands:
+
+```
+sudo rm -rf /usr/local/phantomjs
+curl -L -O https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.7-linux-x86_64.tar.bz2
+tar xjf phantomjs-1.9.7-linux-x86_64.tar.bz2
+sudo mv phantomjs-1.9.7-linux-x86_64 /usr/local/phantomjs
+```
 
 ---------
 
