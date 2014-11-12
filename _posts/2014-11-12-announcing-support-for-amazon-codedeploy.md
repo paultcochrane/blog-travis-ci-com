@@ -2,9 +2,9 @@
 title: Deploy from Travis CI to AWS CodeDeploy
 author: Mathias Meyer
 twitter: roidrage
-created_at: Wed 12 Nov 2014 20:00:00 PDT
+created_at: Wed 12 Nov 2014 20:00:00 CET
 layout: post
-permalink: 2014-11-12-deploy-from-travis-ci-to-amazon-codedeploy
+permalink: 2014-11-12-deploy-from-travis-ci-to-aws-codedeploy
 ---
 Today Amazon Web Services (AWS) has launched a new service to automate the process of deploying and updating applications on their Amazon Elastic Compute Cloud (Amazon EC2). It's called *AWS CodeDeploy*, and it follows similar and simple means of getting your code to production as Travis CI.
 
