@@ -20,7 +20,7 @@ On top of that, AWS CodeDeploy lets you roll out applications gradually, on a su
 
 It offers a few different strategies to roll out an application on only half of your server fleet at any one time, or even just one by one.
 
-Make sure to check out the [AWS CodeDeploy site]() and [documentation]() to get a full glimpse on what it can do.
+Make sure to check out the [AWS CodeDeploy site](http://aws.amazon.com/codedeploy/) and [documentation](http://aws.amazon.com/documentation/codedeploy/) to get a full glimpse on what it can do.
 
 **How can I deploy to AWS CodeDeploy from Travis CI?**
 
