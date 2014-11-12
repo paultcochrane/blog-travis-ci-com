@@ -1,5 +1,5 @@
 ---
-title: Deploy from Travis CI to Amazon CodeDeploy
+title: Deploy from Travis CI to AWS CodeDeploy
 author: Mathias Meyer
 twitter: roidrage
 created_at: Wed 12 Nov 2014 20:00:00 PDT
