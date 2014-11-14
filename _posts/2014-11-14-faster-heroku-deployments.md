@@ -23,11 +23,11 @@ Lucky for us, the awesome folks at Heroku have been busy finding a solution for 
 
 ## The Build API
 
-Heroku launched their [Build API](https://devcenter.heroku.com/articles/build-and-release-using-the-api) a while ago. We have had support for it since October 2nd, but users had to manually set the strategy to "api" in their .travis.yml.
+Heroku launched their [Build API](https://devcenter.heroku.com/articles/build-and-release-using-the-api) a while ago. We have had support for it since October 2nd, but users had to manually set the strategy to "api" in their `.travis.yml`.
 
 **Starting on Monday, November 17, this will be the new default strategy.** Internally, all Travis CI will be doing, is bundle up the current project directory as a tarball and upload it to the Heroku API. It will then stream the buildpack compilation logs back from the Heroku API to the Travis CI web interface.
 
-In theory, the only change this will cause from an endusers perspective are faster deployments.
+In theory, the only change this will cause from an end user's perspective are faster deployments.
 
 ## HTTP Git
 
@@ -35,7 +35,7 @@ More recently, Heroku has made it possible to do a git push [over HTTPS](https:/
 
 ## Reverting to SSH or Anvil
 
-If these changes will somehow break your deployments, you can set the strategy option in the deploy section of your .travis.yml to "anvil" or "git-ssh" respectively.
+If these changes will somehow break your deployments, you can set the strategy option in the deploy section of your `.travis.yml` to "anvil" or "git-ssh" respectively.
 
     deploy:
       provider: heroku
