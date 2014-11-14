@@ -2,7 +2,7 @@
 title: Faster Heroku Deployments
 author: Konstantin Haase
 twitter: konstantinhaase
-created_at: Fri 14 Nov 2014 13:00:00 CET
+created_at: Fri 14 Nov 2014 17:40:00 CET
 layout: post
 permalink: 2014-11-14-faster-heroku-deployments
 ---
