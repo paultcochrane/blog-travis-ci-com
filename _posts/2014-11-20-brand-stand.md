@@ -17,4 +17,4 @@ Actually, this page is a long time coming. Since I started at Travis CI last Sep
 
 All this was just for you! But please have a quick read on our brand Do’s and Don’ts! For example: please DO bake me some vegan cookies in the shape of the mascot! Totally worth the tax to ship to Germany! And please DON’T use the logo for artwork for profit.
 
-If you have any further questions, or have something you’d like to see on that page that isn’t currently available, feel free to holler at me [justine@travis-ci.com](mailto:justine@travis-ci.com?subject=Brand%Stand)!
+If you have any further questions, or have something you’d like to see on that page that isn’t currently available, feel free to holler at us [support@travis-ci.com](mailto:support@travis-ci.com?subject=Brand%Stand)!
