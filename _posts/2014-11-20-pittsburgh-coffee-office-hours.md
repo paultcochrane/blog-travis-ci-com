@@ -17,4 +17,4 @@ our favorite coworking spots, **from 9:30am until whenever** (or
 
 Coffee is on us, so do come by for a chat.
 
-<a href="https://goo.gl/maps/X0HSC"><img width="600" src="https://www.dropbox.com/s/cw70qjwcqgljwiu/Screenshot%202014-11-20%2014.23.19.png?dl=0"/></a>
+<a href="https://goo.gl/maps/X0HSC"><img width="600" src="https://cloud.githubusercontent.com/assets/45143/5131588/2ce78f84-70c2-11e4-99ef-4020f5bcd7d9.png"/></a>
