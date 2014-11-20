@@ -19,4 +19,4 @@ Coffee is on us, so do come by for a chat.
 
 ![marty's!!!](https://cloud.githubusercontent.com/assets/45143/5131668/2e4a0126-70c3-11e4-8b9d-448c5a1f69ef.jpg)
 
-<a href="https://goo.gl/maps/X0HSC"><img width="600" src="https://cloud.githubusercontent.com/assets/45143/5131588/2ce78f84-70c2-11e4-99ef-4020f5bcd7d9.png"/></a>
+<a href="https://goo.gl/maps/X0HSC"><img width="800" src="https://cloud.githubusercontent.com/assets/45143/5131588/2ce78f84-70c2-11e4-99ef-4020f5bcd7d9.png"/></a>
