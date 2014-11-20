@@ -9,7 +9,10 @@ permalink: 2014-11-20-pittsburgh-coffee-office-hours
 [Josh](https://twitter.com/j2h) is making his way around the globe
 from New Zealand to Berlin by way of Amazon re:Invent, and
 [Hiro](https://twitter.com/hiro_asari) is on his way back from
-RubyConf, and they're visiting Pittsburgh (where I live, yay!!)!
+RubyConf.  As luck would have it, the stars aligned so that they
+can both visit Pittsburgh! The reason for this, of course, is to
+indulge in a healthy dose of tunnels and bridges.  We'll also be
+doing a bit of Travis fun in the time remaining.
 
 **This coming Friday, November 21st 2014, we'll be hanging out at
 [Marty's Market in the Strip](http://martysmarket.com/)**, one of
