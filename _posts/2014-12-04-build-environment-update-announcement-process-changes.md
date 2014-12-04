@@ -15,7 +15,7 @@ and users were often caught by surprise when their builds started failing
 suddenly.
 
 We are going to change the process, starting the next update scheduled
-[next week](http://docs.travis-ci.com/user/build-environment-updates/2014-12/)
+[next week](http://docs.travis-ci.com/user/build-environment-updates/2014-12-09/)
 (December 9 for travis-ci.org, December 11 for travis-ci.com).
 
 ## No more blog post
