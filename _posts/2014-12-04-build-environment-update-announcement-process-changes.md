@@ -43,7 +43,7 @@ We have set up a mailing list to announce the updates, and you can [sign up](htt
 ## Next Update is Next Week
 
 As mentioned above, the next update is scheduled next week.
-You can find the details [here](http://docs.travis-ci.com/user/build-environment-updates/2014-12/).
+You can find the details [here](http://docs.travis-ci.com/user/build-environment-updates/2014-12-09/).
 
 We hope that these changes will make our build environment updates more transparent.
 
