@@ -25,7 +25,7 @@ These tend to clutter our blog.
 
 ## Build Environment Updates History
 
-Going forward, [separate documents](http://docs.travis-ci.com/user/build-environment-update-history)
+Going forward, [separate documents](http://docs.travis-ci.com/user/build-environment-updates/)
 will chronicle build environment updates.
 
 ## Atom Feed for Build Environment Update
