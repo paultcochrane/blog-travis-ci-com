@@ -16,7 +16,7 @@ suddenly.
 
 We are going to change the process, starting the next update scheduled
 [next week](http://docs.travis-ci.com/user/build-environment-updates/2014-12/)
-(December 9 for .org, December 11 for .com).
+(December 9 for travis-ci.org, December 11 for travis-ci.com).
 
 ## No more blog post
 
