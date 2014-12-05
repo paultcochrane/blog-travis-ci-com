@@ -1,10 +1,10 @@
 ---
 title: "Community-Driven Language Support Comes to Travis CI"
-created_at: Fri 05 Dec 2014 21:22:00 EST
+created_at: Wed 10 Dec 2014 08:22:00 EST
 author:
 twitter:
 layout: post
-permalink: 2014-12-05-community-driven-language-support-comes-to-travis-ci
+permalink: 2014-12-10-community-driven-language-support-comes-to-travis-ci
 ---
 
 Our foundation was laid in open source, and we have relied on
@@ -39,7 +39,7 @@ The language `csharp` can also be used to build F# and Visual Basic projects.
 
 Finally, [Tony Kelman](https://github.com/tkelman),
 [Pontus Stenetorp](https://github.com/ninjin),
-and [Elliott Saba](https://github.com/staticfloat) bring us
+and [Elliot Saba](https://github.com/staticfloat) bring us
 [Julia](http://docs.travis-ci.com/user/languages/julia) support.
 
 ## What Does "Community Support" Mean?
