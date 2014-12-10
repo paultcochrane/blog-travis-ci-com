@@ -39,7 +39,7 @@ The language `csharp` can also be used to build F# and Visual Basic projects.
 
 Finally, [Tony Kelman](https://github.com/tkelman),
 [Pontus Stenetorp](https://github.com/ninjin),
-and [Elliot Saba](https://github.com/staticfloat) bring us
+and [Elliot Saba](https://github.com/staticfloat) bring you
 [Julia](http://docs.travis-ci.com/user/languages/julia) support.
 
 ## What Does "Community Support" Mean?
