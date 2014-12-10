@@ -20,6 +20,7 @@ will develop, support, and document the language ecosystem.
 The languages we introduce today, in alphabetical order, are:
 
 ## C# Support
+![C#](http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/640px-C_Sharp_wordmark.svg.png)
 
 [C#](http://docs.travis-ci.com/user/languages/csharp/) support is brought to you
 by [Joshua Anderson](https://github.com/joshua-anderson),
@@ -32,6 +33,7 @@ Microsoft's [C# Programming Guide](http://msdn.microsoft.com/en-us/library/67ef8
 gets you started on this multi-paradigm programming language.
 
 ## D Support
+![D language](http://dlang.org/images/dlogo.png)
 
 [Iain Buclaw](https://github.com/ibuclaw),
 [David Nadlinger](https://github.com/klickverbot), and
@@ -44,6 +46,7 @@ For more information about the D programming language,
 visit [http://dlang.org/](http://dlang.org/).
 
 ## Julia Support
+![Julia logo](http://upload.wikimedia.org/wikipedia/commons/6/69/Julia_prog_language.svg)
 
 Finally, [Tony Kelman](https://github.com/tkelman),
 [Pontus Stenetorp](https://github.com/ninjin),
