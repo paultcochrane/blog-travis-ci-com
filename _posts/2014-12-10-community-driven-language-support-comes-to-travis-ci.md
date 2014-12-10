@@ -28,6 +28,9 @@ by [Joshua Anderson](https://github.com/joshua-anderson),
 
 The language `csharp` can also be used to build F# and Visual Basic projects.
 
+Microsoft's [C# Programming Guide](http://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
+gets you started on this multi-paradigm programming language.
+
 ## D Support
 
 [Iain Buclaw](https://github.com/ibuclaw),
@@ -35,12 +38,23 @@ The language `csharp` can also be used to build F# and Visual Basic projects.
 [Martin Nowak](https://github.com/MartinNowak) bring you
 [D](http://docs.travis-ci.com/user/languages/d/) support.
 
+D is a language with C-like syntax and static typing. It pragmatically combines efficiency, control, and modeling power, with safety and programmer productivity.
+
+For more information about the D programming language,
+visit http://dlang.org/.
+
 ## Julia Support
 
 Finally, [Tony Kelman](https://github.com/tkelman),
 [Pontus Stenetorp](https://github.com/ninjin),
 and [Elliot Saba](https://github.com/staticfloat) bring you
 [Julia](http://docs.travis-ci.com/user/languages/julia) support.
+
+Julia is a high-level, high-performance dynamic programming language for technical computing,
+with syntax that is familiar to users of other technical computing environments.
+
+http://julialang.org/ is your official source for information
+on Julia.
 
 ## What Does "Community Support" Mean?
 
