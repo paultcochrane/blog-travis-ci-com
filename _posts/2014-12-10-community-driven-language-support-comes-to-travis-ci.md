@@ -41,7 +41,7 @@ gets you started on this multi-paradigm programming language.
 D is a language with C-like syntax and static typing. It pragmatically combines efficiency, control, and modeling power, with safety and programmer productivity.
 
 For more information about the D programming language,
-visit http://dlang.org/.
+visit [http://dlang.org/](http://dlang.org/).
 
 ## Julia Support
 
@@ -53,7 +53,7 @@ and [Elliot Saba](https://github.com/staticfloat) bring you
 Julia is a high-level, high-performance dynamic programming language for technical computing,
 with syntax that is familiar to users of other technical computing environments.
 
-http://julialang.org/ is your official source for information
+[http://julialang.org/](http://julialang.org/) is your official source for information
 on Julia.
 
 ## What Does "Community Support" Mean?
