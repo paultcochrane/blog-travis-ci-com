@@ -1,8 +1,8 @@
 ---
 title: "Community-Driven Language Support Comes to Travis CI"
 created_at: Wed 10 Dec 2014 08:22:00 EST
-author:
-twitter:
+author: Hiro Asari
+twitter: hiro_asari
 layout: post
 permalink: 2014-12-10-community-driven-language-support-comes-to-travis-ci
 ---
