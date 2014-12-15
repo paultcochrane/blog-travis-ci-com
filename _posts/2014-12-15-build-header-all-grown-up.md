@@ -7,25 +7,25 @@ layout: post
 permalink: 2014-12-15-build-header-all-grown-up
 ---
 
-<figure class="smaller right">
-  ![](/images/#.png)
+Earlier this year we launched a different build header to our user interface.
+<figure>
+  ![](/images/2014-12-15-old-build-header.jpg)
 </figure>
-
-Earlier this year we launched a different build header to our user interface. It allowed us to better visualize all the awesome information we gather on what happened with your build, when and who authored it. We were glad you found it as useful as we did but we still felt the build header had room to grow up. Now may we introduce you to the new build header, all grown up!
+It allowed us to better visualize all the awesome information we gather on what happened with your build, when and who authored it. We were glad you found it as useful as we did but we still felt the build header had room to grow up. Now may we introduce you to the new build header, all grown up!
 
 <figure>
-  ![](/images/#.png)
+  ![](/images/2014-12-15-new-build-header.jpg)
 </figure>
 
 The build header has now phased from it’s angsty teenage years onto adulthood, with button down shirts and combed hair. We’ve tidied up the layout and given you more visual information with the same great tools you had before. You’ll still be able to restart your build and download your logs but now those tools are easier to find.
 
-<figure class="smaller right">
-  ![](/images/#.png)
+<figure>
+  ![](/images/2014-12-15-new-tools.png)
 </figure>
 Previously they were a little hidden in the back of the classroom, but now they’re right up front and center. Using Code Climate? If so, that tool sits right along side them. In a little while we’re going to be releasing even another super awesome tool to hang out with these guys, but shhh, you didn’t hear that from me! Just stay tuned for that!
 
-<figure class="smaller right">
-  ![](/images/#.png)
+<figure>
+  ![](/images/2014-12-15-pull-request-icon.png)
 </figure>
 We really want to give you as much information as easily as possible. So that’s why we added an icon to let you know if your build was the result of a push or a pull request. 
 
