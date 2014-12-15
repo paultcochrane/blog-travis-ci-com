@@ -7,11 +7,7 @@ layout: post
 permalink: 2014-12-15-build-header-all-grown-up
 ---
 
-Earlier this year we launched a different build header to our user interface.
-<figure>
-  ![](/images/2014-12-15-old-build-header.jpg)
-</figure>
-It allowed us to better visualize all the awesome information we gather on what happened with your build, when and who authored it. We were glad you found it as useful as we did but we still felt the build header had room to grow up. Now may we introduce you to the new build header, all grown up!
+Earlier this year we launched a different build header to our user interface. It allowed us to better visualize all the awesome information we gather on what happened with your build, when and who authored it. We were glad you found it as useful as we did but we still felt the build header had room to grow up. Now may we introduce you to the new build header, all grown up!
 
 <figure>
   ![](/images/2014-12-15-new-build-header.jpg)
