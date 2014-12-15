@@ -7,7 +7,7 @@ layout: post
 permalink: 2014-12-15-build-header-all-grown-up
 ---
 
-Earlier this year we launched a different build header to our user interface. It allowed us to better visualize all the awesome information we gather on what happened with your build, when and who authored it. We were glad you found it as useful as we did but we still felt the build header had room to grow up. Now may we introduce you to the new build header, all grown up!
+Earlier this year we launched a different build header to our user interface. It allowed us to better visualize all the awesome information we gather on what happened with your build, when and who authored it. We were glad you found it as useful as we did but we still felt the build header had room to grow. Now may we introduce you to the new build header, all grown up!
 
 <figure>
   ![](/images/2014-12-15-new-build-header.jpg)
@@ -25,7 +25,7 @@ Previously they were a little hidden in the back of the classroom, but now they�
 </figure>
 We really want to give you as much information as easily as possible. So that’s why we added an icon to let you know if your build was the result of a push or a pull request. 
 
-With tidiness and ease of finding information we restructured how we presented the build header information and broke it up a bit better. On the left your branch and commit name are now highlighted in blue at the top followed by and commit notes and finally your author. We even have a new avatar for those without a gravatar image!
+With tidiness and ease of finding information we restructured how we presented the build header information and broke it up a bit better. On the left your branch and commit message are now highlighted in blue at the top followed by your commit notes and finally at the bottom the author. We even have a new default avatar for those without a gravatar image!
 
 On the right you’ll see the status of your build (we sure hope it’s green!), the duration, how long ago the build finished, the git commit link and the comparing link.
 
