@@ -157,3 +157,7 @@ on Travis CI. We have a lot more things planned to improve stability, but we're
 excited to ship this today.
 
 Give it a spin and let us know what you think!
+
+For more information now and in the future, make sure to check our [docs on our
+new container-based
+stack](http://docs.travis-ci.com/user/workers/container-based-infrastructure/).
