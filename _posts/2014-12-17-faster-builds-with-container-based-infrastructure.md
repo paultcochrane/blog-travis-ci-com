@@ -1,19 +1,23 @@
 ---
-title: Faster Builds with Container-Based Infrastructure
+title: Faster Builds with Container-Based Infrastructure and Docker
 author: Mathias Meyer
 twitter: roidrage
 layout: post
-created_at: Wed 17 Dec 2014 16:00:00 CEt
+created_at: Wed 17 Dec 2014 16:00:00 CET
 permalink: 2014-12-17-faster-builds-with-container-based-infrastructure
 ---
+<figure class="right small">
+  <img src="/images/docker-lego-whale.jpg">
+</figure>
+
 Stability and reliability in your builds is the one thing we aimed to give since
 Travis CI came about. But we haven't always been able to live up to this
 expectation. Network issues, insufficient build capacity (for open source
 projects) which in turn lead to long wait times for your build to start,
 constrained CPU and memory resources in the builds environment, lack of caching
 for open source projects. As most our current Linux stack runs on a private
-  cloud, we've also had issues adding capacity, as we had to go through the
-  process of ordering and waiting for more capacity.
+cloud, we've also had issues adding capacity, as we had to go through the
+process of ordering and waiting for more capacity.
 
 Today we're happy to announce our new build infrastructure, which addresses some
 of these issues.
@@ -40,6 +44,8 @@ The build containers in our legacy build infrastructure has had 1.5 cores (with
 burst capacity) and 3GB of memory. The CPU resources are now guaranteed, which
 means less impact by noisy neighbors on the same host machine. Build times
 throughout the day should be much more consistent on the new container stack.
+
+The new containers have 2 dedicated cores available and 4 GB of memory.
 
 **Better network capacity, availability and throughput**
 
