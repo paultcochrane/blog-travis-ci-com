@@ -20,7 +20,8 @@ cloud, we've also had issues adding capacity, as we had to go through the
 process of ordering and waiting for more capacity.
 
 Today we're happy to announce our new build infrastructure, which addresses some
-of these issues.
+of these issues. It's available for private and open source repositories as of
+today!
 
 ## What benefits does this new infrastructure have?
 
