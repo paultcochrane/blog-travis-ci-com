@@ -41,7 +41,7 @@ love to hear from your if you don't or if you see slower build times.
 
 **More available resources in a build container**
 
-The build containers in our legacy build infrastructure has had 1.5 cores (with
+The build containers in our legacy build infrastructure have had 1.5 cores (with
 burst capacity) and 3GB of memory. The CPU resources are now guaranteed, which
 means less impact by noisy neighbors on the same host machine. Build times
 throughout the day should be much more consistent on the new container stack.
@@ -61,7 +61,7 @@ The best news for open source projects is that our build caching is now
 available for them too. That means faster build speeds by caching dependencies.
 Make sure to read the docs before trying it out.
 
-For Ruby projects, it's as simple as adding `cache: bundler` to your their
+For Ruby projects, it's as simple as adding `cache: bundler` to your
 `.travis.yml`.
 
 **Easier to scale**
@@ -153,7 +153,7 @@ have things planned to address this in the future.
 
 ## Containers everywhere
 
-This is only the beginning of offering a better, faster and more reliable builds
+This is only the beginning of offering better, faster and more reliable builds
 on Travis CI. We have a lot more things planned to improve stability, but we're
 excited to ship this today.
 
