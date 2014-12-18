@@ -25,6 +25,8 @@ post](2014-12-17-faster-builds-with-container-based-infrastructure), we've begun
 to EC2.  With this change comes new challenges and opportunities, and we've been busy building up tooling around how we
 interact with the infrastructure.
 
+## the importance of chat
+
 Before delving too much into what we've built, it's worth mentioning that we like to talk to each other.  A lot.  I'm
 personally very thankful for this, as a remote employee, since it means I'm able to lurk in our various [slack]()
 channels or read through the backlog and have a decent idea of what's going on.  In addition to conversations my
@@ -37,4 +39,11 @@ commands is important both for visibility and knowledge sharing, not to mention 
 got is your phone.
 
 In preparation for moving Linux builds onto the EC2 infrastructure, we decided that the existing tools for managing EC2
-instances simply weren't going to cut it.
+instances simply weren't going to cut it.  The command line tools had to be cloned down and configured, and the docs and
+help system were slim to nonexistent.  Rather than making the command line tooling setup and usage more user-friendly,
+we decided to instead put effort into rebuilding the functionality in the form of an API.
+
+## the start of pudding
+
+
+## what's next
