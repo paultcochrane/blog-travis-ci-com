@@ -73,7 +73,11 @@ prevent concept leakage, which so often results in unexpected behavior and maint
 In the interest of being able to try out pudding for yourself, and so that we can easily re-provision it if needed,
 we've even added a [heroku button](https://blog.heroku.com/archives/2014/8/7/heroku-button)!
 
-![pudding heroku button](/images/2014-12-22-pudding-heroku-button.png)
+<figure class="small left">
+  ![pudding heroku button](/images/2014-12-22-pudding-heroku-button.png)
+</figure>
 
 Give pudding a shot, or just look at the [source code](https://github.com/travis-ci/pudding), and please provide
 feedback.  Happy provisioning!
+
+![pudding terminate instance](/images/2014-12-22-pudding-terminate-instance.png)
