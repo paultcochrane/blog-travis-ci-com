@@ -74,7 +74,7 @@ In the interest of being able to try out pudding for yourself, and so that we ca
 we've even added a [heroku button](https://blog.heroku.com/archives/2014/8/7/heroku-button)!
 
 <figure class="small left">
-  ![pudding heroku button](/images/2014-12-22-pudding-heroku-button.png)
+  <img alt="pudding heroku button" src="/images/2014-12-22-pudding-heroku-button.png">
 </figure>
 
 Give pudding a shot, or just look at the [source code](https://github.com/travis-ci/pudding), and please provide
