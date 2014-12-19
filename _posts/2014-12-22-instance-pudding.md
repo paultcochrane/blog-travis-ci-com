@@ -8,7 +8,7 @@ permalink: 2014-12-22-instance-pudding
 ---
 
 <figure class="small right">
-  [ ![Tanita Pudding!](/images/2014-12-22-pudding.jpg)](https://github.com/travis-ci/pudding)
+  <a href="https://github.com/travis-ci/pudding"><img alt="Tanita Pudding!" src="/images/2014-12-22-pudding.jpg"></a>
 </figure>
 
 This is a very exciting time for infrastructure and automation at Travis CI. As you may have noticed in a recent [blog
