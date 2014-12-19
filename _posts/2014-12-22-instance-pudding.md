@@ -70,12 +70,12 @@ that only exist because of how [travis-worker](https://github.com/travis-ci/trav
 This concern isn't only about shipping an open source project that may be useful to others; it's about taking care to
 prevent concept leakage, which so often results in unexpected behavior and maintenance issues (citation needed).
 
-In the interest of being able to try out pudding for yourself, and so that we can easily re-provision it if needed,
-we've even added a [heroku button](https://blog.heroku.com/archives/2014/8/7/heroku-button)!
-
 <figure class="small left">
   <img alt="pudding heroku button" src="/images/2014-12-22-pudding-heroku-button.png">
 </figure>
+
+In the interest of being able to try out pudding for yourself, and so that we can easily re-provision it if needed,
+we've even added a [heroku button](https://blog.heroku.com/archives/2014/8/7/heroku-button)!
 
 Give pudding a shot, or just look at the [source code](https://github.com/travis-ci/pudding), and please provide
 feedback.  Happy provisioning!
