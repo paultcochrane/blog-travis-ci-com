@@ -7,19 +7,6 @@ created_at: Mon 22 Dec 2014 18:00:00 UTC
 permalink: 2014-12-22-instance-pudding
 ---
 
-<!--
-* chatops at Travis in general
-* legacy infrastructure and scaling difficulties
-* moving capacity to EC2
-* initial scripts for managing EC2 capacity
-* introducing pudding
-  * initial goals
-  * basic features
-  * open sourcing the things
-  * heroku button
-  * what we're adding/removing in the future
--->
-
 This is a very exciting time for infrastructure and automation at Travis CI. As you may have noticed in a recent [blog
 post](2014-12-17-faster-builds-with-container-based-infrastructure), we've begun moving some of our Linux build capacity
 to EC2.  With this change comes new challenges and opportunities, and we've been busy building up tooling around how we
@@ -76,3 +63,8 @@ We're also planning to make the pudding codebase even less Travis-specific, as t
 that only exist because of how [travis-worker]() is deployed and configured.  This concern isn't only about shipping an
 open source project that may be useful to others; it's about taking care to prevent concept leakage, which so often
 results in unexpected behavior and maintenance issues (citation needed).
+
+In the interest of being able to try out pudding for yourself, and so that we can easily re-provision it if needed,
+we've even added a [heroku button]()!
+
+Give pudding a shot, or just look at the [source code](), and please provide feedback.  Happy provisioning!
