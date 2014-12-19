@@ -7,6 +7,10 @@ created_at: Mon 22 Dec 2014 18:00:00 UTC
 permalink: 2014-12-22-instance-pudding
 ---
 
+<figure class="small right">
+  [ ![Tanita Pudding!](/images/2014-12-22-pudding.jpg)](https://github.com/travis-ci/pudding)
+</figure>
+
 This is a very exciting time for infrastructure and automation at Travis CI. As you may have noticed in a recent [blog
 post](2014-12-17-faster-builds-with-container-based-infrastructure), we've begun moving some of our Linux build capacity
 to EC2.  With this change comes new challenges and opportunities, and we've been busy building up tooling around how we
@@ -44,6 +48,8 @@ became addictive, and we started adding Slack integrations to pudding.  In its c
 instance via pudding results in notifications from the initial creation request, instance start, and at the completion
 of cloud init running the user data script.
 
+![hubot pudding usage](/images/2014-12-22-hubot-pudding-usage.png)
+
 ## what's next
 
 It's been very handy to be able to manage our EC2 capacity via chat, but we know that we can do much better.  For
@@ -66,6 +72,8 @@ prevent concept leakage, which so often results in unexpected behavior and maint
 
 In the interest of being able to try out pudding for yourself, and so that we can easily re-provision it if needed,
 we've even added a [heroku button](https://blog.heroku.com/archives/2014/8/7/heroku-button)!
+
+![pudding heroku button](/images/2014-12-22-pudding-heroku-button.png)
 
 Give pudding a shot, or just look at the [source code](https://github.com/travis-ci/pudding), and please provide
 feedback.  Happy provisioning!
