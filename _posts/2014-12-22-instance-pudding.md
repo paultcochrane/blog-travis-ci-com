@@ -1,5 +1,5 @@
 ---
-title: Instance Pudding Working Title
+title: Instance Pudding
 author: Dan Buch
 twitter: meatballhat
 layout: post
