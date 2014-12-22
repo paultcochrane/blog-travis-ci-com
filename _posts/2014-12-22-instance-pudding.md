@@ -31,7 +31,7 @@ got is your phone.
 
 In preparation for moving Linux builds onto the EC2 infrastructure, we decided that the existing tools for managing EC2
 instances simply weren't going to cut it.  The command line tools had to be cloned down and configured, and the docs and
-help system were slim to nonexistent.  Rather than making the command line tooling setup and usage more user-friendly,
+help system were next to nonexistent.  Rather than making the command line tooling setup and usage more user-friendly,
 we decided to instead put effort into rebuilding the functionality in the form of an API.
 
 ## the start of pudding
