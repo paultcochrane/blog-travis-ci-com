@@ -13,7 +13,7 @@ permalink: 2014-12-22-instance-pudding
 
 This is a very exciting time for infrastructure and automation at Travis CI. As you may have noticed in a recent [blog
 post](2014-12-17-faster-builds-with-container-based-infrastructure), we've begun moving some of our Linux build capacity
-to EC2.  With this change comes new challenges and opportunities, and we've been busy building up tooling around how we
+to EC2.  With this change come new challenges and opportunities, and we've been busy building up tooling around how we
 interact with the infrastructure.
 
 ## the importance of chat
