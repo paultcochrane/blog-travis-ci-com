@@ -308,7 +308,7 @@ figure.right {
   margin           : 0px;
   font-family      : 'Source Sans Pro', sans-serif; font-weight: 400;
   font-size        : 13px;
-  height           : 42px;
+  height           : 55px;
 }
 
 .wrapper {
@@ -318,14 +318,6 @@ figure.right {
   text-align : left;
   overflow   : hidden;
   position   : relative;
-}
-
-.logo-home img {
-  max-width      : 72px;
-  display        : inline-block;
-  float          : left;
-  padding-right  : 14px;
-  vertical-align : middle;
 }
 
 div#navigation {
@@ -410,12 +402,6 @@ footer {
 footer p {
   color : #a53230;
   line-height : 21px;
-}
-
-#travis-logo {
-  float   : left;
-  margin  : 0 20px 0 0;
-  display : inline-block;
 }
 
 #travis-address {
@@ -535,3 +521,42 @@ hr {
   height           : 1px;
   background-color : #ccc;
 }
+
+#top ul {
+  margin: 0;
+}
+#top {
+  line-height: 60px;
+  background: #404650;
+  font-size: 14px; }
+  #top #home {
+    float: left;
+    width: 123px;
+    height: 55px;
+    margin-right: 14px;
+    text-indent: -9999px;
+    background: #dc4136 url("/images/ui/travis-logo.svg") no-repeat 20px 18px; }
+  #top ul {
+    list-style-type: none; }
+  #top a, #top span {
+    color: #ffffff;
+    text-decoration: none; }
+  #top li {
+    display: inline-block; }
+    #top li a, #top li span {
+      display: block;
+      padding: 0 12px; }
+      #top li a:hover, #top li span:hover {
+        color: #ADC7D0; }
+  #top a.werehiring {
+    background-color: #31363d;
+    border-radius: 4px;
+    padding: 8px 16px;
+    line-height: 20px;
+    margin-right: 80px;
+    display: inline; }
+  #top li.traviscicom a {
+    padding-left: 0px; }
+
+
+
