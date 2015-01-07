@@ -522,9 +522,6 @@ hr {
   background-color : #ccc;
 }
 
-#top ul {
-  margin: 0;
-}
 #top {
   line-height: 60px;
   background: #404650;
@@ -537,6 +534,7 @@ hr {
     text-indent: -9999px;
     background: #dc4136 url("/images/ui/travis-logo.svg") no-repeat 20px 18px; }
   #top ul {
+    margin: 0;
     list-style-type: none; }
   #top a, #top span {
     color: #ffffff;
