@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My C/C++ Dev Environment: Github, Travis CI, Biicode"
-date: 2014-11-05T17:14:04+01:00
+date: 2015-01-29
 ---
 
 # My C/C++ dev environment: Github, Travis CI, biicode #
