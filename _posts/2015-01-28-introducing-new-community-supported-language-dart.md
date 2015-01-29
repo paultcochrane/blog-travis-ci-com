@@ -7,7 +7,9 @@ layout: post
 permalink: 2015-01-28-introducing-new-community-supported-language-dart
 ---
 
+<figure class="small right">
 <img src="http://upload.wikimedia.org/wikipedia/en/3/35/Dart_logo_wordmark.png" alt="C# wordmark" width="200"/>
+</figure>
 
 Back in December, we [announced](../2014-12-10-community-driven-language-support-comes-to-travis-ci) community support for three new languages,
 C#, D, and Julia.
