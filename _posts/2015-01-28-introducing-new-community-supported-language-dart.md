@@ -28,4 +28,6 @@ You can test it with:
 language: dart
 {% endhighlight %}
 
+See [our documentation](http://docs.travis-ci.com/user/languages/dart/) for more details.
+
 Happy testing!
