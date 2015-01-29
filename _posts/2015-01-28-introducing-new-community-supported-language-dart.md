@@ -13,7 +13,7 @@ Back in December, we [announced](../2014-12-10-community-driven-language-support
 C#, D, and Julia.
 
 Not long after, [Alexandre Ardhuin](https://github.com/a14n) started working
-on getting Dart support.
+on Dart support.
 Soon [Devon Carew](https://github.com/devoncarew) and [Seth Ladd](https://github.com/sethladd)
 joined forces.
 
