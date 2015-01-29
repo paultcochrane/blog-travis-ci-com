@@ -3,6 +3,9 @@ layout: post
 title: "My C/C++ Dev Environment: Github, Travis CI, Biicode"
 date: 2015-01-29
 author: Jordi Mon Companys
+twitter: biicode
+permalink: 2015-01-29-my-c-c-dev-environment-github-travisci-biicode
+
 ---
 
 This is a guest blog post from Jordi Mon Companys from biicode, who gave us
