@@ -2,15 +2,22 @@
 layout: post
 title: "My C/C++ Dev Environment: Github, Travis CI, Biicode"
 date: 2015-01-29
+author: Jordi Mon Companys
 ---
+
+This is a guest blog post from Jordi Mon Companys from biicode, who gave us
+[biicode deployment](http://docs.travis-ci.com/user/deployment/biicode/)
+integration.
+
+---------------------------------------
 
 # My C/C++ dev environment: Github, Travis CI, biicode #
 
 Here at [biicode](https://www.biicode.com/?utm_source=Travis CI&utm_medium=guestpost&utm_campaign=Travis CI) we work with Travis CI almost everyday. We love it and any of us surely would recommend it to any dev looking for a neat continuous integration environment. However, we thought that Manu’s story was the best one to illustrate how much joy Travis CI has brought to us. This is [Manu](http://www.biicode.com/manu343726?utm_source=Travis CI&utm_medium=guestpost&utm_content=Manuprofile&utm_campaign=Travis CI)'s story:
 
-As a self-taught programmer I was doing C++ in depth for the last four years. Graphics, physics engines, metaprogramming... I enjoyed the language, but the lack of proper tools for testing and source control integration was a pain. 
+As a self-taught programmer I was doing C++ in depth for the last four years. Graphics, physics engines, metaprogramming... I enjoyed the language, but the lack of proper tools for testing and source control integration was a pain.
 
-I usually release my personal projects as open source via my github account, so since the first day I really liked the integration Travis CI provides within github. You only have to configure your environment and run your own tests, scripts, etc. 
+I usually release my personal projects as open source via my github account, so since the first day I really liked the integration Travis CI provides within github. You only have to configure your environment and run your own tests, scripts, etc.
 
 And that’s exactly the source of success of Travis CI for me: The environment setup. The setup via `.travis.yml` is so easy, and the fact you are really working with an Ubuntu machine allows you to do whatever you like.
 
@@ -24,7 +31,7 @@ Biicode is not a platform to host code in a VCS style, is a platform to host lib
 
 The workflow with Travis CI was so awesome that I was working intensively on it for two weeks, configuring my projects to use biicode through Travis CI. During that period, my efforts got the attention of the biicode team, and they make me a job offer to continue with my work for them.
 
-That was only the start. Now at biicode headquarters I can improve the workflow for me and the rest of biicode users testing it every day, providing feedback for biicode developers. 
+That was only the start. Now at biicode headquarters I can improve the workflow for me and the rest of biicode users testing it every day, providing feedback for biicode developers.
 Here at biicode we think that Travis CI is the perfect choice to automate the testing and deployment of biicode blocks, and we are working hard to make Travis CI and biicode interoperability easier and simpler each release. You can help us to improve the user experience, using Travis CI with your own biicode projects and asking us for any issue or suggestion.
 
 ## Try it! ##
