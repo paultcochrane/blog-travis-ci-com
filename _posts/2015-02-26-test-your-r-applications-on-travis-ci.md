@@ -21,10 +21,10 @@ that allows R users to convince Travis CI to build R applications.
 R users can now set `language: r` to join the Travis CI party!
 
 [Dirk Eddelbuettel](https://github.com/eddelbuettel) and [Hadley Wickham](https://github.com/hadley)
-join Craig in providing the community support.
+join Craig in providing the community support. Thank you!
 
 You can find out more about testing R software on [our documentation](http://docs.travis-ci.com/user/languages/r/).
 
-** A stat joke goes here **
+![](http://cdn.memegenerator.net/instances/400x/33457759.jpg)
 
 Happy testing!
