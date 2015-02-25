@@ -12,7 +12,7 @@ of the new community-supported language, R.
 
 ![R](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/200px-R_logo.svg.png)
 
-R is a free software environment for statistical computing and graphics.
+[R](http://www.r-project.org/) is a free software environment for statistical computing and graphics.
 
 The support is brought to you by [Craig Citro](https://github.com/craigcitro), the author
 of the popular [R+Travis](https://github.com/craigcitro/r-travis) application template
@@ -22,6 +22,8 @@ R users can now set `language: r` to join the Travis CI party!
 
 [Dirk Eddelbuettel](https://github.com/eddelbuettel) and [Hadley Wickham](https://github.com/hadley)
 join Craig in providing the community support.
+
+You can find out more about testing R software on [our documentation](http://docs.travis-ci.com/user/languages/r/).
 
 ** A stat joke goes here **
 
