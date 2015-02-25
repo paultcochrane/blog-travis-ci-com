@@ -20,6 +20,10 @@ that allows R users to convince Travis CI to build R applications.
 
 R users can now set `language: r` to join the Travis CI party!
 
+If you are already using R+Travis, be sure to check out
+[the porting guide](https://github.com/craigcitro/r-travis/wiki/Porting-to-native-R-support-in-Travis)
+for migrating to the new R testing scheme.
+
 [Dirk Eddelbuettel](https://github.com/eddelbuettel) and [Hadley Wickham](https://github.com/hadley)
 join Craig in providing the community support. Thank you!
 
