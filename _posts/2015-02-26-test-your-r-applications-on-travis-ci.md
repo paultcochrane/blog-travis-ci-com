@@ -16,7 +16,7 @@ R is a free software environment for statistical computing and graphics.
 
 The support is brought to you by [Craig Citro](https://github.com/craigcitro), the author
 of the popular [R+Travis](https://github.com/craigcitro/r-travis) application template
-that allows R users to convince Trais CI to build R applications.
+that allows R users to convince Travis CI to build R applications.
 
 R users can now set `language: r` to join the Travis CI party!
 
