@@ -30,7 +30,7 @@ Additional fun Aly numbers include:
 * 2 spoiled guinea pigs
 * 1 amazing Oracle DBA (who doubles as a spouse)
 * 7 years old at start of photography career
-* 8000 is less than her desire for multi-glot status <img src="/images/over8000.gif">
+* 8000 is less than her desire for multi-glot status <img src="/images/over8000.gif" height="15px" width="15px">
 
 Important travel tip: Do *not* occupy the full width of an airport escalator or
 conveyer with your luggage when Aly is behind you, unless you want to experience
