@@ -12,15 +12,13 @@ layout: post
 
 We're super excited to announce that Aly has joined the Travis team!
 
-Aly joins us as the second member of the "Pittsburgh office" where she lives in
-the lovely east end borough of Greenfield, known for its spectacular view of the
-downtown skyline.  She resisted the pull of the tech world for years, choosing
-the path of the language nerd which led to her graduate work in Speech
-Pathology.
+Aly joins us as the second member of the "Pittsburgh office".  She resisted the
+pull of the tech world for years, choosing the path of the language nerd which
+led to her graduate work in Speech Pathology.
 
-Years of MMO guild management and IRC administration left her little choice but
-to dive into the depths of software development, but she still manages to flex
-her language skills in our team chat.
+Years of MMO guild management and many more of tinkering (aka breaking) websites
+left her little choice but to dive into the depths of software development, but
+she still manages to flex her language skills in our team chat.
 
 <figure>
   <img src="/images/aly-and-hiro-showing-off.png">
@@ -28,7 +26,7 @@ her language skills in our team chat.
 
 Additional fun Aly numbers include:
 
-* 2 spoiled cats
+* 1 spoiled cat
 * 2 spoiled guinea pigs
 * 1 amazing Oracle DBA (who doubles as a spouse)
 * 7 years old at start of photography career
@@ -45,3 +43,7 @@ with her guild management skills on [ESO](http://www.elderscrollsonline.com/),
 [Steam](http://store.steampowered.com/).
 
 [**OBEY THE LIME**](http://obeythelime.com/)!
+
+<figure>
+  <img src="/images/aly-humblebrag.png">
+</figure>
