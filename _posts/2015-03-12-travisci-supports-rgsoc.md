@@ -28,7 +28,7 @@ Summer of Code happen. Some of the participating projects include: Rails,
 Sinatra, Rubinius, Bundler, Ruby Documentation, RailsAdmin, Lotus, and Ruby
 Object Mapper.
 
-And Rails Girls Summer of Code works: over 90% of their alumnis are now working
+And Rails Girls Summer of Code works: over 90% of their alumni are now working
 in a technology related position, most of them as developers.
 
 We think this is amazing work from an amazing community!
