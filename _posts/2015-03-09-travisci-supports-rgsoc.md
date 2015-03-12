@@ -10,10 +10,9 @@ permalink: 2015-03-09-travisci-supports-rgsoc
 Rails Girls Summer of Code has opened their
 [fundraising campaign](http://railsgirlssummerofcode.org/campaign) for 2015.
 
-**Please join us in supporting them to help 20 sponsored students have an amazing
+**Please join us in supporting them help 20 sponsored students have an amazing
 summer, working on great
-[Open Source projects](https://github.com/rails-girls-summer-of-code/projects/issues)
-for 3 months.**
+[Open Source projects](https://github.com/rails-girls-summer-of-code/projects/issues).**
 
 For those who may not know, [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
 is a program that funds and supports women around the world to work full-time
@@ -43,8 +42,8 @@ but also for the role models these participants become. This way Rails Girls
 Summer of Code also functions as a long term learning goal for Rails Girls
 students worldwide.
 
-While we're extremely proud of supporting RGSoC we know the program would not
-be possible without the generous support of other sponsors and private donations
+While we're extremely proud to support RGSoC we know the program would not
+be possible without the generous support of other sponsors and private donors
 from this amazing community.
 
 **Please consider taking a few minutes to make a
