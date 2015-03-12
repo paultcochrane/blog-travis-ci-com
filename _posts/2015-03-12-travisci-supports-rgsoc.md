@@ -1,10 +1,10 @@
 ---
 title: "Travis CI supports Rails Girls Summer of Code 2015"
-created_at: Thu 26 Feb 2015 10:07:34 EST
+created_at: Thu 12 Mar 2015 10:07:34 EST
 author: Carla Drago
 twitter: carlad
 layout: post
-permalink: 2015-03-09-travisci-supports-rgsoc
+permalink: 2015-03-12-travisci-supports-rgsoc
 ---
 
 Rails Girls Summer of Code has opened their
@@ -13,6 +13,8 @@ Rails Girls Summer of Code has opened their
 **Please join us in helping them support 20 sponsored students have an amazing
 summer, working on great
 [Open Source projects](https://github.com/rails-girls-summer-of-code/projects/issues).**
+
+[![Rails Girls Summer of Code](/images/2015-03-12-rgsoc.jpg)](http://railsgirlssummerofcode.org/campaign)
 
 For those who may not know, [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
 is a program that funds and supports women around the world to work full-time
@@ -60,4 +62,5 @@ Please find the RGSoC fundraising campaign
 [here](http://railsgirlssummerofcode.org/campaign)
 and more information about sponsors packages
 [here](http://railsgirlssummerofcode.org/sponsors/packages).
+
 
