@@ -29,7 +29,7 @@ Object Mapper.
 And Rails Girls Summer of Code works: over 90% of their alumnis are now working
 in a technology related position, most of them as developers.
 
-We think that is amazing work from an amazing community!
+We think this is amazing work from an amazing community!
 
 [Travis Foundation](http://foundation.travis-ci.org/), along with
 [GitHub](http://github.com), are partnering up to help make Rails Girls Summer
