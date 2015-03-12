@@ -56,8 +56,8 @@ want the software industry to be a great place for her to work by the time
 she’s old enough, if that’s what she chooses."* -- Mark Madsen, Founder,
 [AGiLE ANiMAL](http://agileanimal.com/)
 
-Please find their fundraising campaign
+Please find the RGSoC fundraising campaign
 [here](http://railsgirlssummerofcode.org/campaign)
-and more information about their sponsors packages
+and more information about sponsors packages
 [here](http://railsgirlssummerofcode.org/sponsors/packages).
 
