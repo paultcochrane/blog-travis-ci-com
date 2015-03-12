@@ -33,7 +33,7 @@ We think this is amazing work from an amazing community!
 
 [Travis Foundation](http://foundation.travis-ci.org/), along with
 [GitHub](http://github.com), are partnering up to help make Rails Girls Summer
-of Code happen.
+of Code happen again this year.
 
 Everyone who knows us well will know it's a project close to our hearts - not
 just for the significant contributions being made to software used by millions
