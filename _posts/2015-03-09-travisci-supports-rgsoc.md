@@ -11,7 +11,9 @@ Rails Girls Summer of Code has opened their
 [fundraising campaign](http://railsgirlssummerofcode.org/campaign) for 2015.
 
 **Please join us in supporting them to help 20 sponsored students have an amazing
-summer, working on Open Source projects for 3 months.**
+summer, working on great
+[Open Source projects](https://github.com/rails-girls-summer-of-code/projects/issues)
+for 3 months.**
 
 For those who may not know, [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
 is a program that funds and supports women around the world to work full-time
@@ -24,6 +26,9 @@ companies, and 451 individual donors have come together to make the Rails Girls
 Summer of Code happen. Some of the participating projects include: Rails,
 Sinatra, Rubinius, Bundler, Ruby Documentation, RailsAdmin, Lotus, and Ruby
 Object Mapper.
+
+And Rails Girls Summer of Code works: over 90% of their alumnis are now working
+in a technology related position, most of them as developers.
 
 We think that is amazing work from an amazing community!
 
