@@ -1,9 +1,9 @@
 ---
 title: Aly joins the Travis CI Team
-created_at: Fri Feb 27 02:40:58 UTC 2015
+created_at: Fri Mar 13 15:03:39 UTC 2015
 author: Dan Buch
 twitter: meatballhat
-permalink: 2015-02-27-aly-joins-the-travis-ci-team
+permalink: 2015-03-13-aly-joins-the-travis-ci-team
 layout: post
 ---
 <figure class="right small">
