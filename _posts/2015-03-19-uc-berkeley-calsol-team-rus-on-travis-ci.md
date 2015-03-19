@@ -2,6 +2,7 @@
 title: "UC Berkeley CalSol Team Runs on Travis CI"
 created_at: Thu 19 Mar 2015 08:00:00 EDT
 author: Christopher Ngyuen
+twitter: berkeleycalsol
 layout: post
 permalink: 2015-03-19-uc-berkeley-calsol-team-runs-on-travis-ci
 ---
@@ -14,7 +15,7 @@ to explore the future of engineering.
 
 <a href="https://www.flickr.com/photos/calsol/14559143237/"><img src="http://farm4.staticflickr.com/3872/14559143237_f7a110a64d_z.jpg"/></a>
 
-(Photos reproduced with permissions from the copyright holders)
+(Photos reproduced with permissions)
 
 -------------
 
