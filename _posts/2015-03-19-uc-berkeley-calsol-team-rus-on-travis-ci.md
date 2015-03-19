@@ -15,7 +15,7 @@ to explore the future of engineering.
 
 <a href="https://www.flickr.com/photos/calsol/14559143237/"><img src="http://farm4.staticflickr.com/3872/14559143237_f7a110a64d_z.jpg"/></a>
 
-(Photos reproduced with permissions)
+(Photos reproduced with permission)
 
 -------------
 
@@ -70,4 +70,4 @@ Long story short, we're now using Travis CI to build our code using the GCC ARM 
 
 We are very grateful to the crew at Travis CI for helping make our lives a little easier, and the job of making a winning solar racecar even more enjoyable.
 
-If you'd like to support CalSol, you can donate here http://give.berkeley.edu/fund/index.cfm?f=FU1032000
+If you'd like to support CalSol, you can donate here [http://give.berkeley.edu/fund/index.cfm?f=FU1032000](http://give.berkeley.edu/fund/index.cfm?f=FU1032000).
