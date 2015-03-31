@@ -14,9 +14,9 @@ addons](http://docs.travis-ci.com/user/apt/) that [enable more
 projects](2015-03-19-uc-berkeley-calsol-team-runs-on-travis-ci) to move to
 container-based.
 
-For those just learning of this, our container-based infrastructure is
-on Amazon EC2 with autoscaling and so promises short to nonexistent queue wait
-times, as well as offering better performance for most use cases.
+Our Container-based infrastructure has the benefit of being on Amazon EC2 with
+autoscaling and so promises short to nonexistent queue wait times, as well as
+offering better performance for most use cases.
 
 The next big step is to route *recently-activated Linux projects* to containers
 under the following conditions:
