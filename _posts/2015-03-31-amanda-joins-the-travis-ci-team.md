@@ -10,3 +10,11 @@ layout: post
   <img src="/images/amanda.jpg">
 </figure>
 
+It is a great honor to announce that Amanda is a part of the Travis team!
+
+Amanda lives in lovely Buffalo, NY, USA, known for its otherworldly snowfall,
+Niagara Falls, and close proximity to the mystical land known as "Canada".
+
+<figure>
+  <img src="/images/amandas-3d-printed-things.jpg">
+</figure>
