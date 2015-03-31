@@ -23,7 +23,8 @@ under the following conditions:
 
 * [No `sudo` usage is
   detected](https://github.com/travis-ci/travis-core/blob/7a360299c19011cbd3c0f2bf099a16600048e210/lib/travis/model/job/queue.rb#L44-L48)
-in any of the custom build stages
+in any of the custom build stages (we look for `sudo` or `ping` being used in
+any of your build stages)
 * The date of repo activation is [*after* a configured
   cutoff](https://github.com/travis-ci/travis-core/blob/7a360299c19011cbd3c0f2bf099a16600048e210/lib/travis/model/job/queue.rb#L88)
 
