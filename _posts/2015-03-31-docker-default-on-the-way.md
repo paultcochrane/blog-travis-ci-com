@@ -43,9 +43,8 @@ we're hoping to gradually adapt the available addons in response to feedback.
   <img src="/images/where-did-the-sudo-go.gif" />
 </figure>
 
-If you were depending on `sudo` and we didn't detect it, don't worry!
-
-If you really truly need `sudo`, there's a very simple way to get it back:
+If you were depending on `sudo` and we didn't detect it, don't worry! There's a
+very simple way to get it back:
 
 ``` yaml
 # Opt into fully virtualized infrastructure
