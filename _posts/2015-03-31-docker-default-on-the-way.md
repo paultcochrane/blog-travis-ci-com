@@ -51,9 +51,8 @@ very simple way to get it back:
 sudo: required
 ```
 
-That being said, we hope you will take a look at our [APT
-addon](http://docs.travis-ci.com/user/apt/) to see if it
-meets your needs.  
+That being said, we invite you to look at our [APT
+addon](http://docs.travis-ci.com/user/apt/) to see if it meets your needs.  
 
 If you have a use case that's not currently being addressed by an addon, please
 reach out to support@travis-ci.org.
