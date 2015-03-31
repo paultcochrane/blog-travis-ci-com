@@ -39,10 +39,6 @@ we're hoping to gradually adapt the available addons in response to feedback.
 
 ## Where did the `sudo` go?
 
-<figure class="right small">
-  <img src="/images/where-did-the-sudo-go.gif" />
-</figure>
-
 If you were depending on `sudo` and we didn't detect it, don't worry! There's a
 very simple way to get it back:
 
@@ -50,6 +46,10 @@ very simple way to get it back:
 # Opt into fully virtualized infrastructure
 sudo: required
 ```
+
+<figure class="right small">
+  <img src="/images/where-did-the-sudo-go.gif" />
+</figure>
 
 That being said, we invite you to look at our [APT
 addon](http://docs.travis-ci.com/user/apt/) to see if it meets your needs.  
