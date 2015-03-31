@@ -8,10 +8,10 @@ permalink: 2015-03-31-docker-default-on-the-way
 ---
 
 In recent months, we've made announcements about our [container-based
-infrastructure](2014-12-17-faster-builds-with-container-based-infrastructure) as
+infrastructure](/2014-12-17-faster-builds-with-container-based-infrastructure) as
 well as having hinted at the [existence of
 addons](http://docs.travis-ci.com/user/apt/) that [enable more
-projects](2015-03-19-uc-berkeley-calsol-team-runs-on-travis-ci) to move to
+projects](/2015-03-19-uc-berkeley-calsol-team-runs-on-travis-ci) to move to
 container-based.
 
 Our Container-based infrastructure has the benefit of being on Amazon EC2 with
