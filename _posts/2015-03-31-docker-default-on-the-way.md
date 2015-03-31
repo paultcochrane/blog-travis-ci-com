@@ -18,7 +18,7 @@ For those just learning of this, our container-based infrastructure is
 on Amazon EC2 with autoscaling and so promises short to nonexistent queue wait
 times, as well as offering better performance for most use cases.
 
-The next big step is to route *newly-activated Linux projects* to containers
+The next big step is to route *recently-activated Linux projects* to containers
 under the following conditions:
 
 * [No `sudo` usage is
