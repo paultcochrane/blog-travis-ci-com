@@ -1,10 +1,14 @@
 ---
 title: "Meet Trevor. A hybrid mobile app for Travis CI"
-created_at: Wed Apr 02 13:40:02 UTC 2015
+created_at: Mon Apr 06 13:40:02 UTC 2015
 author: Emmanouil Konstantinidis
 twitter: iamemmanouil
 layout: post
-permalink: 2015-04-01-meet-trevor-hybrid-app
+permalink: 2015-04-06-meet-trevor-hybrid-app
+---
+
+This is a guest blog post by [Emmanouil Konstantinidis](https://github.com/ekonstantinidis), the author of Trevor.
+
 ---
 
 [Trevor](http://www.trevorapp.com/) is a mobile app that brings Travis CI to your phone and tablet. You can download it for **free** from the [App Store](http://itunes.apple.com/app/id962155187) and [Google Play](http://play.google.com/store/apps/details?id=com.iamemmanouil.trevor). It is a hybrid app based on [Ionic Framework](http://www.ionicframework.com/) that utilizes the amazing [Travis CI API](http://docs.travis-ci.com/api/).
