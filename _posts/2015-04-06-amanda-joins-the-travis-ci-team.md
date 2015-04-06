@@ -31,8 +31,8 @@ that she and her husband Nick ([@qrush](https://twitter.com/qrush)) headed up
 [Nickel City Ruby](http://nickelcityruby.com/) in 2013 and 2014 (2016 NCRC:
 Language Agnostic Edition coming soon?!?!)
 
-Lastly, it must be known that Amanda really loves Dr. Who, and has a mini
-3D-printed Tardis on her desk (alongside her 3D-printed buffalo).
+Pro Tip™:  Amanda really loves Dr. Who, and has a mini 3D-printed Tardis on her
+desk (alongside her 3D-printed buffalo).
 
 <figure>
   <img src="/images/amandas-3d-printed-things.jpg">
