@@ -1,6 +1,6 @@
 ---
 title: Amanda joins the Travis CI Team
-created_at: Mon Apr  6 14:12:24 UTC 2015
+created_at: Mon Apr  6 18:44:45 UTC 2015
 author: Dan Buch
 twitter: meatballhat
 permalink: 2015-04-06-amanda-joins-the-travis-ci-team
