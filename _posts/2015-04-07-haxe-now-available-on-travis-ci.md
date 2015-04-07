@@ -10,7 +10,7 @@ permalink: 2015-04-07-haxe-now-available-on-travis-ci
 Travis CI is gaining popularity among [Haxe](http://haxe.org/) programmers.
 [Andy Li](https://github.com/andyli),
 [Cauê Waneck](https://github.com/waneck),
-and [https://github.com/waneck](https://github.com/Simn)
+and [Simon Krajewski](https://github.com/Simn)
 have stepped up to the plate to give you
 Haxe support on Travis CI as our latest addition to
 the growing list of community-supported languages.
