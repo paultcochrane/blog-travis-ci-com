@@ -1,10 +1,10 @@
 ---
 title: "Just Duke It!"
-created_at: Thursday April 2 2015 08:22:00 CEDT
+created_at: Thursday April 8 2015 08:22:00 CEDT
 author: Justine Arreche
 twitter: saltinejustine
 layout: post
-permalink: 2015-04-02-just-duke-it
+permalink: 2015-04-08-just-duke-it
 ---
 
 <figure class="right small">
