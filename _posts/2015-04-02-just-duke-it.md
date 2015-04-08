@@ -1,6 +1,6 @@
 ---
 title: "Just Duke It!"
-created_at: Wednesday April 8 2015 10:22:00 CEDT
+created_at: Wed Apr 8 2015 10:22:00 CET
 author: Justine Arreche
 twitter: saltinejustine
 layout: post
