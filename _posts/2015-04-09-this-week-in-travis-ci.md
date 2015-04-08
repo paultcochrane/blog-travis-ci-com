@@ -52,7 +52,8 @@ Currently in early alpha stage, this setup is showing some promising results so 
 
 ## Rails Girls Summer of Code
 [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/) returns for the third straight year.
-[Anika Lindtner](https://twitter.com/langziehohr), [Sven Fuchs](https://twitter.com/svenfuchs)
+[Anika Lindtner](https://twitter.com/langziehohr), [Sven Fuchs](https://twitter.com/svenfuchs),
+[Laura Gaetano](https://twitter.com/alicetragedy),
 and [Sara Regan](https://twitter.com/sareg0)
 are hard at work to make this another smashing success.
 
