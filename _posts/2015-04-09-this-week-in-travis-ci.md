@@ -22,6 +22,11 @@ The overall theme is flatter; the focus of these updates to make
 information easier to find, along with some eye candies like favicon (sorry, Safari users, you won't see them)
 which changes according to the build/job's status.
 
+We have also beefed up the landing page.
+If you are logged in, please sign out, and see it for yourself!
+
+![](/images/landing-page.png)
+
 These changes are great on their own merit, but we are not done yet.
 These lay foundations for future updates we have planned.
 
