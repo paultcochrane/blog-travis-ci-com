@@ -38,12 +38,24 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
     </script>
+    <script>
+      $(document).on('ready', function() {
+        $('#burger').on('click', function(ev) {
+          ev.preventDefault();
+          $('#navigation').toggleClass('is-open');
+        });
+      });
+    </script>
   </head>
   <body>
-    <div id="top">
+    <header id="top" class="topbar">
       <div class="wrapper">
         {% include logo.html %}
-        <ul id="navigation">
+
+        <div class="burger">
+          <button type="button" id="burger" class="burger-btn" {{action 'toggleBurgerMenu'}}>&equiv;</button>
+        </div>
+        <ul id="navigation" class="navigation">
           <li><a href="http://blog.travis-ci.com">Blog</a></li>
           <li><a href="https://twitter.com/travisci">Twitter</a></li>
           <li><a href="http://docs.travis-ci.com">Docs</a></li>
@@ -51,7 +63,7 @@
           <li class="right"><a href="http://travis-ci.com">Travis Pro</a></li>
         </ul>
       </div>
-    </div>
+    </header>
 
     <div id="main">
       <div id="blog">
