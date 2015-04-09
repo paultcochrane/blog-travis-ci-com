@@ -10,7 +10,7 @@ permalink: 2015-04-09-this-week-in-travis-ci
 Things are moving fast at Travis CI.
 
 Some changes are visible (six(!) new members of our growing team
-and the UI improvements--more on this below), and some are not so visible (like emphasis on
+and the UI improvements — more on this below), and some are not so visible (like emphasis on
 the new container-based infrastructure, and behind-the-scenes API improvements).
 
 We want to let you know what Travis CI is up to with these
@@ -20,7 +20,7 @@ regular updates.
 You have undoubtedly noticed the recent changes to our web pages.
 The overall theme is flatter; the focus of these updates to make
 information easier to find, along with some eye candies like favicon (sorry, Safari users, you won't see them)
-which changes according to the build/job's status.
+which changes according to the build/job’s status.
 
 We have also beefed up the landing page.
 If you are logged in, please sign out, and see it for yourself!
@@ -67,27 +67,27 @@ While MySQL 5.6 brings you many new features, if you need to stay on 5.5, be sur
 given in the announcement above.
 
 ## State of the Mac infrastructure
-You might be wondering, "What about the Mac?"
-I'm glad you asked!
+You might be wondering, “What about the Mac?”
+I’m glad you asked!
 
 We are in the process of investing in a new Mac cloud infrastructure that brings us,
 and you, some great features and improvements.
 
-Our current focus is not just on stability, but the ability to offer our users a
-faster turnaround for the new Mac images.
+Our current focus is not just on stability, but also the ability to offer our users a
+faster turnaround for new Mac images.
 
 We are working hard with our infrastructure partner to make this all possible,
 just at a time when Apple has been releasing Xcode betas and updates to the
 Swift programming language.
 
-We are have been conducting a beta test with Xcode 6.2 on the new Mac cloud.
+We have been conducting a beta test with Xcode 6.2 on the new Mac cloud.
 These beta testers have helped us identify and fix some important issues, and
-for this we can't thank them enough!
+for this we can’t thank them enough!
 
 The capacity is limited for the beta testing, so we are unable to add more users
 to it while we bring more capacity online.
 
-As for Xcode 6.3, due to it requiring OSX 10.10.3, we hope to have good news next week.
+As for Xcode 6.3, due to it requiring OS X 10.10, we hope to have good news next week.
 Watch this space!
 
 We appreciate your understanding on this issue, and thanks for being awesome.
