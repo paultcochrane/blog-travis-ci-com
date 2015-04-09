@@ -66,6 +66,32 @@ the highlight is MySQL 5.6, provided by Ubuntu packages from [dev.mysql.com](htt
 While MySQL 5.6 brings you many new features, if you need to stay on 5.5, be sure to follow the instructions
 given in the announcement above.
 
+## State of the Mac infrastructure
+You might be wondering, "What about the Mac?"
+I'm glad you asked!
+
+We are in the process of investing in a new Mac cloud infrastructure that brings us,
+and you, some great features and improvements.
+
+Our current focus is not just on stability, but the ability to offer our users a
+faster turnaround for the new Mac images.
+
+We are working hard with our infrastructure partner to make this all possible,
+just at a time when Apple has been releasing Xcode betas and updates to the
+Swift programming language.
+
+We are have been conducting a beta test with Xcode 6.2 on the new Mac cloud.
+These beta testers have helped us identify and fix some important issues, and
+for this we can't thank them enough!
+
+The capacity is limited for the beta testing, so we are unable to add more users
+to it while we bring more capacity online.
+
+As for Xcode 6.3, due to it requiring OSX 10.10.3, we hope to have good news next week.
+Watch this space!
+
+We appreciate your understanding on this issue, and thanks for being awesome.
+
 ## Miscellaneous bug fixes and new features
 These don't merit special mentions or a separate blog post, but are interesting nonetheless.
 
