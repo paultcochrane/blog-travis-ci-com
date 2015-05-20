@@ -30,6 +30,4 @@ milk, which she did. If this reminds you of [Joey on
 Friends](http://giphy.com/gifs/friends-milk-joey-tribbiani-TsMnvSsfKzThu),
 that's because Lisa was his inspiration.
 
-You should follow [Lisa](https://twitter.com/lisapassing) on the Twitters.
-
 Welcome, Lisa!
