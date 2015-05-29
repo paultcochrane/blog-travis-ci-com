@@ -18,7 +18,7 @@ Last week, we began gradually routing Mac builds to the new setup, starting with
 random 10% of the incoming jobs.
 This was increased everyday while we monitor the performance and for any problems encountered.
 
-As of today (2015-05-29), all our Mac builds are running on the new infrastructure.
+As of May 26, 2015, all our Mac builds are running on the new infrastructure.
 
 The switch to the new platform should be invisible to you for the most part.
 When your job is running on the new infrastructure, the VM's name is shown like this:
