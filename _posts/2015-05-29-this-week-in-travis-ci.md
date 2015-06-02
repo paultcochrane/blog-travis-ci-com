@@ -1,7 +1,7 @@
 ---
 title: "This Week in Travis CI — May 29th, 2015"
 created_at: Fri 29 May 2015 09:13:02 EDT
-author: Hior Asari
+author: Hiro Asari
 twitter: hiro_asari
 layout: post
 permalink: 2015-05-29-this-week-in-travis-ci
