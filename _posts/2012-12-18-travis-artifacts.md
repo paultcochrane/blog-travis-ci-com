@@ -7,6 +7,12 @@ twitter: drogus
 permalink: /2012-12-18-travis-artifacts
 ---
 
+UPDATE:
+
+We've introduced a new method of using artifacts, please see our docs for an 
+up to date instructions:
+[http://docs.travis-ci.com/user/uploading-artifacts/](http://docs.travis-ci.com/user/uploading-artifacts/)
+
 TL;DR Travis prepares a solution to easily upload files produced while
 running tests to any external storage service. If you want to test it,
 you can go straight to [install instructions](#How-to-use%3F).
