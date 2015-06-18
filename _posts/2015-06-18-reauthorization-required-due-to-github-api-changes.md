@@ -26,6 +26,11 @@ to continue providing our service without any interruption. We've also been
 working on changes to our synchronization with the GitHub API to make sure we're
 prepared for the upcoming changes.
 
+**As a customer, please make sure to go to <https://magnum.travis-ci.com> until
+next Wednesday, June 24st, and go through the authorization workflow.** You should be taken
+through the process automatically, as we check for the correct OAuth scopes, but
+if you're not, please make sure to log out and back in again.
+
 ### Why is re-authorization required?
 
 As part of the changes, a new scope was required to access certain
