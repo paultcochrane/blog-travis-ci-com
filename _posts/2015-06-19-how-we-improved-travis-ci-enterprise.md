@@ -43,7 +43,7 @@ an ever-growing list of things we want to improve around making it easier to
 ship and maintain Travis CI Enterprise for our customers.
 
 Just around the time we started planning and prioritizing some of the open
-issues, we were introduced to [Replicated](https://replicated.com), a new
+issues, we were introduced to [Replicated](http://replicated.com), a new
 product that gives SaaS products like ours a platform to easily build and deploy
 an on-premises version.
 
