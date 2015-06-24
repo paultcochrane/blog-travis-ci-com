@@ -1,21 +1,24 @@
 ---
 title: Brandon joins the Travis CI Team
-created_at: Wed Jun 17 17:58:30 UTC 2015
+created_at: Wed Jun 24 13:13:55 EDT 2015
 author: Dan Buch
 twitter: meatballhat
-permalink: 2015-06-17-brandon-joins-the-travis-ci-team
+permalink: 2015-06-24-brandon-joins-the-travis-ci-team
 layout: post
 ---
 <figure class="right small">
   <img src="/images/brandon.jpg">
 </figure>
 
-Brandon lives in sunny Los Angeles, with his wife, kids, and a puggle named
+I'm thrilled and honored to announce that Brandon Burton has chosen to join the
+Travis CI Team!
+
+Brandon lives in sunny Los Angeles with his wife, kids, and a puggle named
 Sadie who ensures that no crumbs are left behind.
 
 He's a self described life long computer geek, who found he enjoyed building
 servers with Linux in High School and has been doing systems administration and
-operations engineering professionally since 2005. Having worked in and on
+operations engineering professionally since 2005.  Having worked in and on
 production environments ranging from single servers to corporate offices to
 managing websites serving the needs of 500+ million users and using AWS for
 production systems since 2009, he's seen the upsides and downsides of
@@ -30,3 +33,9 @@ Advent blogging series](http://awsadvent.tumblr.com).
 When he's not doing technical stuff or tweeting Adventure Time GIFs, he's
 usually grilling for his family, reading *all the* scifi/fantasy books, or
 napping.
+
+Please join me in welcoming Brandon, whether via
+[Twitter](https://twitter.com/solarce), [Travis CI Support
+chat](https://chat.travis-ci.com), or bread cat.
+
+<img src="/images/bread-cat-panic.gif">
