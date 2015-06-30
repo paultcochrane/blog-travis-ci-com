@@ -3,6 +3,7 @@ title: Storage Strategies and Continuous Integration
 permalink: /2015-04-14-storage-strategies-and-continuous-integration
 layout: post
 created_at: Mon 29 Jun 2015 15:05:00 CEST
+author: Benjamin Kisliuk
 ---
 
 This is a guest blog post by Benjamin Kisliuk.
