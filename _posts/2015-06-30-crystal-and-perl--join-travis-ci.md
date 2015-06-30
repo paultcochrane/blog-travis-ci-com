@@ -20,10 +20,10 @@ automatic union types, and Ruby-like syntax, allowing quick prototyping and gene
 It provides a Garbage Collector, uses LLVM as its backend, and doesn’t run on a Virtual Machine.
 
 Support for Crystal is provided by
-Ary Borenszweig(https://github.com/asterite),
-Jonne Haß(https://github.com/jhass),
-Juan Wajnerman (https://github.com/waj), and
-Will Leinweber (https://github.com/will).
+[Ary Borenszweig](https://github.com/asterite),
+[Jonne Haß](https://github.com/jhass),
+[Juan Wajnerman](https://github.com/waj), and
+[Will Leinweber](https://github.com/will).
 
 
 
