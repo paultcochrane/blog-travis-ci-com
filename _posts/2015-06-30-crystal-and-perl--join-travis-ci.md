@@ -44,6 +44,9 @@ and [Tony ODell](https://github.com/tony-o).
 
 -------------------
 
+More detailed documentation is available for [Crystal](http://docs.travis-ci.com/user/languages/crystal/)
+and [Perl 6](http://docs.travis-ci.com/user/languages/perl6/).
+
 Happy Testing!
 
 Travis CI Team
