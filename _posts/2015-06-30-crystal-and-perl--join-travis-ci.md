@@ -31,16 +31,16 @@ Support for Crystal is provided by
 
 ![Camelia, the Perl 6 bug](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Camelia.svg/320px-Camelia.svg.png)
 
-[Perl 6](http://perl6.org/) is an updated to Perl.
-With a release candicate expected in September and
-the first release by December, it is a great time to
-start testing your Perl 6 programs.
+[Perl 6](http://perl6.org/) is the next generation in the family of Perl
+programming languages, and a sister language to the well-established Perl 5.
+With a release candidate expected in September, and the first release by
+December, it's a great time to start testing your Perl 6 programs.
 
 The Perl 6 support is provided by
 [Paul Cochrane](https://github.com/paultcochrane),
 [Rob Hoelz](https://github.com/hoelzro),
 [Nick Logan](https://github.com/ugexe),
-and [Tony ODell](https://github.com/tony-o).
+and [Tony O'Dell](https://github.com/tony-o).
 
 -------------------
 
